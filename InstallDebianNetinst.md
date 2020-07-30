@@ -8,11 +8,9 @@
 
 # Installing Debian NetInst (guest) on VirtualBox
 
+<img src="pictures/B-OSP-01.jpg"  width="960">
+
 <img src="pictures/B-OSP-02.jpg"  width="960">
-
-<img src="pictures/B-OSP-03.jpg"  width="960">
-
-<img src="pictures/B-OSP-04.jpg"  width="960">
 
 <img src="pictures/B-OSP-05.jpg"  width="960">
 

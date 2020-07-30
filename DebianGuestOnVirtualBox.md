@@ -62,7 +62,7 @@
   * **OSPD104** = Operating System Programming with Debian 10.4
   * Memory = 1 GB
   * Storage = 8 GB (dynamically allocated)
-  *
+  * NAT from host (127.0.0.1 port 6022) to guest (10.0.2.15 port 22)
 
 <img src="pictures/A-OSP-18.jpg"  width="960">
 
@@ -107,4 +107,6 @@
 <img src="pictures/A-OSP-39.jpg"  width="960">
 
 <img src="pictures/A-OSP-40.jpg"  width="960">
+
+<img src="pictures/A-OSP-41.jpg"  width="960">
 
