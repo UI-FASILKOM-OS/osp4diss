@@ -23,8 +23,6 @@
 
   * Single Partition/No swap partition
 
-  *
-
 <img src="pictures/B-OSP-01.jpg"  width="960">
 
 <img src="pictures/B-OSP-02.jpg"  width="960">
