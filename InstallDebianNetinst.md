@@ -6,7 +6,7 @@
 [WEB](https://osp4diss.vlsm.org/)
 [GITHUB](https://github.com/UF-FASILKOM-UI/osp4diss/)
 
-# URLS
+# Installing Debian NetInst (guest) on VirtualBox
 
 <img src="pictures/A-OSP-03.jpg"  width="960">
 

@@ -8,7 +8,7 @@
 
 # URLS
 
-* [Installing Debian Netinst on VirtualBox](InstallDebianNetinst.html)
+* [Installing Debian Netinst (guest) on VirtualBox](InstallDebianNetinst.html)
 * [XX2](xx2.html)
 
 
