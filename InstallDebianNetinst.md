@@ -8,6 +8,23 @@
 
 # Installing Debian NetInst (guest) on VirtualBox
 
+<br>
+## Configs
+
+* You should adjust these following according to your own belief and faith.
+
+  * Hostmane: osp
+
+  * Domain: none
+
+  * UserName/Account/Pas: OSP/osp/osp
+
+  * Root/Pas: root/osp
+
+  * Single Partition/No swap partition
+
+  *
+
 <img src="pictures/B-OSP-01.jpg"  width="960">
 
 <img src="pictures/B-OSP-02.jpg"  width="960">
@@ -88,7 +105,9 @@
 
 <img src="pictures/B-OSP-42.jpg"  width="960">
 
-<img src="pictures/B-OSP-43.jpg"  width="960">
+<img src="pictures/B-OSP-43a.jpg"  width="960">
+
+<img src="pictures/B-OSP-43b.jpg"  width="960">
 
 <img src="pictures/B-OSP-44.jpg"  width="960">
 
