@@ -4,7 +4,7 @@
 [INDEX](index.md)
 [README](README.md)
 [WEB](https://osp4diss.vlsm.org/)
-[GITHUB](https://github.com/UF-FASILKOM-UI/osp4diss/)
+[GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 
 # URLS
 

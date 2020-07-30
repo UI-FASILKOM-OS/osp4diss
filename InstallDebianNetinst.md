@@ -4,137 +4,103 @@
 [INDEX](index.md)
 [README](README.md)
 [WEB](https://osp4diss.vlsm.org/)
-[GITHUB](https://github.com/UF-FASILKOM-UI/osp4diss/)
+[GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 
 # Installing Debian NetInst (guest) on VirtualBox
 
-<img src="pictures/A-OSP-03.jpg"  width="960">
+<img src="pictures/B-OSP-02.jpg"  width="960">
 
-<img src="pictures/A-OSP-04.jpg"  width="960">
+<img src="pictures/B-OSP-03.jpg"  width="960">
 
-<img src="pictures/A-OSP-05.jpg"  width="960">
+<img src="pictures/B-OSP-04.jpg"  width="960">
 
-<img src="pictures/A-OSP-06.jpg"  width="960">
+<img src="pictures/B-OSP-05.jpg"  width="960">
 
-<img src="pictures/A-OSP-08.jpg"  width="960">
+<img src="pictures/B-OSP-06.jpg"  width="960">
 
-<img src="pictures/A-OSP-09.jpg"  width="960">
+<img src="pictures/B-OSP-07.jpg"  width="960">
 
-<img src="pictures/A-OSP-10.jpg"  width="960">
+<img src="pictures/B-OSP-08.jpg"  width="960">
 
-<img src="pictures/A-OSP-11.jpg"  width="960">
+<img src="pictures/B-OSP-09.jpg"  width="960">
 
-<img src="pictures/A-OSP-12.jpg"  width="960">
+<img src="pictures/B-OSP-10.jpg"  width="960">
 
-<img src="pictures/A-OSP-13.jpg"  width="960">
+<img src="pictures/B-OSP-11.jpg"  width="960">
 
-<img src="pictures/A-OSP-14.jpg"  width="960">
+<img src="pictures/B-OSP-12.jpg"  width="960">
 
-<img src="pictures/A-OSP-15.jpg"  width="960">
+<img src="pictures/B-OSP-13.jpg"  width="960">
 
-<img src="pictures/A-OSP-16.jpg"  width="960">
+<img src="pictures/B-OSP-14.jpg"  width="960">
 
-<img src="pictures/A-OSP-17.jpg"  width="960">
+<img src="pictures/B-OSP-15.jpg"  width="960">
 
-<img src="pictures/A-OSP-18.jpg"  width="960">
+<img src="pictures/B-OSP-16.jpg"  width="960">
 
-<img src="pictures/A-OSP-19.jpg"  width="960">
+<img src="pictures/B-OSP-17.jpg"  width="960">
 
-<img src="pictures/A-OSP-20.jpg"  width="960">
+<img src="pictures/B-OSP-18.jpg"  width="960">
 
-<img src="pictures/A-OSP-21.jpg"  width="960">
+<img src="pictures/B-OSP-19.jpg"  width="960">
 
-<img src="pictures/A-OSP-22.jpg"  width="960">
+<img src="pictures/B-OSP-20.jpg"  width="960">
 
-<img src="pictures/A-OSP-23.jpg"  width="960">
+<img src="pictures/B-OSP-21.jpg"  width="960">
 
-<img src="pictures/A-OSP-24.jpg"  width="960">
+<img src="pictures/B-OSP-22.jpg"  width="960">
 
-<img src="pictures/A-OSP-25.jpg"  width="960">
+<img src="pictures/B-OSP-23.jpg"  width="960">
 
-<img src="pictures/A-OSP-26.jpg"  width="960">
+<img src="pictures/B-OSP-24.jpg"  width="960">
 
-<img src="pictures/A-OSP-27.jpg"  width="960">
+<img src="pictures/B-OSP-25.jpg"  width="960">
 
-<img src="pictures/A-OSP-28.jpg"  width="960">
+<img src="pictures/B-OSP-26.jpg"  width="960">
 
-<img src="pictures/A-OSP-29.jpg"  width="960">
+<img src="pictures/B-OSP-27.jpg"  width="960">
 
-<img src="pictures/A-OSP-30.jpg"  width="960">
+<img src="pictures/B-OSP-28.jpg"  width="960">
 
-<img src="pictures/A-OSP-31.jpg"  width="960">
+<img src="pictures/B-OSP-29.jpg"  width="960">
 
-<img src="pictures/A-OSP-32.jpg"  width="960">
+<img src="pictures/B-OSP-30.jpg"  width="960">
 
-<img src="pictures/A-OSP-33.jpg"  width="960">
+<img src="pictures/B-OSP-31.jpg"  width="960">
 
-<img src="pictures/A-OSP-34.jpg"  width="960">
+<img src="pictures/B-OSP-32.jpg"  width="960">
 
-<img src="pictures/A-OSP-35.jpg"  width="960">
+<img src="pictures/B-OSP-33.jpg"  width="960">
 
-<img src="pictures/A-OSP-36.jpg"  width="960">
+<img src="pictures/B-OSP-34.jpg"  width="960">
 
-<img src="pictures/A-OSP-37.jpg"  width="960">
+<img src="pictures/B-OSP-35.jpg"  width="960">
 
-<img src="pictures/A-OSP-38.jpg"  width="960">
+<img src="pictures/B-OSP-36.jpg"  width="960">
 
+<img src="pictures/B-OSP-37.jpg"  width="960">
 
----
----
+<img src="pictures/B-OSP-38.jpg"  width="960">
 
-[INDEX](index.md)
-[README](README.md)
-[WEB](https://osp4diss.vlsm.org/)
-[GITHUB](https://github.com/UF-FASILKOM-UI/osp4diss/)
+<img src="pictures/B-OSP-39.jpg"  width="960">
 
-# URLS
+<img src="pictures/B-OSP-30.jpg"  width="960">
 
+<img src="pictures/B-OSP-41.jpg"  width="960">
 
-B-OSP-02.jpg
-B-OSP-03.jpg
-B-OSP-04.jpg
-B-OSP-05.jpg
-B-OSP-06.jpg
-B-OSP-07.jpg
-B-OSP-08.jpg
-B-OSP-09.jpg
-B-OSP-10.jpg
-B-OSP-11.jpg
-B-OSP-12.jpg
-B-OSP-13.jpg
-B-OSP-14.jpg
-B-OSP-15.jpg
-B-OSP-16.jpg
-B-OSP-17.jpg
-B-OSP-18.jpg
-B-OSP-19.jpg
-B-OSP-20.jpg
-B-OSP-21.jpg
-B-OSP-22.jpg
-B-OSP-23.jpg
-B-OSP-24.jpg
-B-OSP-25.jpg
-B-OSP-26.jpg
-B-OSP-27.jpg
-B-OSP-28.jpg
-B-OSP-29.jpg
-B-OSP-30.jpg
-B-OSP-31.jpg
-B-OSP-32.jpg
-B-OSP-33.jpg
-B-OSP-34.jpg
-B-OSP-35.jpg
-B-OSP-36.jpg
-B-OSP-37.jpg
-B-OSP-38.jpg
-B-OSP-39.jpg
-B-OSP-40.jpg
-B-OSP-41.jpg
-B-OSP-42.jpg
-B-OSP-43.jpg
-B-OSP-44.jpg
-B-OSP-45.jpg
-B-OSP-46.jpg
-B-OSP-47.jpg
-B-OSP-48.jpg
-B-OSP-49.jpg
+<img src="pictures/B-OSP-42.jpg"  width="960">
+
+<img src="pictures/B-OSP-43.jpg"  width="960">
+
+<img src="pictures/B-OSP-44.jpg"  width="960">
+
+<img src="pictures/B-OSP-45.jpg"  width="960">
+
+<img src="pictures/B-OSP-46.jpg"  width="960">
+
+<img src="pictures/B-OSP-47.jpg"  width="960">
+
+<img src="pictures/B-OSP-48.jpg"  width="960">
+
+<img src="pictures/B-OSP-49.jpg"  width="960">
+
