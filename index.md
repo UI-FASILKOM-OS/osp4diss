@@ -8,17 +8,7 @@
 
 # URLS
 
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
-|     |     |     |     |
-|     |     |     |     |
-| AAA | BBB | CCC | DDD |
+* [Installing Debian Netinst on VirtualBox](InstallDebianNetinst.html)
+* [XX2](xx2.html)
+
 
