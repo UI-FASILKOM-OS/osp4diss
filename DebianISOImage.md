@@ -9,13 +9,19 @@
 # Downloading Debian Netinst with Free Download Manager
 
 <br>
-## URL: [https://www.debian.org/CD/netinst/](https://www.debian.org/CD/netinst/)
+## URL: [https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/)
 
 ### debian-10.4.0-amd64-netinst.iso
 
+<img src="pictures/D-OSP-01.jpg"  width="960">
+
+<br>
+## Runing Free Download Manager
+
 <img src="pictures/D-OSP-00.jpg"  width="960">
 
-<img src="pictures/D-OSP-01.jpg"  width="960">
+<br>
+## Download: [https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-10.4.0-amd64-netinst.iso](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-10.4.0-amd64-netinst.iso)
 
 <img src="pictures/D-OSP-02.jpg"  width="960">
 
@@ -25,3 +31,5 @@
 
 <img src="pictures/D-OSP-05.jpg"  width="960">
 
+<br>
+## DONE!
