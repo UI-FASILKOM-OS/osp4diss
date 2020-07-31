@@ -9,7 +9,7 @@
 # URLS
 
 * [Installing Free Download Manager (FDM)](InstallFDM.html)
-* [Installing X1](X1.html)
+* [Downloading Debian ISO Image](DebianISOImage.html)
 * [Creating a Debian Guest on VirtualBox](DebianGuestOnVirtualBox.html)
 * [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.html)
 
