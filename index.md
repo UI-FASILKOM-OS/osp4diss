@@ -8,7 +8,8 @@
 
 # URLS
 
-* [Installing Free Download Manager](InstallFDM.html)
+* [Installing Free Download Manager (FDM)](InstallFDM.html)
+* [Installing X1](X1.html)
 * [Creating a Debian Guest on VirtualBox](DebianGuestOnVirtualBox.html)
 * [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.html)
 
