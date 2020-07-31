@@ -7,7 +7,11 @@
 [WEB](https://osp4diss.vlsm.org/)
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 
-```
-Coming Soon
-```
+I am sorry, the term "**For Dummies**" is already taken.
+Therefore, this is "4DISS".
+What is "4DISS"?
+I do not know!
+Do you?
+
+Jolan Tru!
 
