@@ -8,6 +8,8 @@
 
 # Importing a Debian Guest In OVA Format
 
+You might want to keep **OSPD104** as a backup, and using **OSPD104a** for daily usage.
+
 <img src="pictures/F-OSP-05.jpg"  width="960">
 
 <img src="pictures/F-OSP-06.jpg"  width="960">
