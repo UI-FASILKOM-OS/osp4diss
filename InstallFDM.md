@@ -1,12 +1,15 @@
 ---
 ---
 
-[INDEX](index.md)
-[README](README.md)
+[HOME](index.md)
+[ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 
 # The Free Download Manager (FDM)
+
+Use this Free Download Manager if your internet link is slow and less reliable.
+Otherwise, download with a regular browser like Firefox.
 
 <br>
 ## Downloading FDM
@@ -42,4 +45,7 @@
 
 <img src="pictures/C-OSP-08.jpg"  width="960">
 
+<br>
+<hr>
+<br>
 

@@ -1,8 +1,8 @@
 ---
 ---
 
-[INDEX](index.md)
-[README](README.md)
+[HOME](index.md)
+[ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 
@@ -109,4 +109,8 @@
 <img src="pictures/A-OSP-40.jpg"  width="960">
 
 <img src="pictures/A-OSP-41.jpg"  width="960">
+
+<br>
+<hr>
+<br>
 
