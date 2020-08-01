@@ -12,6 +12,8 @@
 * [Downloading Debian ISO Image](DebianISOImage.html)
 * [Downloading and Installing VirtualBox](InstallVirtualBox.html)
 * [Creating a Debian Guest on VirtualBox](DebianGuestOnVirtualBox.html)
+* [Exporting Debian Guest in OVA format](DebianGuestExportOva.html)
+* [Importing Debian Guest with a different Name](DebianGuestImportOva.html)
 * [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.html)
 
 <br>
