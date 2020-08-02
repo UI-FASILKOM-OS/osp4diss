@@ -16,6 +16,7 @@
 * [Importing Debian Guest with a different Name](DebianGuestImportOva.html)
 * [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.html)
 * [Export Import Guests](ExportImportGuests.html)
+* [Update Debian](UpdateDebian.html)
 
 <br>
 <hr>
