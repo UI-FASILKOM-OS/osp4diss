@@ -5,32 +5,38 @@
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
+[TOP](#)
+[BOTTOM](#endofpage)
 
-# Update
+# Update Debian
 
-<img src="pictures/H-OSP-00.jpg"  width="960">
-
-<img src="pictures/H-OSP-01.jpg"  width="960">
-
-<img src="pictures/H-OSP-02.jpg"  width="960">
-
-<img src="pictures/H-OSP-03.jpg"  width="960">
-
-<img src="pictures/H-OSP-04.jpg"  width="960">
-
-<img src="pictures/H-OSP-05.jpg"  width="960">
-
-<img src="pictures/H-OSP-06.jpg"  width="960">
-
-<img src="pictures/H-OSP-07.jpg"  width="960">
+```
+ssh -p 6022 osp@localhost
+```
 
 <img src="pictures/H-OSP-08.jpg"  width="960">
 
+```
+# You need the "root" password
+su -
+apt-get update;
+```
+
 <img src="pictures/H-OSP-09.jpg"  width="960">
+
+```
+apt-get update; apt-get dist-upgrade -y;
+```
 
 <img src="pictures/H-OSP-10.jpg"  width="960">
 
-<img src="pictures/H-OSP-11.jpg"  width="960">
-
-<img src="pictures/H-OSP-12.jpg"  width="960">
+<br>
+#### ENDOFPAGE
+[HOME](index.md)
+[ABOUT](README.md)
+[WEB](https://osp4diss.vlsm.org/)
+[GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
+[TOP](#)
+[BOTTOM](#endofpage)
+<br>
 
