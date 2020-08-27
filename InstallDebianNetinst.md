@@ -5,6 +5,10 @@
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
+[TOP](#)
+[BOTTOM](#endofpage)
+[PREV](index.md)
+[NEXT](index.md)
 
 # Installing Debian NetInst (guest) on VirtualBox
 
@@ -257,6 +261,14 @@ You might rename **OSPD104a** to whatever.
 # DONE
 
 <br>
-<hr>
+#### ENDOFPAGE
+[HOME](index.md)
+[ABOUT](README.md)
+[WEB](https://osp4diss.vlsm.org/)
+[GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
+[TOP](#)
+[BOTTOM](#endofpage)
+[PREV](index.md)
+[NEXT](index.md)
 <br>
 

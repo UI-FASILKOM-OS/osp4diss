@@ -5,6 +5,10 @@
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
+[TOP](#)
+[BOTTOM](#endofpage)
+[PREV](index.md)
+[NEXT](index.md)
 
 # Importing a Debian Guest In OVA Format
 
@@ -25,6 +29,14 @@ You might want to keep **OSPD104** as a backup, and using **OSPD104a** for daily
 # DONE!
 
 <br>
-<hr>
+#### ENDOFPAGE
+[HOME](index.md)
+[ABOUT](README.md)
+[WEB](https://osp4diss.vlsm.org/)
+[GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
+[TOP](#)
+[BOTTOM](#endofpage)
+[PREV](index.md)
+[NEXT](index.md)
 <br>
 

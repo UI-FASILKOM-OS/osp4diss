@@ -5,6 +5,10 @@
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
+[TOP](#)
+[BOTTOM](#endofpage)
+[PREV](index.md)
+[NEXT](index.md)
 
 # Export Import Guests
 
@@ -34,6 +38,14 @@
 # DONE
 
 <br>
-<hr>
+#### ENDOFPAGE
+[HOME](index.md)
+[ABOUT](README.md)
+[WEB](https://osp4diss.vlsm.org/)
+[GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
+[TOP](#)
+[BOTTOM](#endofpage)
+[PREV](index.md)
+[NEXT](index.md)
 <br>
 

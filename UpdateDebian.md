@@ -7,6 +7,8 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
+[PREV](index.md)
+[NEXT](index.md)
 
 # Update Debian
 
@@ -38,5 +40,7 @@ apt-get update; apt-get dist-upgrade -y;
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
+[PREV](index.md)
+[NEXT](index.md)
 <br>
 
