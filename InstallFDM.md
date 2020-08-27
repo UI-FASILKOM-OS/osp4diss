@@ -5,6 +5,11 @@
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
+[TOP](#)
+[BOTTOM](#endofpage)
+[PREV](index.md)
+[NEXT](DebianISOImage.md)
+<br>
 
 # The Free Download Manager (FDM)
 
@@ -46,6 +51,14 @@ Otherwise, download with a regular browser like Firefox.
 <img src="pictures/C-OSP-08.jpg"  width="960">
 
 <br>
-<hr>
+#### ENDOFPAGE
+[HOME](index.md)
+[ABOUT](README.md)
+[WEB](https://osp4diss.vlsm.org/)
+[GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
+[TOP](#)
+[BOTTOM](#endofpage)
+[PREV](index.md)
+[NEXT](DebianISOImage.md)
 <br>
 

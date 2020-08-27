@@ -5,13 +5,19 @@
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
+[TOP](#)
+[BOTTOM](#endofpage)
+[PREV](InstallFDM.md)
+[NEXT](index.md)
 
 # Downloading Debian Netinst with Free Download Manager
 
 <br>
 ## URL: [https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/)
 
-### debian-10.4.0-amd64-netinst.iso
+## UPDATE:
+
+### debian-10.5.0-amd64-netinst.iso (was debian-10.4.0-amd64-netinst.iso)
 
 <img src="pictures/D-OSP-01.jpg"  width="960">
 
@@ -24,7 +30,7 @@ Otherwise, download with a regular browser like Firefox.
 <img src="pictures/D-OSP-00.jpg"  width="960">
 
 <br>
-## Download: [https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-10.4.0-amd64-netinst.iso](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-10.4.0-amd64-netinst.iso)
+## Download: [https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-10.5.0-amd64-netinst.iso](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-10.5.0-amd64-netinst.iso)
 
 <img src="pictures/D-OSP-02.jpg"  width="960">
 
@@ -35,5 +41,14 @@ Otherwise, download with a regular browser like Firefox.
 <img src="pictures/D-OSP-05.jpg"  width="960">
 
 <br>
-<hr>
+#### ENDOFPAGE
+[HOME](index.md)
+[ABOUT](README.md)
+[WEB](https://osp4diss.vlsm.org/)
+[GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
+[TOP](#)
+[BOTTOM](#endofpage)
+[PREV](InstallFDM.md)
+[NEXT](index.md)
 <br>
+
