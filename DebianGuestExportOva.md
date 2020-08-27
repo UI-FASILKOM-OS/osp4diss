@@ -7,8 +7,8 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](index.md)
+[PREV](DebianGuestOnVirtualBox.md)
+[NEXT](DebianGuestImportOva.md)
 
 # Exporting a Debian Guest In OVA Format
 
@@ -33,7 +33,7 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](index.md)
+[PREV](DebianGuestOnVirtualBox.md)
+[NEXT](DebianGuestImportOva.md)
 <br>
 

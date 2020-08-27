@@ -8,7 +8,7 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 
-# HOME
+# Setting Up a Debian Guest
 
 * [Installing Free Download Manager (FDM)](InstallFDM.html)
 * [Downloading Debian ISO Image](DebianISOImage.html)

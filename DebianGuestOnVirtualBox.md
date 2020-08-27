@@ -7,8 +7,8 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](index.md)
+[PREV](InstallVirtualBox.md)
+[NEXT](DebianGuestExportOva.md)
 
 # Creating a Debian Guest on VirtualBox
 
@@ -117,7 +117,7 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](index.md)
+[PREV](InstallVirtualBox.md)
+[NEXT](DebianGuestExportOva.md)
 <br>
 

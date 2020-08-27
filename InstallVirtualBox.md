@@ -7,8 +7,8 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](index.md)
+[PREV](DebianISOImage.md)
+[NEXT](DebianGuestOnVirtualBox.md)
 
 # Downloading and Installing VirtualBox
 
@@ -69,7 +69,7 @@ Otherwise, download with a regular browser like Firefox.
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](index.md)
+[PREV](DebianISOImage.md)
+[NEXT](DebianGuestOnVirtualBox.md)
 <br>
 

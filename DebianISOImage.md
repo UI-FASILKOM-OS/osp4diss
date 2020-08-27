@@ -8,7 +8,7 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](InstallFDM.md)
-[NEXT](index.md)
+[NEXT](InstallVirtualBox.md)
 
 # Downloading Debian Netinst with Free Download Manager
 
@@ -49,6 +49,6 @@ Otherwise, download with a regular browser like Firefox.
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](InstallFDM.md)
-[NEXT](index.md)
+[NEXT](InstallVirtualBox.md)
 <br>
 
