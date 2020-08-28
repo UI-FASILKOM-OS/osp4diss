@@ -7,8 +7,8 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](index.md)
+[PREV](DebianGuestExportOva.md)
+[NEXT](InstallDebianNetinst.md)
 
 # Importing a Debian Guest In OVA Format
 
@@ -36,7 +36,7 @@ You might want to keep **OSPD104** as a backup, and using **OSPD104a** for daily
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](index.md)
+[PREV](DebianGuestExportOva.md)
+[NEXT](InstallDebianNetinst.md)
 <br>
 

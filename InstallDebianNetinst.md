@@ -7,8 +7,8 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](index.md)
+[PREV](DebianGuestImportOva.md)
+[NEXT](ExportImportGuests.md)
 
 # Installing Debian NetInst (guest) on VirtualBox
 
@@ -268,7 +268,7 @@ You might rename **OSPD104a** to whatever.
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](index.md)
+[PREV](DebianGuestImportOva.md)
+[NEXT](ExportImportGuests.md)
 <br>
 

@@ -7,7 +7,7 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
+[PREV](UpdateDebian.md)
 [NEXT](index.md)
 
 # More Debian Packages
@@ -78,7 +78,7 @@ apt-get install $DEBS -y
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
+[PREV](UpdateDebian.md)
 [NEXT](index.md)
 <br>
 

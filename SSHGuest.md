@@ -7,8 +7,8 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](index.md)
+[PREV](ExportImportGuests.md)
+[NEXT](UpdateDebian.md)
 
 # SSH Guest OSPD104b
 
@@ -52,9 +52,7 @@ ssh -p 6022 osp@localhost
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
-[NEXT](index.md)
+[PREV](ExportImportGuests.md)
+[NEXT](UpdateDebian.md)
 <br>
-
-
 
