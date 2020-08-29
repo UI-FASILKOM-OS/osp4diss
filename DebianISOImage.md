@@ -12,20 +12,21 @@
 
 # Downloading Debian Netinst with Free Download Manager
 
-<br>
+## NOTE: The image version here is <span style="color:red; font-weight:bold; font-size:larger;">debian-10.5.0-amd64-netinst.iso</span>
+
+## <span style="color:red; font-weight:bold; font-size:larger;">THIS IS SUBJECT TO CHANGE!</span>
+
 ## URL: [https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/)
-
-## UPDATE:
-
-### debian-10.5.0-amd64-netinst.iso (was debian-10.4.0-amd64-netinst.iso)
-
+<br>
 <img src="pictures/D-OSP-01.jpg"  width="960">
-
+<br>
 <br>
 ## Runing Free Download Manager
 
+<span style="color:red; font-weight:bold; font-size:larger;">
 Use this Free Download Manager if your internet link is slow and less reliable.
 Otherwise, download with a regular browser like Firefox.
+</span>
 
 <img src="pictures/D-OSP-00.jpg"  width="960">
 
@@ -40,6 +41,8 @@ Otherwise, download with a regular browser like Firefox.
 
 <img src="pictures/D-OSP-05.jpg"  width="960">
 
+<br>
+## Your image is ready!
 <br>
 #### ENDOFPAGE
 [HOME](index.md)

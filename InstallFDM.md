@@ -13,8 +13,10 @@
 
 # The Free Download Manager (FDM)
 
+<span style="color:red; font-weight:bold; font-size:larger;">
 Use this Free Download Manager if your internet link is slow and less reliable.
 Otherwise, download with a regular browser like Firefox.
+</span>
 
 <br>
 ## Downloading FDM
@@ -46,7 +48,7 @@ Otherwise, download with a regular browser like Firefox.
 <img src="pictures/C-OSP-07.jpg"  width="960">
 
 <br>
-## Congratulations!
+## Congratulations, your FDM is ready!
 
 <img src="pictures/C-OSP-08.jpg"  width="960">
 
