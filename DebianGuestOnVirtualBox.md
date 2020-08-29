@@ -12,11 +12,15 @@
 
 # Creating a Debian Guest on VirtualBox
 
-## NOTE: The Debian version here is <span style="color:red; font-weight:bold; font-size:larger;">Debian 10.5</span>
+## NOTE: Version <span style="color:red; font-weight:bold; font-size:larger;">Debian 10.5</span>
 
 ## <span style="color:red; font-weight:bold; font-size:larger;">THIS IS SUBJECT TO CHANGE!</span>
 
 <br>
+[Part 1: Creating a New Guest](#part-1-creating-a-new-guest)
+<br>
+[Part 2: Setting the New Guest](#part-2-setting-the-new-guest-in-this-example-osp205)
+
 ## Part 1: Creating a New Guest
 
 * You should adjust these following according to your own belief and faith.
@@ -29,23 +33,34 @@
 <img src="pictures/A-OSP-18.jpg"  width="960">
 
 <br>
-* **OSPD105** = Operating System Programming with Debian 10.5
+* Name = **OSPD105** (Operating System Programming with Debian 10.5)
+  * Type: Linux
+  * Version: Debian (64bit)
 
 <img src="pictures/A-OSP-19.jpg"  width="960">
 
 <br>
-* Memory = 1024 MB
+* Memory size = 1024 MB
 
 <img src="pictures/A-OSP-20.jpg"  width="960">
 
 <br>
-* Storage = 8 GB (dynamically allocated)
+* Create a Virtual Hard Disk
 
 <img src="pictures/A-OSP-21.jpg"  width="960">
 
+<br>
+* Hard Disk type: VDI
+
 <img src="pictures/A-OSP-22.jpg"  width="960">
 
+<br>
+* Storage: Dynamically Allocated
+
 <img src="pictures/A-OSP-23.jpg"  width="960">
+
+<br>
+* Storage = 8 GB (dynamically allocated)
 
 <img src="pictures/A-OSP-24.jpg"  width="960">
 
@@ -87,9 +102,13 @@
 <img src="pictures/A-OSP-32.jpg"  width="960">
 
 <br>
-### Remove: IDE
+### Storage: Remove Empty IDE
+* RIGHT click
+
 <img src="pictures/A-OSP-28a.jpg"  width="960">
-<br>
+
+* Remove Empty
+
 <img src="pictures/A-OSP-28b.jpg"  width="960">
 
 <br>
@@ -110,19 +129,21 @@
 <br>
 ### Network: Adapter 1 (NAT): Port Forwarding
 
+* Click Advanced
+
 <img src="pictures/A-OSP-35.jpg"  width="960">
 
 <br>
 ### Network: Adapter 1 (NAT)
 
-* Forward ssh from host 127.0.0.1:6022 to guest 10.0.2.15:22
+* **ADD (+)** Forward ssh from host 127.0.0.1:6022 to guest 10.0.2.15:22
 
 <img src="pictures/A-OSP-36.jpg"  width="960">
 
 <img src="pictures/A-OSP-37.jpg"  width="960">
 
 <br>
-## DONE!
+## OSP105 is DONE!
 
 <img src="pictures/F-OSP-05.jpg"  width="960">
 
