@@ -21,7 +21,7 @@
 <img src="pictures/D-OSP-01.jpg"  width="960">
 <br>
 <br>
-## Runing Free Download Manager
+## Running Free Download Manager
 
 <span style="color:red; font-weight:bold; font-size:larger;">
 Use this Free Download Manager if your internet link is slow and less reliable.
@@ -42,7 +42,7 @@ Otherwise, download with a regular browser like Firefox.
 <img src="pictures/D-OSP-05.jpg"  width="960">
 
 <br>
-## Your image is ready!
+## Your Debian ISO image is ready!
 <br>
 #### ENDOFPAGE
 [HOME](index.md)

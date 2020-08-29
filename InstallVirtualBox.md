@@ -12,9 +12,13 @@
 
 # Downloading and Installing VirtualBox
 
-<br>
+## NOTE: The current VirtualBox version is <span style="color:red; font-weight:bold; font-size:larger;">6.1.12</span>
+
+## <span style="color:red; font-weight:bold; font-size:larger;">THIS IS SUBJECT TO CHANGE!</span>
+
 ## URL: [VirtualBox.org](https://www.virtualbox.org/wiki/Downloads)
 
+<br>
 <img src="pictures/E-OSP-00.jpg"  width="960">
 
 <br>
@@ -28,6 +32,9 @@ Otherwise, download with a regular browser like Firefox.
 <img src="pictures/E-OSP-02.jpg"  width="960">
 
 <img src="pictures/E-OSP-03.jpg"  width="960">
+
+<br>
+## Installing VirtualBox on Windows 10
 
 <img src="pictures/A-OSP-08.jpg"  width="960">
 
@@ -46,6 +53,8 @@ Otherwise, download with a regular browser like Firefox.
 <br>
 ## Adding VirtualBox Extension
 
+Just **CLICK** the Extension package!
+
 <img src="pictures/A-OSP-12.jpg"  width="960">
 
 <img src="pictures/A-OSP-13.jpg"  width="960">
@@ -55,6 +64,9 @@ Otherwise, download with a regular browser like Firefox.
 <img src="pictures/A-OSP-15.jpg"  width="960">
 
 <img src="pictures/A-OSP-16.jpg"  width="960">
+
+<br>
+## Your VirtualBox version
 
 <img src="pictures/A-OSP-17.jpg"  width="960">
 
