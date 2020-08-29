@@ -12,11 +12,15 @@
 
 # Creating a Debian Guest on VirtualBox
 
+## NOTE: The Debian version here is <span style="color:red; font-weight:bold; font-size:larger;">Debian 10.5</span>
+
+## <span style="color:red; font-weight:bold; font-size:larger;">THIS IS SUBJECT TO CHANGE!</span>
+
 <br>
 ## Part 1: Creating a New Guest
 
 * You should adjust these following according to your own belief and faith.
-  * **OSPD104** = Operating System Programming with Debian 10.4
+  * **OSPD105** = Operating System Programming with Debian 10.5 (<span style="color:red; font-weight:bold; font-size:larger;">your version may be different</span>).
   * Memory = 1024 MB
   * Storage = 8 GB (dynamically allocated)
   * NAT from host (127.0.0.1 port 6022) to guest (10.0.2.15 port 22)
@@ -25,7 +29,7 @@
 <img src="pictures/A-OSP-18.jpg"  width="960">
 
 <br>
-* **OSPD104** = Operating System Programming with Debian 10.4
+* **OSPD105** = Operating System Programming with Debian 10.5
 
 <img src="pictures/A-OSP-19.jpg"  width="960">
 
@@ -46,7 +50,7 @@
 <img src="pictures/A-OSP-24.jpg"  width="960">
 
 <br>
-## Part 2: Setting the New Guest
+## Part 2: Setting the New Guest (In this example OSP205)
 
 <img src="pictures/A-OSP-25.jpg"  width="960">
 
@@ -68,6 +72,8 @@
 <br>
 ### System: Processor
 
+(Depends on how many cores available)
+
 <img src="pictures/A-OSP-30.jpg"  width="960">
 
 <br>
@@ -81,14 +87,25 @@
 <img src="pictures/A-OSP-32.jpg"  width="960">
 
 <br>
+### Remove: IDE
+<img src="pictures/A-OSP-28a.jpg"  width="960">
+<br>
+<img src="pictures/A-OSP-28b.jpg"  width="960">
+
+<br>
 ### Storage: SATA
 
 <img src="pictures/A-OSP-33.jpg"  width="960">
 
 <br>
-### Storage: SATA: Add Debian NetInst ISO image
+### Storage: SATA: Add Debian NetInst ISO image (Eg. <span style="color:red; font-weight:bold; font-size:larger;">debian-10.5.0-amd64-netinst.iso</span>)
 
-<img src="pictures/A-OSP-34.jpg"  width="960">
+<br>
+<img src="pictures/A-OSP-34a.jpg"  width="960">
+<br>
+<img src="pictures/A-OSP-34b.jpg"  width="960">
+<br>
+<img src="pictures/A-OSP-34c.jpg"  width="960">
 
 <br>
 ### Network: Adapter 1 (NAT): Port Forwarding
