@@ -10,13 +10,23 @@
 [PREV](InstallDebianNetinst.md)
 [NEXT](SSHGuest.md)
 
-# Export Import Guests
+# More About Export Import Guests
+
+## Delete OLD-GUEST
+
+* Select OLD-GUEST
 
 <img src="pictures/G-OSP-00.jpg"  width="960">
 
+* Select Remove
+
 <img src="pictures/G-OSP-01.jpg"  width="960">
 
+* Select Delete All Files
+
 <img src="pictures/G-OSP-02.jpg"  width="960">
+
+## Importing a GUEST
 
 <img src="pictures/G-OSP-03.jpg"  width="960">
 
@@ -31,8 +41,6 @@
 <img src="pictures/G-OSP-09.jpg"  width="960">
 
 <img src="pictures/G-OSP-10.jpg"  width="960">
-
-<img src="pictures/G-OSP-11.jpg"  width="960">
 
 <br>
 # DONE

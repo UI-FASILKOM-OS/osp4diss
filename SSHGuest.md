@@ -12,14 +12,6 @@
 
 # SSH Guest OSPD104b
 
-<img src="pictures/H-OSP-00.jpg"  width="960">
-
-<img src="pictures/H-OSP-01.jpg"  width="960">
-
-<img src="pictures/H-OSP-02.jpg"  width="960">
-
-<img src="pictures/H-OSP-03.jpg"  width="960">
-
 <img src="pictures/H-OSP-04.jpg"  width="960">
 
 <img src="pictures/H-OSP-05.jpg"  width="960">
