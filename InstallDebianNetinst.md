@@ -7,7 +7,7 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](DebianGuestImportOva.md)
+[PREV](DebianGuestDeleteOva.md)
 [NEXT](ExportImportGuests.md)
 
 # Installing Debian NetInst (guest) on VirtualBox
@@ -21,14 +21,16 @@
 
   * Domain: none
 
-  * UserName/Account/Pass: OSP/osp/osp
-
   * Root/Pass: root/osp
 
-  * Single Partition/No swap partition
+  * UserName/Account/Pass: Cicak Bin Kadal/cbkadal/cbkadal
+
+  * **Single Partition/No swap partition**
 
 <br>
-## Starting Guest **OSPD104a**
+## Starting Guest **OSPD105a**
+
+### Select OSDP105a and Click START
 
 <img src="pictures/B-OSP-01.jpg"  width="960">
 
@@ -268,7 +270,7 @@ You might rename **OSPD104a** to whatever.
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](DebianGuestImportOva.md)
+[PREV](DebianGuestDeleteOva.md)
 [NEXT](ExportImportGuests.md)
 <br>
 

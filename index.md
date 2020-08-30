@@ -10,17 +10,18 @@
 
 # Setting Up a Debian Guest
 
-* [Installing Free Download Manager (FDM)](InstallFDM.html)
-* [Downloading Debian ISO Image](DebianISOImage.html)
-* [Downloading and Installing VirtualBox](InstallVirtualBox.html)
-* [Creating a Debian Guest on VirtualBox](DebianGuestOnVirtualBox.html)
-* [Exporting Debian Guest in OVA format](DebianGuestExportOva.html)
-* [Importing Debian Guest with a different Name](DebianGuestImportOva.html)
-* [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.html)
-* [Export Import Guests](ExportImportGuests.html)
-* [SSH Guest OSPD104b](SSHGuest.html)
-* [Update Debian](UpdateDebian.html)
-* [More Debian Packages](MoreDebianPackages.html)
+* [Installing Free Download Manager (FDM)](InstallFDM.md)
+* [Downloading Debian ISO Image](DebianISOImage.md)
+* [Downloading and Installing VirtualBox](InstallVirtualBox.md)
+* [Creating a Debian Guest on VirtualBox](DebianGuestOnVirtualBox.md)
+* [Exporting Debian Guest in OVA format](DebianGuestExportOva.md)
+* [Importing Debian Guest with a different Name](DebianGuestImportOva.md)
+* [Deleting Debian Guest(s)](DebianGuestDeleteOva.md)
+* [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.md)
+* [Export Import Guests](ExportImportGuests.md)
+* [SSH Guest OSPD104b](SSHGuest.md)
+* [Update Debian](UpdateDebian.md)
+* [More Debian Packages](MoreDebianPackages.md)
 
 <br>
 <hr>

@@ -30,6 +30,8 @@
   * NAT from host (127.0.0.1 port 6022) to guest (10.0.2.15 port 22)
 
 <br>
+## Click NEW
+
 <img src="pictures/A-OSP-18.jpg"  width="960">
 
 <br>
@@ -40,7 +42,7 @@
 <img src="pictures/A-OSP-19.jpg"  width="960">
 
 <br>
-* Memory size = 1024 MB
+* Memory size = 1024 MB (This is enough for this OSP!)
 
 <img src="pictures/A-OSP-20.jpg"  width="960">
 
@@ -67,6 +69,8 @@
 <br>
 ## Part 2: Setting the New Guest (In this example OSP205)
 
+### Click SETTING
+
 <img src="pictures/A-OSP-25.jpg"  width="960">
 
 <br>
@@ -87,7 +91,7 @@
 <br>
 ### System: Processor
 
-(Depends on how many cores available)
+### 6 Cores (Depends on how many cores are available)
 
 <img src="pictures/A-OSP-30.jpg"  width="960">
 
