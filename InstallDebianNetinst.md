@@ -47,9 +47,14 @@ Graphical Install
 <img src="pictures/B-OSP-05.jpg"  width="960">
 
 <br>
-Language English
+Select a Language: English
 
 <img src="pictures/B-OSP-06.jpg"  width="960">
+
+<br>
+Location: Other
+
+<img src="pictures/B-OSP-07a.jpg"  width="960">
 
 <br>
 Location: Asia
@@ -57,12 +62,12 @@ Location: Asia
 <img src="pictures/B-OSP-07.jpg"  width="960">
 
 <br>
-Location: Asia: Indonesia
+Location: Asia: Indonesia (or whereever you are!)
 
 <img src="pictures/B-OSP-08.jpg"  width="960">
 
 <br>
-Locales: en_US.UTF-8
+Locales: United States en_US.UTF-8
 
 <img src="pictures/B-OSP-09.jpg"  width="960">
 
@@ -87,27 +92,27 @@ Domain: none
 <img src="pictures/B-OSP-13.jpg"  width="960">
 
 <br>
-root pass: osp
+root pass: osp (or else!)
 
 <img src="pictures/B-OSP-14.jpg"  width="960">
 
 <br>
-User Full Name: OSP
+User Full Name: Cicak Bin Kadal (or else!)
 
 <img src="pictures/B-OSP-15.jpg"  width="960">
 
 <br>
-Username: osp
+Username: cbkadal
 
 <img src="pictures/B-OSP-16.jpg"  width="960">
 
 <br>
-Username pass: osp
+Username pass: cbkadal (or else!)
 
 <img src="pictures/B-OSP-18.jpg"  width="960">
 
 <br>
-TimeZone: WIB
+TimeZone: Western/WIB (or else!)
 
 <img src="pictures/B-OSP-19.jpg"  width="960">
 
@@ -117,42 +122,57 @@ Partition Disk: Manual
 <img src="pictures/B-OSP-20.jpg"  width="960">
 
 <br>
-Create New Empry Partition Table
+Partition Disk: The Whole Disk (sda)
+
+<img src="pictures/B-OSP-20a.jpg"  width="960">
+
+<br>
+Partition Disk: Create a New Partition Table
+
+<img src="pictures/B-OSP-20b.jpg"  width="960">
+
+<br>
+Partition Disk: Select a Partition to Modify
+
+<img src="pictures/B-OSP-20c.jpg"  width="960">
+
+<br>
+Partition Disk: Create New Empty Partition Table
 
 <img src="pictures/B-OSP-21.jpg"  width="960">
 
 <br>
-Create A New Partition
+Partition Disk: Create A New Partition
 
 <img src="pictures/B-OSP-22.jpg"  width="960">
 
 <br>
-Maximum Size
+Partition Disk: Maximum Size
 
 <img src="pictures/B-OSP-23.jpg"  width="960">
 
 <br>
-Primary Partition
+Partition Disk: Primary Partition
 
 <img src="pictures/B-OSP-24.jpg"  width="960">
 
 <br>
-Done
+Partition Disk: Done setting up
 
 <img src="pictures/B-OSP-25.jpg"  width="960">
 
 <br>
-Write Changes to Disk
+Partition Disk: Write Changes to Disk
 
 <img src="pictures/B-OSP-26.jpg"  width="960">
 
 <br>
-No Return to Menu!
+Partition Disk: No Return to Menu!
 
 <img src="pictures/B-OSP-27.jpg"  width="960">
 
 <br>
-Write To Disk!
+Partition Disk: Write Changes To Disk!
 
 <img src="pictures/B-OSP-28.jpg"  width="960">
 
@@ -236,7 +256,7 @@ ACPI Shutdown
 <img src="pictures/B-OSP-43b.jpg"  width="960">
 
 <br>
-Guest **OSPD104a** is OFF
+Guest **OSPD105a** is OFF, no more ISO image
 
 <img src="pictures/B-OSP-44.jpg"  width="960">
 
@@ -246,14 +266,14 @@ Export to OVA
 <img src="pictures/B-OSP-45.jpg"  width="960">
 
 <br>
-**OSPD104a**
+**OSPD105a**
 
 <img src="pictures/B-OSP-46.jpg"  width="960">
 
 <img src="pictures/B-OSP-47.jpg"  width="960">
 
 <br>
-You might rename **OSPD104a** to whatever.
+You might rename **OSPD105a** to whatever.
 
 <img src="pictures/B-OSP-48.jpg"  width="960">
 
