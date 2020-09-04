@@ -4,7 +4,7 @@
 [HOME](index.md)
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)
-[GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
+[GITHUB](https://github.com/OSP4DISS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](index.md)
@@ -15,7 +15,7 @@
 
 <span style="color:red; font-weight:bold; font-size:larger;">
 Use this Free Download Manager if your internet link is slow and less reliable.
-Otherwise, download with a regular browser like Firefox.
+Otherwise, download with a regular browser like Firefox or you cen install the <b>plugin</b> for that brower.
 </span>
 
 <br>
@@ -57,7 +57,7 @@ Otherwise, download with a regular browser like Firefox.
 [HOME](index.md)
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)
-[GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
+[GITHUB](https://github.com/OSP4DISS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](index.md)

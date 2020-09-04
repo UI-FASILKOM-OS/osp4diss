@@ -4,7 +4,7 @@
 [HOME](index.md)
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)
-[GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
+[GITHUB](https://github.com/OSP4DISS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
 
@@ -30,7 +30,7 @@
 [HOME](index.md)
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)
-[GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
+[GITHUB](https://github.com/OSP4DISS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
 <br>
