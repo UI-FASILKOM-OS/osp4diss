@@ -25,7 +25,7 @@
 
 * You should adjust these following according to your own belief and faith.
   * **OSPD105** = Operating System Programming with Debian 10.5 (<span style="color:red; font-weight:bold; font-size:larger;">your version may be different</span>).
-  * Memory = 1024 MB
+  * Memory = 1024 MB (512MB is OK!)
   * Storage = 8 GB (dynamically allocated)
   * NAT from host (127.0.0.1 port 6022) to guest (10.0.2.15 port 22)
 
@@ -42,7 +42,7 @@
 <img src="pictures/A-OSP-19.jpg"  width="960">
 
 <br>
-* Memory size = 1024 MB (This is enough for this OSP!)
+* Memory size = <span style="color:red; font-weight:bold; font-size:larger;">1024 MB</span> (But, 512 MB is OK too!)
 
 <img src="pictures/A-OSP-20.jpg"  width="960">
 

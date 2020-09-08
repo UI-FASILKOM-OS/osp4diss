@@ -13,6 +13,7 @@
 # Downloading and Installing VirtualBox
 
 ## NOTE: The current VirtualBox version is <span style="color:red; font-weight:bold; font-size:larger;">6.1.14</span>
+### (The VirtualBox version in this example is 6.1.12)
 
 ## <span style="color:red; font-weight:bold; font-size:larger;">THIS IS SUBJECT TO CHANGE!</span>
 
