@@ -10,15 +10,25 @@
 [PREV](MoreDebianPackages.md)
 [NEXT](index.md)
 
+<br>
 # Welcome to GNU/Linux
+
+There are so many "GNU/Linux" sites around, do your own GSGS! 
 
 ## Basic Command Lines
 
-There are so many "Basic Command Lines" sites around, do your own GSGS! 
+[![Introduction to Linux and Basic Linux Commands for Beginners](https://img.youtube.com/vi/IVquJh3DXUA/0.jpg)](https://www.youtube.com/watch?v=IVquJh3DXUA)
 
-* [Linux Commands](https://linuxconfig.org/linux-commands)
-* [Basic Linux Commands](https://hackr.io/blog/basic-linux-commands/)
-* [Basic Linux Commands](https://linuxize.com/post/basic-linux-commands/)
+* [The Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners)
+* [40 Basic Linux Commands used Frequently](https://linoxide.com/linux-command/essential-linux-basic-commands/)
+
+<br>
+## The VI editor
+
+[![VI Basics in 8 Minutes](https://img.youtube.com/vi/ggSyF1SVFr4/0.jpg)](https://www.youtube.com/watch?v=ggSyF1SVFr4)
+
+* [Basics VI Commands](https://www.cs.colostate.edu/helpdocs/vi.html)
+* [How to Use the VI editor](https://www.washington.edu/computing/unix/vi.html)
 
 <br>
 #### ENDOFPAGE
