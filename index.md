@@ -19,7 +19,7 @@
 * [Deleting Debian Guest(s)](DebianGuestDeleteOva.md)
 * [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.md)
 * [Export Import Guests](ExportImportGuests.md)
-* [SSH Guest OSPD104b](SSHGuest.md)
+* [SSH and PUTTY](SSHGuest.md)
 * [Update Debian](UpdateDebian.md)
 * [More Debian Packages](MoreDebianPackages.md)
 <br><br>
