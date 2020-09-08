@@ -120,7 +120,7 @@ w
 <img src="pictures/WK-OSP-14.jpg"  width="960">
 
 <br>
-* Security Allert (First Time)
+* Security Alert (First Time)
 
 <img src="pictures/WK-OSP-15.jpg"  width="960">
 
