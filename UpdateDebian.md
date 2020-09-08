@@ -12,8 +12,10 @@
 
 # Update Debian
 
+* Username: cbkadal (or whatever)
+
 ```
-ssh -p 6022 osp@localhost
+ssh -p 6022 cbkadal@localhost
 ```
 
 <img src="pictures/H-OSP-08.jpg"  width="960">
