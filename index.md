@@ -10,7 +10,7 @@
 
 # Setting Up a Debian Guest
 
-* [Installing Free Download Manager (FDM)](InstallFDM.md)
+* [FDM: Free Download Manager (Optional)](InstallFDM.md)
 * [Downloading Debian ISO Image](DebianISOImage.md)
 * [Downloading and Installing VirtualBox](InstallVirtualBox.md)
 * [Creating a Debian Guest on VirtualBox](DebianGuestOnVirtualBox.md)

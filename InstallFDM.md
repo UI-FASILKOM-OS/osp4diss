@@ -11,7 +11,7 @@
 [NEXT](DebianISOImage.md)
 <br>
 
-# The Free Download Manager (FDM)
+# FDM: Free Download Manager (Optional)
 
 <span style="color:red; font-weight:bold; font-size:larger;">
 Use this Free Download Manager if your internet link is slow and less reliable.
