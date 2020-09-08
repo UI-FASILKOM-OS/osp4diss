@@ -8,7 +8,7 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](UpdateDebian.md)
-[NEXT](index.md)
+[NEXT](Welcome2GNULinux.md)
 
 # More Debian Packages
 
@@ -81,8 +81,6 @@ apt-get install $DEBS -y
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](UpdateDebian.md)
-[NEXT](index.md)
+[NEXT](Welcome2GNULinux.md)
 <br>
-
-
 
