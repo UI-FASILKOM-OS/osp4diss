@@ -18,8 +18,17 @@ There are so many "GNU/Linux" sites around, do your own GSGS!
 <br>
 ## Basic Command Lines
 
+Introduction to Linux and Basic Linux Commands for Beginners<br>
 [![Introduction to Linux and Basic Linux Commands for Beginners](https://img.youtube.com/vi/IVquJh3DXUA/0.jpg)](https://www.youtube.com/watch?v=IVquJh3DXUA)
 
+<br>
+
+The Complete Linux Course: Beginner to Power User!<br>
+[![The Complete Linux Course](https://img.youtube.com/vi/wBp0Rb-ZJak/0.jpg)](https://www.youtube.com/watch?v=wBp0Rb-ZJak)
+
+<br>
+
+* [The Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners)
 * [The Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners)
 * [40 Basic Linux Commands used Frequently](https://linoxide.com/linux-command/essential-linux-basic-commands/)
 
