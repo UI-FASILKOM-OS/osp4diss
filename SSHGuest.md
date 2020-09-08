@@ -13,7 +13,7 @@
 # PUTTY, WINSCP and SSH
 
 <br>
-## Free Download Manager
+## FDM: Free Download Manager (Optional)
 
 <span style="color:red; font-weight:bold; font-size:larger;">
 Use Free Download Manager if your internet link is slow and less reliable.
@@ -56,6 +56,12 @@ Otherwise, download with a regular browser like Firefox or you can install the <
 
 <img src="pictures/WK-OSP-05.jpg"  width="960">
 
+<br>
+<br>
+<hr>
+<span style="color:red; font-weight:bold; font-size:larger;">
+Make sure to start your Debian Guest before trying to connect (putty/ssh) to it.
+</span>
 <hr>
 <br>
 # Starting a Debian Guest (Eg. D105-W200831)
