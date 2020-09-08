@@ -15,6 +15,7 @@
 
 There are so many "GNU/Linux" sites around, do your own GSGS! 
 
+<br>
 ## Basic Command Lines
 
 [![Introduction to Linux and Basic Linux Commands for Beginners](https://img.youtube.com/vi/IVquJh3DXUA/0.jpg)](https://www.youtube.com/watch?v=IVquJh3DXUA)
