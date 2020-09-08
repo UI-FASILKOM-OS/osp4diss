@@ -1,3 +1,6 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
 L00 General Log
 L01 SCELE related
 L02 ZOOM
