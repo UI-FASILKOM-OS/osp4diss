@@ -261,7 +261,7 @@ Guest **OSPD105a** is OFF, no more ISO image
 <img src="pictures/B-OSP-44.jpg"  width="960">
 
 <br>
-Export to OVA
+Export (Make an OVA backup)
 
 <img src="pictures/B-OSP-45.jpg"  width="960">
 
