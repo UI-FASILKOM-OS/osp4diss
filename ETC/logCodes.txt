@@ -3,6 +3,12 @@
 # LogCode + Description List
 L00 General Log
 L01 SCELE related
-L02 ZOOM
+L02 ZOOM related
+L03 GitHub related
+L04 GitHub Pages related
+L05 GSGS related
+L06 Reading Refereces/Books/Documents
+L07 Demo related
+L08 Trying something
 L99 Other (...)
 
