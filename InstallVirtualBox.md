@@ -75,6 +75,21 @@ Just **CLICK** the Extension package!
 ## The VirtualBox and its Extension Pack are ready!
 
 <br>
+## Intel (VMX) Virtualization Technology
+
+To use VirtualBox, **VMX** has to be enabled.
+Check your PC (BIOS) configuration.
+"VMX" stands for Virtual Machine Extensions. 
+
+<br>
+**DISABLED**
+<img src="pictures/VMX-disable.jpg"  width="960">
+
+<br>
+**ENABLED**
+<img src="pictures/VMX-enable.jpg"   width="960">
+
+<br>
 #### ENDOFPAGE
 [HOME](index.md)
 [ABOUT](README.md)
