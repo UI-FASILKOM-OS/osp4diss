@@ -152,6 +152,20 @@
 <img src="pictures/F-OSP-05.jpg"  width="960">
 
 <br>
+# The SHORTCUT
+
+<span style="color:red; font-weight:bold; font-size:larger;">
+For a limited time only!
+If you are rushing, you might want to download this following OVA file.
+No purchase necessary and void where prohibited.
+Hurry, Google might not like it if too many downloads a huge file. 
+</span>
+
+* **README**:  [https://bit.ly/3mxkpvP](https://bit.ly/3mxkpvP) (182 bytes)
+
+* **Debian 10.5 OVA for VirtualBox**: [https://bit.ly/2FMU7F8](https://bit.ly/2FMU7F8) (662MB)
+
+<br>
 #### ENDOFPAGE
 [HOME](index.md)
 [ABOUT](README.md)
