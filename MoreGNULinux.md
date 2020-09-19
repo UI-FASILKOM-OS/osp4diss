@@ -36,7 +36,7 @@ adduser dummy
 pwd
 su - dummy
 ```
-### Testing home directory user dummy
+### Testing home directory user dummy and then "exit"
 ```
 pwd
 exit
@@ -44,8 +44,10 @@ exit
 <img src="pictures/LK-OSP-01.jpg" width="960">
 <br>
 <br>
-## Create/Edit your first file: ".bash_aliases"
-* Use your favorite editor (vi) to add this following to the file (.bash_aliases).
+## Create/Edit your first file: "**.bash_aliases**"
+* Use your favorite editor (vi) to add this following TEXT to file .bash_aliases.
+<br>
+<img src="pictures/LK-OSP-02.jpg" width="960">
 
 ```
 alias cl='clear'
@@ -74,7 +76,6 @@ h
 ```
 
 
-<img src="pictures/LK-OSP-02.jpg" width="960">
 
 <img src="pictures/LK-OSP-03.jpg" width="960">
 
