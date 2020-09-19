@@ -23,6 +23,7 @@
 * [Update Debian](UpdateDebian.md)
 * [More Debian Packages](MoreDebianPackages.md)
 * [Welcome to GNU/Linux](Welcome2GNULinux.md)
+* [More GNU/Linux](MoreGNULinux.md)
 <br><br>
 * [ETC](ETC/)
 <br>

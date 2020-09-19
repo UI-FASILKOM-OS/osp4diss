@@ -8,7 +8,7 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](MoreDebianPackages.md)
-[NEXT](index.md)
+[NEXT](MoreGNULinux.md)
 
 <br>
 # Welcome to GNU/Linux
@@ -49,6 +49,6 @@ The Complete Linux Course: Beginner to Power User!<br>
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](MoreDebianPackages.md)
-[NEXT](index.md)
+[NEXT](MoreGNULinux.md)
 <br>
 
