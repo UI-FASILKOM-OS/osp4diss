@@ -66,22 +66,18 @@ export GPG_TTY=/dev/tty
 export HISTSIZE=2000
 export HISTFILESIZE=2000 
 ```
+<img src="pictures/LK-OSP-03.jpg" width="960">
 <br>
 <br>
 ## Testing ".bash_aliases"
+### "h" is an alias for "history"
 ```
 h
 source ~/.profile
 h
 ```
 
-
-
-<img src="pictures/LK-OSP-03.jpg" width="960">
-
 <img src="pictures/LK-OSP-04.jpg" width="960">
-
-
 
 <br>
 #### ENDOFPAGE
