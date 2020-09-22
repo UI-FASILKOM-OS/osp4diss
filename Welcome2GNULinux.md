@@ -29,7 +29,6 @@ The Complete Linux Course: Beginner to Power User!<br>
 <br>
 
 * [The Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners)
-* [The Linux Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners)
 * [40 Basic Linux Commands used Frequently](https://linoxide.com/linux-command/essential-linux-basic-commands/)
 
 <br>

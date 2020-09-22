@@ -8,7 +8,7 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](Welcome2GNULinux.md)
-[NEXT](index.md)
+[NEXT](CBKadal.md)
 
 # More Gnu/Linux
 
@@ -88,6 +88,6 @@ h
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](Welcome2GNULinux.md)
-[NEXT](index.md)
+[NEXT](CBKadal.md)
 <br>
 
