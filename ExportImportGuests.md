@@ -71,6 +71,10 @@ Hurry, Google might not like it if too many downloads a huge file.
 
 * **Debian 10.5 OVA for VirtualBox**: [https://bit.ly/2FMU7F8](https://bit.ly/2FMU7F8) (662MB)
 
+* **README2**: [https://bit.ly/3mGmjul](https://bit.ly/3mGmjul)
+
+* **Ubuntu 18.04.05 OVA for VirtualBox**: [https://bit.ly/361kgLu](https://bit.ly/361kgLu) (1.2GB)
+
 <br>
 #### ENDOFPAGE
 [HOME](index.md)
