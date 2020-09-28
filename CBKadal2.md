@@ -7,12 +7,18 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](CBKadal.md)
-[NEXT](index.md)
+[NEXT](CBKadal3.md)
 
 # Eg. User: cbkadal (2)
 
-These following examples is for user **cbkadal** of guest *osp*.
+These following examples is for user **cbkadal** in *badak*.
 Replace **cbkadal** with your own user name.
+
+## Generating a KEY PAIR
+* RSA and RSA.
+* Keysize is 4096 bits.
+* key expires in 1 year.
+* No passphrase.
 
 ```
 cbkadal@badak:~$ gpg2 --gen-key
@@ -98,6 +104,10 @@ sub   4096R/77021270 2020-09-28 [expires: 2021-09-28]
 
 cbkadal@badak:~$
 ```
+
+<br>
+## List the keys
+
 ```
 cbkadal@badak:~$ gpg2 --list-keys
 /home/demo/.gnupg/pubring.gpg
@@ -108,10 +118,10 @@ sub   4096R/77021270 2020-09-28 [expires: 2021-09-28]
 
 cbkadal@badak:~$ gpg2 --output secret.asc --export-secret-key --armor cbk@dummy
 cbkadal@badak:~$ gpg2 --output mypubkey.txt --export --armor cbk@dummy
-cbkadal@badak:~$ ls -F secret.asc mypubkey.txt 
-mypubkey.txt  secret.asc
-cbkadal@badak:~$
 ```
+<br>
+## Copying the KEYS to the Guest (osp)
+
 ```
 cbkadal@osp:~$ scp -P 6023 demo@localhost:~/"*.asc" .
 demo@localhost's password: 
@@ -119,9 +129,11 @@ mypubkey.txt                  100% 3108   134.9KB/s   00:00
 secret.asc                    100% 6604   243.8KB/s   00:00    
 cbkadal@osp:~$
 ```
+<br>
+## Importing the KEYS
 
 ```
-cbkadal@osp:~$ gpg --import Cicak-Bin-Kadal-SK.asc 
+cbkadal@osp:~$ gpg --import secret.asc
 gpg: directory '/home/cbkadal/.gnupg' created
 gpg: keybox '/home/cbkadal/.gnupg/pubring.kbx' created
 gpg: /home/cbkadal/.gnupg/trustdb.gpg: trustdb created
@@ -131,6 +143,12 @@ gpg: Total number processed: 1
 gpg:               imported: 1
 gpg:       secret keys read: 1
 gpg:   secret keys imported: 1
+```
+<br>
+## Importing the Operating Systems public key
+* Source: 
+
+```
 cbkadal@osp:~$ gpg --import ospubkey.txt 
 gpg: key D0F5DBDD67DF6DDE: public key "Operating Systems (OS) <operatingsystems@DELETE.vlsm.org>" imported
 gpg: Total number processed: 1
@@ -183,25 +201,28 @@ cbkadal@osp:~/git/os202/TXT$
 ```
 ```
 cbkadal@osp:~/git/os202/TXT$ ls -al
-total 16
-drwxr-xr-x 2 cbkadal cbkadal 4096 Sep 28 19:46 .
-drwxr-xr-x 6 cbkadal cbkadal 4096 Sep 20 18:22 ..
+total 32
+drwxr-xr-x 2 cbkadal cbkadal 4096 Sep 28 21:35 .
+drwxr-xr-x 6 cbkadal cbkadal 4096 Sep 28 21:35 ..
 -rw-r--r-- 1 cbkadal cbkadal  630 Sep 28 18:11 mylog.txt
 -rw-r--r-- 1 cbkadal cbkadal 3098 Sep 28 19:46 mypubkey.txt
-cbkadal@osp:~/git/os202/TXT$ sha256sum mylog.txt mypubkey.txt > SHA256SUM
-cbkadal@osp:~/git/os202/TXT$ gpg -o SHA256SUM.asc -a -sb SHA256SUM 
-cbkadal@osp:~/git/os202/TXT$ ls -al
-total 24
-drwxr-xr-x 2 cbkadal cbkadal 4096 Sep 28 19:51 .
-drwxr-xr-x 6 cbkadal cbkadal 4096 Sep 20 18:22 ..
--rw-r--r-- 1 cbkadal cbkadal  630 Sep 28 18:11 mylog.txt
--rw-r--r-- 1 cbkadal cbkadal 3098 Sep 28 19:46 mypubkey.txt
--rw-r--r-- 1 cbkadal cbkadal  155 Sep 28 19:49 SHA256SUM
--rw-r--r-- 1 cbkadal cbkadal  833 Sep 28 19:51 SHA256SUM.asc
-cbkadal@osp:~/git/os202/TXT$ gpg --verify SHA256SUM.asc SHA256SUM
-gpg: Signature made Mon 28 Sep 2020 07:51:56 PM WIB
+-rw-r--r-- 1 cbkadal cbkadal  119 Sep 28 21:35 myrank.txt
+-rw-r--r-- 1 cbkadal cbkadal  349 Sep 28 21:35 myscript.sh
+-rw-r--r-- 1 cbkadal cbkadal  310 Sep 28 21:37 SHA256SUM
+-rw-r--r-- 1 cbkadal cbkadal  833 Sep 28 21:37 SHA256SUM.asc
+cbkadal@osp:~/git/os202/TXT$ bash myscript.sh 
+sha256sum mylog.txt mypubkey.txt myrank.txt myscript.sh > SHA256SUM
+sha256sum -c SHA256SUM
+mylog.txt: OK
+mypubkey.txt: OK
+myrank.txt: OK
+myscript.sh: OK
+gpg -o SHA256SUM.asc -a -sb SHA256SUM
+File 'SHA256SUM.asc' exists. Overwrite? (y/N) y
+gpg --verify SHA256SUM.asc SHA256SUM
+gpg: Signature made Mon 28 Sep 2020 09:37:35 PM WIB
 gpg:                using RSA key 0EFC7183596281364D6CB349420959134762F757
-gpg: Good signature from "Cicak Bin Kadal (CBK) <cbkadal@DELETE.vlsm.org>" [unknown]
+gpg: Good signature from "Cicak Bin Kadal (CBK) <cbkadal@vlsm.org>" [unknown]
 gpg: WARNING: This key is not certified with a trusted signature!
 gpg:          There is no indication that the signature belongs to the owner.
 Primary key fingerprint: 0EFC 7183 5962 8136 4D6C  B349 4209 5913 4762 F757
@@ -217,5 +238,5 @@ cbkadal@osp:~/git/os202/TXT$
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](CBKadal.md)
-[NEXT](index.md)
+[NEXT](CBKadal3.md)
 

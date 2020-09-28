@@ -26,6 +26,7 @@
 * [More GNU/Linux](MoreGNULinux.md)
 * [Example: Cicak Bin Kadal](CBKadal.md)
 * [Example: Cicak Bin Kadal 2](CBKadal2.md)
+* [Example: Cicak Bin Kadal 3](CBKadal3.md)
 <br><br>
 * [ETC](ETC/)
 <br>
