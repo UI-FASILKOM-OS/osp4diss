@@ -55,14 +55,18 @@ alias h='history'
 alias mv='mv -i'  
 alias rm='rm -i'  
 alias sss='. ~/.profile'
+alias sbadak="ssh -p 6023 cbkadal@localhost"
+alias tunnel='ssh -L 6023:badak.cs.ui.ac.id:22 cbkadal@kawung.cs.ui.ac.id'
+alias rsyncDocs="  rsync -auv --delete -e 'ssh -p 6023' cbkadal@localhost:/extra/Docs/   /home/cbkadal/extra/Docs/"
+alias rsyncDemos=" rsync -auv --delete -e 'ssh -p 6023' cbkadal@localhost:/extra/Demos/  /home/cbkadal/extra/Demos/"
+alias rsyncSlides="rsync -auv --delete -e 'ssh -p 6023' cbkadal@localhost:/extra/Slides/ /home/cbkadal/extra/Slides/"
 gitstat() {
    git rev-parse --is-inside-work-tree &> /dev/null
    [ "$?" == "0" ] && git status
    ls -aF
-   printf "ZCZCNNNN ==== ===== PWD:%s\n" $(pwd)
+   printf "ZCZCNNNN ==== %s ===== PWD:%s\n" "$date)" $(pwd)
 }
 export EDITOR=/usr/bin/vi
-export GPG_TTY=/dev/tty
 export HISTSIZE=2000
 export HISTFILESIZE=2000 
 ```
