@@ -7,7 +7,7 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](MoreGNULinux.md)
-[NEXT](index.md)
+[NEXT](CBKadal2.md)
 
 # Eg. User: cbkadal
 
@@ -156,5 +156,5 @@ git stat
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](MoreGNULinux.md)
-[NEXT](index.md)
+[NEXT](CBKadal2.md)
 

@@ -25,6 +25,7 @@
 * [Welcome to GNU/Linux](Welcome2GNULinux.md)
 * [More GNU/Linux](MoreGNULinux.md)
 * [Example: Cicak Bin Kadal](CBKadal.md)
+* [Example: Cicak Bin Kadal 2](CBKadal2.md)
 <br><br>
 * [ETC](ETC/)
 <br>

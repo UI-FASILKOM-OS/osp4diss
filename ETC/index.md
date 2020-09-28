@@ -12,6 +12,7 @@ permalink: /ETC/
 [NEXT](../index.md)
 
 * [Log Codes](logCodes.txt)
+* [OS Public Key](ospubkey.txt)
 
 <br>
 #### ENDOFPAGE
