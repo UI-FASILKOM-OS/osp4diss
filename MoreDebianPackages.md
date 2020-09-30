@@ -44,9 +44,13 @@ flex
 fuse 
 git
 gnupg
+libacl1-dev
+libcap-dev
 libelf-dev
 libfuse-dev
 libncurses-dev
+libseccomp-dev
+libselinux1-dev
 libssl-dev
 lynx
 make
