@@ -87,7 +87,6 @@ export EDITOR=/usr/bin/vi
 export HISTSIZE=2000
 export HISTFILESIZE=2000 
 ```
-<img src="pictures/LK-OSP-03.jpg" width="960">
 <br>
 <br>
 ## Testing ".bash_aliases"
