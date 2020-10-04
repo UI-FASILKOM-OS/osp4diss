@@ -66,6 +66,23 @@ gitstat() {
    ls -aF
    printf "ZCZCNNNN ==== %s ===== PWD:%s\n" "$date)" $(pwd)
 }
+chktoken() {
+    [ -z $1 ] && { 
+        echo "Usage: chktoken <token>"
+        echo "Is $USER your GitHub Account? If not, please cleate a new user name"
+        return -1
+    } || [ $1 == 0 ] && {
+        echo "0"
+        return 0
+    } || [ $1 == 1 ] && {
+        echo "$USER"
+        return 0
+    } || {
+        STAMP=$(date +%M%S)
+        echo "$STAMP-$(echo $STAMP$USER$1 | sha1sum  | cut -c1-4 | tr '[:lower:]' '[:upper:]'  )"
+        return 0
+    }
+}
 export EDITOR=/usr/bin/vi
 export HISTSIZE=2000
 export HISTFILESIZE=2000 
