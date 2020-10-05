@@ -95,6 +95,7 @@ chktoken() {
         return 0
     }
 }
+# REV03 Mon Oct  5 09:25:23 WIB 2020 (RMS)
 # REV02 Mon 05 Oct 2020 07:34:14 AM WIB (RMS)
 # REV01 (2020-10-04 07:43 PM UTC+7) Muhamad Yoga Mahendra (aceyoga) 
 # START (2020-10-04 03:51 PM UTC+7) Muhamad Yoga Mahendra (aceyoga) 
@@ -109,9 +110,7 @@ verifyToken() {
     SHA="$(echo  $3 | cut -d' ' -f2 | cut -d'-' -f2 )"
     RESULT="$(echo $DATE$2$1 | sha1sum  | cut -c1-4 | tr '[:lower:]' '[:upper:]' )"
     [ $SHA == $RESULT ] && RETURN="1" || RETURN="0"
-    [ -z $4 ] || {
-        return $RETURN
-    }
+    [ -z $4 ]           || return $RETURN
     [ "$RETURN" == "1" ] && echo "Verified"  || echo "Error"
 }
 export EDITOR=/usr/bin/vi
