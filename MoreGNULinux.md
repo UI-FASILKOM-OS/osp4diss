@@ -107,11 +107,11 @@ verifyToken() {
         return 0
     }
     DATE="$(echo $3 | cut -d' ' -f2 | cut -d'-' -f1)"
-    SHA="$(echo  $3 | cut -d' ' -f2 | cut -d'-' -f2 )"
+    SHA="$(echo  $3 | cut -d' ' -f2 | cut -d'-' -f2)"
     RESULT="$(echo $DATE$2$1 | sha1sum  | cut -c1-4 | tr '[:lower:]' '[:upper:]' )"
-    [ $SHA == $RESULT ] && RETURN="1" || RETURN="0"
-    [ -z $4 ]           || return $RETURN
-    [ "$RETURN" == "1" ] && echo "Verified"  || echo "Error"
+    [ $SHA == $RESULT  ] && RETURN="1"      || RETURN="0"
+    [ -z $4 ]            || return $RETURN
+    [ "$RETURN" == "1" ] && echo "Verified" || echo "Error"
 }
 export EDITOR=/usr/bin/vi
 export HISTSIZE=2000
