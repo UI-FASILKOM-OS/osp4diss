@@ -61,7 +61,7 @@ alias rsyncDocs="  rsync -auv --delete -e 'ssh -p 6023' cbkadal@localhost:/extra
 alias rsyncDemos=" rsync -auv --delete -e 'ssh -p 6023' cbkadal@localhost:/extra/Demos/  /home/cbkadal/extra/Demos/"
 alias rsyncSlides="rsync -auv --delete -e 'ssh -p 6023' cbkadal@localhost:/extra/Slides/ /home/cbkadal/extra/Slides/"
 # REV01 Mon 05 Oct 2020 09:14:50 AM WIB (rms46)
-# START 2020 (rms46)
+# START Sat 19 Sep 2020 00:00:00 (rms46)
 gitstat() {
    git rev-parse --is-inside-work-tree &> /dev/null
    [ "$?" == "0" ] && git status
