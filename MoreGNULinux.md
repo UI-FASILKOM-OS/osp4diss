@@ -23,7 +23,10 @@ You need an editor for this page. Preferable, the vi (visual) editor.
 su -
 ```
 <br>
-## Add (a) user dummy
+## adduser 
+
+* Example, add a new user "dummy"
+
 ```
 adduser dummy
 ```
@@ -49,6 +52,7 @@ exit
 <br>
 <img src="pictures/LK-OSP-02.jpg" width="960">
 
+##### bashaliases
 ```
 alias cl='clear'
 alias h='history'  
