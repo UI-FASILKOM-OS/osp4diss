@@ -46,6 +46,32 @@ exit
 ```
 <img src="pictures/LK-OSP-01.jpg" width="960">
 <br>
+### Add User 'Abc'
+
+* Force Bad Name 'Abc' (with capital)
+
+```
+root@osp:~# adduser --force-badname Abc
+Allowing use of questionable username.
+Adding user `Abc' ...
+Adding new group `Abc' (1002) ...
+Adding new user `Abc' (1002) with group `Abc' ...
+Creating home directory `/home/Abc' ...
+Copying files from `/etc/skel' ...
+New password: 
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for Abc
+Enter the new value, or press ENTER for the default
+	Full Name []: Abc
+	Room Number []: 
+	Work Phone []: 
+	Home Phone []: 
+	Other []: 
+Is the information correct? [Y/n] 
+root@osp:~# 
+```
+<br>
 <br>
 ## Create/Edit your first file: "**.bash_aliases**"
 * Use your favorite editor (vi) to add this following TEXT to file .bash_aliases.
@@ -56,6 +82,7 @@ exit
 ```
 alias cl='clear'
 alias h='history'  
+alias ggg='git pull; git add -A; git commit -m "OS202 cbkadal"; git push;'
 alias mv='mv -i'  
 alias rm='rm -i'  
 alias sss='. ~/.profile'
