@@ -1,4 +1,4 @@
----
+	---
 ---
 
 [HOME](index.md)
@@ -165,7 +165,7 @@ Hurry, Google might not like it if too many downloads a huge file.
 
 * **Debian 10.5 OVA for VirtualBox**: [https://bit.ly/2FMU7F8](https://bit.ly/2FMU7F8) (662MB)
 
-* **README2**: [https://bit.ly/30ysAP5](https://bit.ly/30ysAP5)
+* **README2**: [https://bit.ly/30ysAP5](https://bit.ly/30ysAP5) (249 bytes)
 
 * **Ubuntu Server 20.04 for VirtualBox**: [https://bit.ly/2HRIihL](https://bit.ly/2HRIihL) (1.2GB)
 
