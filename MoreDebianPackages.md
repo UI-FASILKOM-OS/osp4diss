@@ -39,6 +39,7 @@ automake
 bc
 bison
 build-essential
+curl
 fakeroot
 flex
 fuse 
@@ -66,9 +67,10 @@ sysstat
 vim
 wget
 "
-```
 
-<img src="pictures/H-OSP-11.jpg"  width="960">
+```
+<br>
+## Install the package list above
 
 ```
 apt-get install $DEBS -y
