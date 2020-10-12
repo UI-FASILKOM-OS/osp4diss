@@ -126,23 +126,26 @@ chktoken() {
         return 0
     }
 }
+# REV04 Mon 12 Oct 2020 11:39:44 PM WIB (RMS)
 # REV03 Mon Oct  5 09:25:23 WIB 2020 (RMS)
-# REV02 Mon 05 Oct 2020 07:34:14 AM WIB (RMS)
-# REV01 (2020-10-04 07:43 PM UTC+7) Muhamad Yoga Mahendra (aceyoga) 
-# START (2020-10-04 03:51 PM UTC+7) Muhamad Yoga Mahendra (aceyoga) 
+# REV01 (2020-10-04 07:43 PM UTC+7) Muhamad Yoga Mahendra (aceyoga)
+# START (2020-10-04 03:51 PM UTC+7) Muhamad Yoga Mahendra (aceyoga)
 verifyToken() {
-    [ -z $3 ] && { 
+    [ -z $3 ] && {
         echo "verifyToken()"
         echo "Usage: verifyToken TOKEN USER RESULT"
         echo "Or:    verifyToken TOKEN USER RESULT trueFalseMode"
         return 0
     }
     DATE="$(echo $3 | cut -d' ' -f2 | cut -d'-' -f1)"
-    SHA="$(echo  $3 | cut -d' ' -f2 | cut -d'-' -f2)"
+    SHA="$(echo  $3 | cut -d' ' -f2 | cut -d'-' -f2 )"
     RESULT="$(echo $DATE$2$1 | sha1sum  | cut -c1-4 | tr '[:lower:]' '[:upper:]' )"
-    [ $SHA == $RESULT  ] && RETURN="1"      || RETURN="0"
-    [ -z $4 ]            || return $RETURN
-    [ "$RETURN" == "1" ] && echo "Verified" || echo "Error"
+    [ $SHA == $RESULT ] && RETURN="1" || RETURN="0"
+    [ -z $4 ] && {
+        [ "$RETURN" == "1" ] && echo "Verified"  || echo "Error"
+    } || {
+        echo $RETURN
+    }
 }
 export EDITOR=/usr/bin/vi
 export HISTSIZE=2000
