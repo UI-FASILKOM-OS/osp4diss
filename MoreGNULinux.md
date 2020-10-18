@@ -83,6 +83,7 @@ root@osp:~#
 alias cl='clear'
 alias h='history'  
 alias ggg='git pull; git add -A; git commit -m "OS202 cbkadal"; git push;'
+alias glog='git log --all --decorate --oneline --graph'
 alias mv='mv -i'  
 alias rm='rm -i'  
 alias sss='. ~/.profile'
