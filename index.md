@@ -25,9 +25,10 @@
 * [Welcome to GNU/Linux](Welcome2GNULinux.md)
 * [More GNU/Linux](MoreGNULinux.md)
 * [Example: Cicak Bin Kadal](CBKadal.md)
-* [Example: Cicak Bin Kadal part 2](CBKadal2.md)
-* [Example: Cicak Bin Kadal part 3](CBKadal3.md)
-* [Example: Cicak Bin Kadal Week 3](W03.md)
+* [Example: Cicak Bin Kadal part 02](CBKadal2.md)
+* [Example: Cicak Bin Kadal part 03](CBKadal3.md)
+* [Example: Cicak Bin Kadal Week 03](W03.md)
+* [Example: Cicak Bin Kadal Week 06](W06.md)
 <br><br>
 * [ETC](ETC/)
 <br>
