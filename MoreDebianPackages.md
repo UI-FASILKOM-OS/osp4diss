@@ -33,6 +33,7 @@ apt-get update; apt-get dist-upgrade -y;
 
 ```
 export DEBS="
+apt-file
 apt-transport-https
 aptitude
 autoconf
@@ -43,6 +44,7 @@ bridge-utils
 build-essential
 ca-certificates
 cgroupfs-mount
+coreutils
 curl
 dns-root-data
 dnsmasq-base
@@ -50,6 +52,7 @@ docker.io
 fakeroot
 flex
 fuse 
+gawk
 git
 git-flow
 gnupg
@@ -69,6 +72,7 @@ manpages-dev
 net-tools
 nvi
 p7zip-full
+parted
 pigz
 pkg-config
 runc
@@ -77,6 +81,7 @@ software-properties-common
 rsync
 sshfs
 sysstat
+texinfo
 vim
 wget
 "
