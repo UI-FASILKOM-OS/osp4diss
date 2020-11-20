@@ -1,5 +1,5 @@
 title: Operating System Programming 4DISS
-description: (V060-20201121).
+description: (V061-20201121).
       This site is managed by VauLSMorg (vlsm.org) since 2020.
       <br>May the fork() be with Jolan Tru! --- operatingsystems (@T) vlsm dot org.
 google_analytics: UA-89852122-6
@@ -19,7 +19,7 @@ plugins:
 social:
   name: URLs
   links:
-    - https://https://github.com/UI-FASILKOM-OS/osp4diss/
+    - https://https://github.com/OSP4DISS/osp4diss/
 
 # github:
 #    zip_url: https://github.com/rms46/...
