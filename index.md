@@ -29,6 +29,7 @@
 * [Example: Cicak Bin Kadal part 03](CBKadal3.md)
 * [Example: Cicak Bin Kadal Week 03](W03.md)
 * [Example: Cicak Bin Kadal Week 06](W06.md)
+* [Example: Making and encrypting a tarball](osp-001.md)
 <br><br>
 * [ETC](ETC/)
 <br>
