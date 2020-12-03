@@ -84,7 +84,6 @@ cd
 gitstat
 mkdir git
 cd git
-git clone 
 git clone https://github.com/cbkadal/os202.git
 gitstat
 cd git
