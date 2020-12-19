@@ -69,6 +69,7 @@ lynx
 make
 manpages
 manpages-dev
+module-assistant
 net-tools
 nvi
 p7zip-full
