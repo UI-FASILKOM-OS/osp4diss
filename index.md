@@ -32,6 +32,7 @@
 * [Example: Making and encrypting a tarball](osp-001.md)
 <br><br>
 * [ETC](ETC/)
+* [WIP](osp-002.md)
 <br>
 <hr>
 <br>
