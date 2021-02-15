@@ -65,6 +65,7 @@ libncurses-dev
 libseccomp-dev
 libselinux1-dev
 libssl-dev
+locales-all
 lynx
 make
 manpages
