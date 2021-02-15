@@ -85,6 +85,7 @@ sysstat
 texinfo
 vim
 wget
+x11-apps
 "
 
 ```
