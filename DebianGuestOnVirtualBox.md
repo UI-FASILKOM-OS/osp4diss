@@ -8,7 +8,7 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](InstallVirtualBox.md)
-[NEXT](DebianGuestExportOva.md)
+[NEXT](osp-006.md)
 
 # Creating a Debian Guest on VirtualBox
 
@@ -20,8 +20,6 @@
 [Part 1: Creating a New Guest](#part-1-creating-a-new-guest)
 <br>
 [Part 2: Setting the New Guest](#part-2-setting-the-new-guest-in-this-example-deb10-00-0-64g64g-empty)
-<br>
-[Part 3: ISO Image](#part-3-iso-image)
 
 ## Part 1: Creating a New Guest
 
@@ -188,20 +186,6 @@
 <img src="pictures/osp21-30.jpg"  width="960">
 
 <br>
-## Part 3: ISO Image
-
-<span style="color:red; font-weight:bold; font-size:larger;">
-For a limited time only!
-If you are rushing, you might want to download this following OVA file.
-No purchase necessary and void where prohibited.
-Hurry, Google might not like it if too many downloads a huge file. 
-</span>
-
-* **README**:  <https://bit.ly/3dszYmt> (371 bytes)
-
-* **Debian 10.7 OVA for VirtualBox**: <https://bit.ly/3saZpgr> (1.1 GB)
-
-<br>
 #### ENDOFPAGE
 [HOME](index.md)
 [ABOUT](README.md)
@@ -210,5 +194,5 @@ Hurry, Google might not like it if too many downloads a huge file.
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](InstallVirtualBox.md)
-[NEXT](DebianGuestExportOva.md)
+[NEXT](osp-006.md)
 
