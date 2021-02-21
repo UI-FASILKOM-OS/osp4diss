@@ -12,32 +12,33 @@
 
 # Importing a Debian Guest In OVA Format
 
-## Eg. You might want to keep <span style="color:red; font-weight:bold; font-size:larger;">OSPD105</span> as a backup, and using <span style="color:red; font-weight:bold; font-size:larger;">OSPD105a</span> for daily usage.
+## Eg. You might want to keep <span style="color:red; font-weight:bold; font-size:larger;">DEB10-00-0-64G+64G-EMPTY</span> as a backup, and using <span style="color:red; font-weight:bold; font-size:larger;">DEB10-00-1-INSTALL</span> for daily usage.
 
-<img src="pictures/F-OSP-05b.jpg"  width="960">
+### (Tools) IMPORT
 
-<br>
-## Importing OSPD105.ova
-
-<img src="pictures/F-OSP-06.jpg"  width="960">
+<img src="pictures/osp21-36.jpg"  width="960">
 
 <br>
-## Open <span style="color:red; font-weight:bold; font-size:larger;">OSPD105.ova</span>
+### Applience To Import: DEB10-00-0-64G+64G-EMPTY.ova
 
-<img src="pictures/F-OSP-07a.jpg"  width="960">
-
-<br>
-## Rename <span style="color:red; font-weight:bold; font-size:larger;">OSPD105</span> to <span style="color:red; font-weight:bold; font-size:larger;">OSPD105a</span>.
-
-<img src="pictures/F-OSP-07b.jpg"  width="960">
+<img src="pictures/osp21-37.jpg"  width="960">
 
 <br>
-## Your OSPD105a Guest is READY!
+### NEXT
 
-<img src="pictures/F-OSP-08.jpg"  width="960">
+<img src="pictures/osp21-38.jpg"  width="960">
 
 <br>
-# DONE!
+### Applience Setting
+
+* Guest Name: DEB10-00-1-INSTALL
+
+<img src="pictures/osp21-39.jpg"  width="960">
+
+<br>
+## Your DEB10-00-1-INSTALL Guest is READY!
+
+<img src="pictures/osp21-40.jpg"  width="960">
 
 <br>
 #### ENDOFPAGE
