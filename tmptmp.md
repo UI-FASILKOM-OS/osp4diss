@@ -21,12 +21,16 @@
 <br>
 [Part 2: Setting the New Guest](#part-2-setting-the-new-guest-in-this-example-deb10-00-0-64g64g-empty)
 <br>
-[Part 3: ISO Image](#part-3-iso-image)
+[Part 3: Export OVA](#part-3-export-ova)
+<br>
+[Part 4: Import (Rename) OVA](#part-4-import-rename-ova)
+<br>
+[Part 5: The Short Cut](#part-5-the-short-cut)
 
 ## Part 1: Creating a New Guest
 
 * You should adjust these following according to your own belief and faith.
-  * Name: **DEB10-00-0-64G+64G-EMPTY** (<span style="color:red; font-weight:bold; font-size:larger;">your may choose a different guest name</span>).
+  * Name: **DEB10-00-0-64G+64G-EMPTY** (<span style="color:red; font-weight:bold; font-size:larger;">your version may be different</span>).
   * Memory = 1024 MB (512MB is OK too!)
   * Storage1 = 64 GB (dynamically allocated)
   * Storage2 = 64 GB (dynamically allocated)
@@ -187,8 +191,49 @@
 
 <img src="pictures/osp21-30.jpg"  width="960">
 
+## Part 3: Export OVA
+
+<img src="pictures/osp21-31.jpg"  width="960">
+
+* Export Your Guest
+
+<img src="pictures/osp21-32.jpg"  width="960">
+
+* Next
+
+<img src="pictures/osp21-33.jpg"  width="960">
+
+* Export
+
+<img src="pictures/osp21-34.jpg"  width="960">
+
+* Done
+
+<img src="pictures/osp21-35.jpg"  width="960">
+
+## Part 4: Import (Rename) OVA
+
+<img src="pictures/osp21-36.jpg"  width="960">
+
+* Select an OVA file
+
+<img src="pictures/osp21-37.jpg"  width="960">
+
+<img src="pictures/osp21-38.jpg"  width="960">
+
+* DEB10-00-1-INSTALL
+
+<img src="pictures/osp21-39.jpg"  width="960">
+
+* DEB10-00-1-INSTALL
+
+<img src="pictures/osp21-40.jpg"  width="960">
+
+[](ZCZC)
+
+
 <br>
-## Part 3: ISO Image
+## Part 5: The Short Cut
 
 <span style="color:red; font-weight:bold; font-size:larger;">
 For a limited time only!
