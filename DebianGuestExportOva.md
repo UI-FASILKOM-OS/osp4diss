@@ -12,36 +12,31 @@
 
 # Exporting a Debian Guest In OVA Format
 
-## <span style="color:red; font-weight:bold; font-size:larger;">Eg. OSPD105</span>
+## <span style="color:red; font-weight:bold; font-size:larger;">Eg. DEB10-00-0-64G+64G-EMPTY</span>
 
-### File (Click left)
+### (Tools) Export
 
-<img src="pictures/F-OSP-00.jpg"  width="960">
-
-<br>
-### Export Applience
-
-<img src="pictures/F-OSP-01.jpg"  width="960">
+<img src="pictures/osp21-31.jpg"  width="960">
 
 <br>
-### Virtual Machine Name (Eg. OSPD105)
+### Virtual Machines To Export: DEB10-00-0-64G+64G-EMPTY
 
-<img src="pictures/F-OSP-02.jpg"  width="960">
-
-<br>
-### Just NEXT
-
-<img src="pictures/F-OSP-03.jpg"  width="960">
+<img src="pictures/osp21-32.jpg"  width="960">
 
 <br>
-### You May Fill or Just NEXT
+### Applience Settings
 
-<img src="pictures/F-OSP-04.jpg"  width="960">
+<img src="pictures/osp21-33.jpg"  width="960">
 
 <br>
-# Export DONE! (OSPD105.ova)
+### Virtual System Settings
 
-<img src="pictures/F-OSP-05b.jpg"  width="960">
+<img src="pictures/osp21-34.jpg"  width="960">
+
+<br>
+### Export Done (DEB10-00-0-64G+64G-EMPTY)
+
+<img src="pictures/osp21-35.jpg"  width="960">
 
 <br>
 #### ENDOFPAGE
