@@ -25,94 +25,51 @@
 
   * UserName/Account/Pass: Cicak Bin Kadal/cbkadal/cbkadal
 
-  * Disk #1 (64 GB): 256MB swap and "/" (root partition).
-
-  * Disk #2 (64 GB): 256MB swap and "/lfs/" (partition).
+  * **Single Partition/No swap partition**
 
 <br>
-## Add an ISO Image
+## Starting Guest **OSPD105a**
 
-### Select DEB00-00-0-INSTALL and Click Settings
+### Select OSDP105a and Click START
 
-<img src="pictures/osp21-40.jpg"  width="960">
-
-<br>
-### Storage: Controller: SATA
-
-* Adds Optical Drive
-
-<img src="pictures/osp21-41.jpg"  width="960">
+<img src="pictures/B-OSP-01.jpg"  width="960">
 
 <br>
-### Add Disk Image
+## You can adjust the consule size
 
-<img src="pictures/osp21-42.jpg"  width="960">
+* Setting: Display: Screen: Scale Factor: upto 200%
 
-<br>
-### Open an ISO Image
-
-* Eg. debian-10.7.0-amd64-netinst.iso
-
-<img src="pictures/osp21-43.jpg"  width="960">
+<img src="pictures/B-OSP-02.jpg"  width="960">
 
 <br>
-### Choose: debian-10.7.0-amd64-netinst.iso
+Graphical Install
 
-<img src="pictures/osp21-44.jpg"  width="960">
-
-<br>
-### Storage: OK
-
-<img src="pictures/osp21-45.jpg"  width="960">
+<img src="pictures/B-OSP-05.jpg"  width="960">
 
 <br>
-### DEB10-00-0-INSTALL is ready to be installed
+Select a Language: English
 
-<img src="pictures/osp21-46.jpg"  width="960">
-
-<br>
-## Starting Guest **DEB10-00-0-INSTALL**
-
-<img src="pictures/osp21-47.jpg"  width="960">
+<img src="pictures/B-OSP-06.jpg"  width="960">
 
 <br>
-### Virtual Box Starts
+Location: Other
 
-<img src="pictures/osp21-48.jpg"  width="960">
-
-<br>
-### Graphical Install
-
-<img src="pictures/osp21-49.jpg"  width="960">
+<img src="pictures/B-OSP-07a.jpg"  width="960">
 
 <br>
-### Select A Language: English (or else)
+Location: Asia
 
-<img src="pictures/osp21-50.jpg"  width="960">
-
-<br>
-### Select Your Location: Other (or else)
-
-<img src="pictures/osp21-51.jpg"  width="960">
+<img src="pictures/B-OSP-07.jpg"  width="960">
 
 <br>
-### Select Your Location: Asia (or else)
+Location: Asia: Indonesia (or whereever you are!)
 
-<img src="pictures/osp21-52.jpg"  width="960">
-
-<br>
-### Select Your Location: Asia: Indonesia (or whereever)
-
-<img src="pictures/osp21-53.jpg"  width="960">
+<img src="pictures/B-OSP-08.jpg"  width="960">
 
 <br>
-### Configure Locales: United States (en_US.UTF-8)
+Locales: United States en_US.UTF-8
 
-<img src="pictures/osp21-54.jpg"  width="960">
-
-<hr>
-**THIS IS WORK IN PROGRESS**
-<hr>
+<img src="pictures/B-OSP-09.jpg"  width="960">
 
 <br>
 Keyboard: American English
