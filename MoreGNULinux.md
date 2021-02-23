@@ -78,8 +78,9 @@ root@osp:~#
 <br>
 <img src="pictures/LK-OSP-02.jpg" width="960">
 
-##### bashaliases
+##### dotbash_aliases
 ```
+# REV01 Tue 23 Feb 2021 17:23:19 WIB (RMS)
 alias cl='clear;echo ""'
 alias h='history'  
 alias gac='git add -A && git commit'
@@ -88,8 +89,8 @@ alias glog='git log --all --decorate --oneline --graph'
 alias mv='mv -i'  
 alias rm='rm -i'  
 alias sss='. ~/.profile'
-# REV01 Mon 05 Oct 2020 09:14:50 AM WIB (rms46)
-# START Sat 19 Sep 2020 00:00:00 (rms46)
+# REV01 Mon 05 Oct 2020 09:14:50 AM WIB (RMS)
+# START Sat 19 Sep 2020 00:00:00 (RMS)
 gitstat() {
    git rev-parse --is-inside-work-tree &> /dev/null
    [ "$?" == "0" ] && git status
@@ -147,6 +148,7 @@ verifyToken() {
 export EDITOR=/usr/bin/vi
 export HISTSIZE=2000
 export HISTFILESIZE=2000 
+
 ```
 <br>
 <br>

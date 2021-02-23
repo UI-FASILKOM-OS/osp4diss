@@ -74,7 +74,7 @@ gitstat
 <img src="pictures/cbkadal-07.jpg" width="960">
 
 <br>
-## Cloning a github repository "os202"
+## Cloning a github repository "os221"
 
 <img src="pictures/cbkadal-06.jpg" width="960">
 
@@ -84,7 +84,7 @@ cd
 gitstat
 mkdir git
 cd git
-git clone https://github.com/cbkadal/os202.git
+git clone https://github.com/cbkadal/os221.git
 gitstat
 cd git
 gitstat
@@ -116,7 +116,7 @@ gitstat
 ```
 cd
 gitstat
-cd git/os202/TXT
+cd git/os211/TXT
 gitstat
 vi mylog.txt
 ```
@@ -137,7 +137,7 @@ gitstat
 <img src="pictures/cbkadal-13.jpg" width="960">
 
 ```
-git commit -m "OS202 cbkadal UPDATE mylog.txt"
+git commit -m "OS211 cbkadal UPDATE mylog.txt"
 gitstat
 git pull
 git push
