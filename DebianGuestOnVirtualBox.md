@@ -12,9 +12,10 @@
 
 # Creating a Debian Guest on VirtualBox
 
-## NOTE: Version <span style="color:red; font-weight:bold; font-size:larger;">Debian 10.7</span>
+## NOTE: Version in this example: <span style="color:red; font-weight:bold; font-size:larger;">Debian 10.7</span>
 
 ## <span style="color:red; font-weight:bold; font-size:larger;">THIS IS SUBJECT TO CHANGE!</span>
+
 
 <br>
 [Part 1: Creating a New Guest](#part-1-creating-a-new-guest)

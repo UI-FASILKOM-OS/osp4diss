@@ -20,7 +20,7 @@ Use Free Download Manager if your internet link is slow and less reliable.
 Otherwise, download with a regular browser like Firefox or you can install the <b>plugin</b> for that browser.
 </span>
 
-### FDM URL: [https://www.freedownloadmanager.org/](https://www.freedownloadmanager.org/)
+### See also [FDM: Free Download Manager (Optional)](http://localhost:4000/InstallFDM.html)
 
 <br>
 ## Downloading PUTTY

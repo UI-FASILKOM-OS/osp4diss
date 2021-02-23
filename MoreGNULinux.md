@@ -80,18 +80,14 @@ root@osp:~#
 
 ##### bashaliases
 ```
-alias cl='clear'
+alias cl='clear;echo ""'
 alias h='history'  
-alias ggg='git pull; git add -A; git commit -m "OS202 cbkadal"; git push;'
+alias gac='git add -A && git commit'
+alias ggg='git pull; git add -A; git commit -m "OS211 cbkadal"; git push;'
 alias glog='git log --all --decorate --oneline --graph'
 alias mv='mv -i'  
 alias rm='rm -i'  
 alias sss='. ~/.profile'
-alias sbadak="ssh -p 6023 cbkadal@localhost"
-alias tunnel='ssh -L 6023:badak.cs.ui.ac.id:22 cbkadal@kawung.cs.ui.ac.id'
-alias rsyncDocs="  rsync -auv --delete -e 'ssh -p 6023' cbkadal@localhost:/extra/Docs/   /home/cbkadal/extra/Docs/"
-alias rsyncDemos=" rsync -auv --delete -e 'ssh -p 6023' cbkadal@localhost:/extra/Demos/  /home/cbkadal/extra/Demos/"
-alias rsyncSlides="rsync -auv --delete -e 'ssh -p 6023' cbkadal@localhost:/extra/Slides/ /home/cbkadal/extra/Slides/"
 # REV01 Mon 05 Oct 2020 09:14:50 AM WIB (rms46)
 # START Sat 19 Sep 2020 00:00:00 (rms46)
 gitstat() {
