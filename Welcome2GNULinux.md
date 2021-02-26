@@ -37,7 +37,6 @@ The Complete Linux Course: Beginner to Power User!<br>
 [![VI Basics in 8 Minutes](https://img.youtube.com/vi/ggSyF1SVFr4/0.jpg)](https://www.youtube.com/watch?v=ggSyF1SVFr4)
 
 * [Basics VI Commands](https://www.cs.colostate.edu/helpdocs/vi.html)
-* [How to Use the VI editor](https://www.washington.edu/computing/unix/vi.html)
 
 <br>
 #### ENDOFPAGE
