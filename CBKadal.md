@@ -15,10 +15,10 @@ These following examples is for user **cbkadal** of guest *osp*.
 Replace **cbkadal** with your own user name.
 
 <br>
-## Set a tunnel from osp (port 6023) to badak (ssh port 22) via kawung.
+## Set a tunnel from osp (port 6023) to badak (ssh port 22) via kawung (ssh port XYZZY).
 
 ```
-ssh -L 6023:badak.cs.ui.ac.id:22 cbkadal@kawung.cs.ui.ac.id
+ssh -p XYZZY -L 6023:badak.cs.ui.ac.id:22 cbkadal@kawung.cs.ui.ac.id
 ```
 
 <img src="pictures/cbkadal-01.jpg" width="960">
