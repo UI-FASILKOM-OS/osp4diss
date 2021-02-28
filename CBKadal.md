@@ -156,6 +156,39 @@ cbkadal@osp:~/git/SistemOperasi$
 ```
 
 <br>
+### INPUT02
+```
+cd
+pwd
+mkdir mydemo
+cp -r git/SistemOperasi/Demos/Week01/ mydemo/
+ls -F mydemo/Week01/
+
+```
+
+<br>
+### OUTPUT02
+```
+cbkadal@osp:~/git/SistemOperasi$ cd
+
+cbkadal@osp:~$ pwd
+/home/cbkadal
+
+cbkadal@osp:~$ mkdir mydemo
+
+cbkadal@osp:~$ cp -r git/SistemOperasi/Demos/Week01/ mydemo/
+
+cbkadal@osp:~$ ls -F mydemo/Week01/
+000-READ-THIS-FIRST.txt  a05-finding-EXIST  a10-mysha1   a15-uts171  a20-uts201
+a01-SCREEN-CHECK         a06-loop           a11-banding  a16-uts181
+a02-sort-n-prepare       a07-tester         a12-fixfs    a17-uts182
+a03-command-lines-demo   a08-append-a-file  a13-last     a18-uts191
+a04-does-it-exist        a09-add-numbers    a14-absen    a19-uts192
+cbkadal@osp:~$ 
+
+```
+
+<br>
 ## Updating mylog.txt
 
 ```
