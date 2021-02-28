@@ -19,6 +19,7 @@ Replace **cbkadal** with your own user name.
 
 ```
 ssh -p XYZZY -L 6023:badak.cs.ui.ac.id:22 cbkadal@kawung.cs.ui.ac.id
+
 ```
 
 <img src="pictures/cbkadal-01.jpg" width="960">
@@ -29,6 +30,7 @@ ssh -p XYZZY -L 6023:badak.cs.ui.ac.id:22 cbkadal@kawung.cs.ui.ac.id
 ```
 ssh -p 6023 cbkadal@localhost
 ls -al /extra/
+
 ```
 <img src="pictures/cbkadal-02.jpg" width="960">
 
@@ -39,6 +41,7 @@ ls -al /extra/
 ls -F
 mkdir extra
 rsync -auv --delete -e 'ssh -p 6023' cbkadal@localhost:/extra/Docs/  extra/Docs/
+
 ```
 
 <img src="pictures/cbkadal-03.jpg" width="960">
@@ -46,6 +49,7 @@ rsync -auv --delete -e 'ssh -p 6023' cbkadal@localhost:/extra/Docs/  extra/Docs/
 <br>
 ```
 rsync -auv --delete -e 'ssh -p 6023' cbkadal@localhost:/extra/Slides/  extra/Slides/
+
 ```
 
 <img src="pictures/cbkadal-05.jpg" width="960">
@@ -69,6 +73,7 @@ git config credential.helper
 git config --list
 cat ~/.gitconfig
 gitstat
+
 ```
 <br>
 <img src="pictures/cbkadal-07.jpg" width="960">
@@ -88,6 +93,7 @@ git clone https://github.com/cbkadal/os221.git
 gitstat
 cd git
 gitstat
+
 ```
 
 <img src="pictures/cbkadal-08.jpg" width="960">
@@ -106,6 +112,7 @@ git clone https://github.com/UI-FASILKOM-OS/SistemOperasi.git
 gitstat
 cd SistemOperasi
 gitstat
+
 ```
 
 <img src="pictures/cbkadal-10.jpg" width="960">
@@ -119,6 +126,7 @@ gitstat
 cd git/os211/TXT
 gitstat
 vi mylog.txt
+
 ```
 
 <img src="pictures/cbkadal-11.jpg" width="960">
@@ -132,6 +140,7 @@ vi mylog.txt
 gitstat
 git add -A
 gitstat
+
 ```
 
 <img src="pictures/cbkadal-13.jpg" width="960">
@@ -142,6 +151,7 @@ gitstat
 git pull
 git push
 git stat
+
 ```
 
 <img src="pictures/cbkadal-14.jpg" width="960">
