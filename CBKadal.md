@@ -104,6 +104,7 @@ gitstat
 <img src="pictures/cbkadal-09.jpg" width="960">
 
 <br>
+### INPUT01
 ```
 cd 
 cd git
@@ -115,7 +116,44 @@ gitstat
 
 ```
 
-<img src="pictures/cbkadal-10.jpg" width="960">
+<br>
+### OUTPUT01
+```
+cbkadal@osp:~$ cd 
+
+cbkadal@osp:~$ cd git
+
+cbkadal@osp:~/git$ gitstat
+./  ../  os211/  .shsh  xchg211/  .ZREMOTE/
+ZCZC cbkadal ==== Sun 28 Feb 17:06:16 WIB 2021 ===== PWD:/home/cbkadal/git
+
+cbkadal@osp:~/git$ git clone https://github.com/UI-FASILKOM-OS/SistemOperasi.git
+Cloning into 'SistemOperasi'...
+remote: Enumerating objects: 119, done.
+remote: Counting objects: 100% (119/119), done.
+remote: Compressing objects: 100% (69/69), done.
+remote: Total 5774 (delta 67), reused 76 (delta 50), pack-reused 5655
+Receiving objects: 100% (5774/5774), 105.23 MiB | 2.14 MiB/s, done.
+Resolving deltas: 100% (4296/4296), done.
+
+cbkadal@osp:~/git$ gitstat
+./  ../  os211/  .shsh  SistemOperasi/  xchg211/  .ZREMOTE/
+ZCZC cbkadal ==== Sun 28 Feb 17:07:11 WIB 2021 ===== PWD:/home/cbkadal/git
+
+cbkadal@osp:~/git$ cd SistemOperasi
+
+cbkadal@osp:~/git/SistemOperasi$ gitstat
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+./     _config.yml  .dojekyll    Gemfile     index.md  pib.jpg       SECURITY.md
+../    covid.md     faq.md       .git/       LICENSE   playlists.md  Slides/
+CNAME  Demos/       favicon.ico  .gitignore  Log/      README.md@    WEEK/
+ZCZC cbkadal ==== Sun 28 Feb 17:08:11 WIB 2021 ===== PWD:/home/cbkadal/git/SistemOperasi
+cbkadal@osp:~/git/SistemOperasi$ 
+
+```
 
 <br>
 ## Updating mylog.txt
