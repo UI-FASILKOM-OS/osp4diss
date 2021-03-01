@@ -91,7 +91,7 @@ mkdir git
 cd git
 git clone https://github.com/cbkadal/os221.git
 gitstat
-cd git
+cd os211
 gitstat
 
 ```
