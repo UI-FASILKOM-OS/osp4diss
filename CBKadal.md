@@ -62,7 +62,7 @@ Replace 'Cicak Bin Kadal' with your own name.
 
 ```
 gitstat
-git config --global user.email        'cbkadal@DELETE.vlsm.org'
+git config --global user.email        '70104051+cbkadal@users.noreply.github.com'
 git config --global user.name         'Cicak Bin Kadal'
 git config --global core.editor       'vi'
 git config --global credential.helper 'cache --timeout=3600'

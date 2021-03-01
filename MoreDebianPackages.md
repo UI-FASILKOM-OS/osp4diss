@@ -95,6 +95,7 @@ x11-apps
 
 ```
 apt-get install $DEBS -y
+
 ```
 
 <img src="pictures/H-OSP-12.jpg"  width="960">
