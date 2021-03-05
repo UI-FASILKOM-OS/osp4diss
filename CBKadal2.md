@@ -18,7 +18,7 @@ Replace **cbkadal** with your own user name.
 * RSA and RSA.
 * Keysize is 4096 bits.
 * key expires in 1 year.
-* No passphrase.
+* No passphrase (**You decide!**).
 
 <br>
 ### INPUT(1)
