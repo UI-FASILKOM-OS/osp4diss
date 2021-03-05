@@ -20,6 +20,16 @@ Replace **cbkadal** with your own user name.
 * key expires in 1 year.
 * No passphrase.
 
+<br>
+### INPUT(1)
+
+```
+gpg --full-generate-key
+
+```
+
+### OUTPUT(1)
+
 ```
 cbkadal@osp:~$ gpg --full-generate-key
 gpg (GnuPG) 2.2.12; Copyright (C) 2018 Free Software Foundation, Inc.
@@ -74,10 +84,21 @@ pub   rsa4096 2020-09-28 [SC] [expires: 2021-09-28]
       C13787F94073986F0FE39A4E6BE9DC2074F27BF1
 uid                      Cicak Bin Kadal (CBK) <cbk@dummy>
 sub   rsa4096 2020-09-28 [E] [expires: 2021-09-28]
+
 ```
 
 <br>
 ## List the keys
+
+<br>
+### INPUT(2)
+
+```
+gpg --list-keys
+
+```
+
+### OUTPUT(2)
 
 ```
 cbkadal@osp:~$ gpg --list-keys
@@ -93,12 +114,37 @@ uid           [ultimate] Cicak Bin Kadal (CBK) <cbk@dummy>
 sub   rsa4096 2020-09-28 [E] [expires: 2021-09-28]
 
 cbkadal@osp:~$ 
-```
-<br>
-## Importing the Operating Systems public key
-* Source: <https://osp4diss.vlsm.org/ETC/ospubkey.txt>
 
 ```
+
+<br>
+## Importing the Operating Systems public key
+
+* Source: <https://osp4diss.vlsm.org/ETC/ospubkey.txt>
+
+### INPUT(3)
+
+```
+wget -c https://osp4diss.vlsm.org/ETC/ospubkey.txt
+gpg --import ospubkey.txt
+
+```
+
+### OUTPUT(3)
+
+```
+cbkadal@osp:~$ wget -c https://osp4diss.vlsm.org/ETC/ospubkey.txt
+--2021-03-05 12:59:58--  https://osp4diss.vlsm.org/ETC/ospubkey.txt
+Resolving osp4diss.vlsm.org (osp4diss.vlsm.org)... 185.199.110.153, 185.199.111.153, 185.199.109.153, ...
+Connecting to osp4diss.vlsm.org (osp4diss.vlsm.org)|185.199.110.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3171 (3.1K) [text/plain]
+Saving to: ‘ospubkey.txt’
+
+ospubkey.txt                  100%[=================================================>]   3.10K  --.-KB/s    in 0s      
+
+2021-03-05 12:59:58 (11.0 MB/s) - ‘ospubkey.txt’ saved [3171/3171]
+
 cbkadal@osp:~$ gpg --import ospubkey.txt 
 gpg: key D0F5DBDD67DF6DDE: public key "Operating Systems (OS) <operatingsystems@vlsm.org>" imported
 gpg: Total number processed: 1
@@ -117,13 +163,28 @@ uid           [ unknown] Operating Systems (OS) <operatingsystems@vlsm.org>
 sub   rsa4096 2020-02-13 [E] [expires: 2021-02-12]
 
 cbkadal@osp:~$
+
 ```
 <br>
 ## Export Public Key "mypubkey.txt"
 
+<br>
+### INPUT(4)
+
+```
+cd git/os202/TXT/
+gpg -o mypubkey.txt --armor --export C13787F94073986F0FE39A4E6BE9DC2074F27BF1
+ls -al
+
+```
+
+### OUTPUT(4)
+
 ```
 cbkadal@osp:~$ cd git/os202/TXT/
+
 cbkadal@osp:~/git/os202/TXT$ gpg -o mypubkey.txt --armor --export C13787F94073986F0FE39A4E6BE9DC2074F27BF1
+
 cbkadal@osp:~/git/os202/TXT$ ls -al
 total 24
 drwxr-xr-x 2 cbkadal cbkadal 4096 Sep 28 23:25 .
@@ -132,14 +193,42 @@ drwxr-xr-x 6 cbkadal cbkadal 4096 Sep 28 22:12 ..
 -rw-r--r-- 1 cbkadal cbkadal 3147 Sep 28 23:25 mypubkey.txt
 -rw-r--r-- 1 cbkadal cbkadal  119 Sep 28 21:35 myrank.txt
 -rw-r--r-- 1 cbkadal cbkadal  419 Sep 28 22:06 myscript.sh
+
 cbkadal@osp:~/git/os202/TXT$
+
 ```
 <br>
 ## Generate SHA256SUM and SHA256SUM.asc
 
+<br>
+### INPUT(5)
+
 ```
-cbkadal@osp:~/git/os202/TXT$ bash myscript.sh 
-sha256sum mylog.txt mypubkey.txt myrank.txt myscript.sh > SHA256SUM
+ls -al
+bash myscript.sh 
+git pull
+git add -A
+git commit -m "OS211 cbkadal TXT"
+git push
+ls -al
+
+```
+
+### OUTPUT(5)
+
+```
+cbkadal@osp:~/git/os211/TXT$ ls -al
+total 24
+drwxr-xr-x 2 cbkadal cbkadal 4096 Mar  5 13:18 .
+drwxr-xr-x 9 cbkadal cbkadal 4096 Mar  3 14:38 ..
+-rw-r--r-- 1 cbkadal cbkadal 1171 Mar  5 13:19 mylog.txt
+-rw-r--r-- 1 cbkadal cbkadal 3147 Mar  5 13:19 mypubkey.txt
+-rw-r--r-- 1 cbkadal cbkadal  491 Mar  5 13:19 myrank.txt
+-rw-r--r-- 1 cbkadal cbkadal  453 Mar  5 13:19 myscript.sh
+
+cbkadal@osp:~/git/os211/TXT$ bash myscript.sh 
+rm -f SHA256SUM SHA256SUM.asc
+sha256sum my*.txt my*.sh > SHA256SUM
 sha256sum -c SHA256SUM
 mylog.txt: OK
 mypubkey.txt: OK
@@ -147,20 +236,49 @@ myrank.txt: OK
 myscript.sh: OK
 gpg -o SHA256SUM.asc -a -sb SHA256SUM
 gpg --verify SHA256SUM.asc SHA256SUM
-gpg: Signature made Mon 28 Sep 2020 11:26:55 PM WIB
-gpg:                using RSA key C13787F94073986F0FE39A4E6BE9DC2074F27BF1
+gpg: Signature made Fri 05 Mar 2021 13:19:16 WIB
+gpg:                using RSA key 56754A8214D01B20B97BF5EF078CA2C2F3F22F37
 gpg: Good signature from "Cicak Bin Kadal (CBK) <cbk@dummy>" [ultimate]
-cbkadal@osp:~/git/os202/TXT$ ls -al
+
+cbkadal@osp:~/git/os211/TXT$ git pull
+Already up to date.
+
+cbkadal@osp:~/git/os211/TXT$ git add -A
+
+cbkadal@osp:~/git/os211/TXT$ git commit -m "OS211 cbkadal TXT"
+[master 5b0e708] OS211 cbkadal TXT
+ 6 files changed, 168 insertions(+)
+ create mode 100644 TXT/SHA256SUM
+ create mode 100644 TXT/SHA256SUM.asc
+ create mode 100644 TXT/mylog.txt
+ create mode 100644 TXT/mypubkey.txt
+ create mode 100644 TXT/myrank.txt
+ create mode 100644 TXT/myscript.sh
+
+cbkadal@osp:~/git/os211/TXT$ git push
+Enumerating objects: 10, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 6 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (9/9), 4.32 KiB | 4.32 MiB/s, done.
+Total 9 (delta 1), reused 2 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:cbkadal/os211.git
+   8fd6980..5b0e708  master -> master
+
+cbkadal@osp:~/git/os211/TXT$ ls -al
 total 32
-drwxr-xr-x 2 cbkadal cbkadal 4096 Sep 28 23:26 .
-drwxr-xr-x 6 cbkadal cbkadal 4096 Sep 28 22:12 ..
--rw-r--r-- 1 cbkadal cbkadal  630 Sep 28 18:11 mylog.txt
--rw-r--r-- 1 cbkadal cbkadal 3147 Sep 28 23:25 mypubkey.txt
--rw-r--r-- 1 cbkadal cbkadal  119 Sep 28 21:35 myrank.txt
--rw-r--r-- 1 cbkadal cbkadal  419 Sep 28 22:06 myscript.sh
--rw-r--r-- 1 cbkadal cbkadal  310 Sep 28 23:26 SHA256SUM
--rw-r--r-- 1 cbkadal cbkadal  833 Sep 28 23:26 SHA256SUM.asc
-cbkadal@osp:~/git/os202/TXT$ 
+drwxr-xr-x 2 cbkadal cbkadal 4096 Mar  5 13:19 .
+drwxr-xr-x 9 cbkadal cbkadal 4096 Mar  3 14:38 ..
+-rw-r--r-- 1 cbkadal cbkadal 1171 Mar  5 13:19 mylog.txt
+-rw-r--r-- 1 cbkadal cbkadal 3147 Mar  5 13:19 mypubkey.txt
+-rw-r--r-- 1 cbkadal cbkadal  491 Mar  5 13:19 myrank.txt
+-rw-r--r-- 1 cbkadal cbkadal  453 Mar  5 13:19 myscript.sh
+-rw-r--r-- 1 cbkadal cbkadal  310 Mar  5 13:19 SHA256SUM
+-rw-r--r-- 1 cbkadal cbkadal  833 Mar  5 13:19 SHA256SUM.asc
+
+cbkadal@osp:~/git/os211/TXT$ 
+
 ```
 
 <br>
