@@ -77,13 +77,13 @@ generator a better chance to gain enough entropy.
 gpg: /home/cbkadal/.gnupg/trustdb.gpg: trustdb created
 gpg: key 6BE9DC2074F27BF1 marked as ultimately trusted
 gpg: directory '/home/cbkadal/.gnupg/openpgp-revocs.d' created
-gpg: revocation certificate stored as '/home/cbkadal/.gnupg/openpgp-revocs.d/C13787F94073986F0FE39A4E6BE9DC2074F27BF1.rev'
+gpg: revocation certificate stored as '/home/cbkadal/.gnupg/openpgp-revocs.d/XXX.rev'
 public and secret key created and signed.
 
-pub   rsa4096 2020-09-28 [SC] [expires: 2021-09-28]
-      C13787F94073986F0FE39A4E6BE9DC2074F27BF1
-uid                      Cicak Bin Kadal (CBK) <cbk@dummy>
-sub   rsa4096 2020-09-28 [E] [expires: 2021-09-28]
+pub   rsa4096 2021-02-18 [SC] [expires: 2021-08-17]
+      56754A8214D01B20B97BF5EF078CA2C2F3F22F37
+uid           [ultimate] Cicak Bin Kadal (CBK) <cbk@dummy>
+sub   rsa4096 2021-02-18 [E] [expires: 2021-08-17]
 
 ```
 
@@ -104,14 +104,13 @@ gpg --list-keys
 cbkadal@osp:~$ gpg --list-keys
 gpg: checking the trustdb
 gpg: marginals needed: 3  completes needed: 1  trust model: pgp
-gpg: depth: 0  valid:   1  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 1u
-gpg: next trustdb check due at 2021-09-28
-/home/cbkadal/.gnupg/pubring.kbx
+gpg: depth: 0  valid:   2  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 2u
+gpg: next trustdb check due at 2021-08-17
 --------------------------------
-pub   rsa4096 2020-09-28 [SC] [expires: 2021-09-28]
-      C13787F94073986F0FE39A4E6BE9DC2074F27BF1
+pub   rsa4096 2021-02-18 [SC] [expires: 2021-08-17]
+      56754A8214D01B20B97BF5EF078CA2C2F3F22F37
 uid           [ultimate] Cicak Bin Kadal (CBK) <cbk@dummy>
-sub   rsa4096 2020-09-28 [E] [expires: 2021-09-28]
+sub   rsa4096 2021-02-18 [E] [expires: 2021-08-17]
 
 cbkadal@osp:~$ 
 
@@ -127,6 +126,7 @@ cbkadal@osp:~$
 ```
 wget -c https://osp4diss.vlsm.org/ETC/ospubkey.txt
 gpg --import ospubkey.txt
+gpg --list-keys
 
 ```
 
@@ -134,35 +134,34 @@ gpg --import ospubkey.txt
 
 ```
 cbkadal@osp:~$ wget -c https://osp4diss.vlsm.org/ETC/ospubkey.txt
---2021-03-05 12:59:58--  https://osp4diss.vlsm.org/ETC/ospubkey.txt
-Resolving osp4diss.vlsm.org (osp4diss.vlsm.org)... 185.199.110.153, 185.199.111.153, 185.199.109.153, ...
-Connecting to osp4diss.vlsm.org (osp4diss.vlsm.org)|185.199.110.153|:443... connected.
+--2021-03-08 12:14:19--  https://osp4diss.vlsm.org/ETC/ospubkey.txt
+Resolving osp4diss.vlsm.org (osp4diss.vlsm.org)... 185.199.111.153, 185.199.109.153, 185.199.110.153, ...
+Connecting to osp4diss.vlsm.org (osp4diss.vlsm.org)|185.199.111.153|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 3171 (3.1K) [text/plain]
 Saving to: ‘ospubkey.txt’
 
-ospubkey.txt                  100%[=================================================>]   3.10K  --.-KB/s    in 0s      
+ospubkey.txt                  100%[=================================================>]   3.10K  --.-KB/s    in 0.001s  
 
-2021-03-05 12:59:58 (11.0 MB/s) - ‘ospubkey.txt’ saved [3171/3171]
+2021-03-08 12:14:20 (5.79 MB/s) - ‘ospubkey.txt’ saved [3171/3171]
 
-cbkadal@osp:~$ gpg --import ospubkey.txt 
+cbkadal@osp:~$ gpg --import ospubkey.txt
 gpg: key D0F5DBDD67DF6DDE: public key "Operating Systems (OS) <operatingsystems@vlsm.org>" imported
 gpg: Total number processed: 1
 gpg:               imported: 1
+
 cbkadal@osp:~$ gpg --list-keys
 /home/cbkadal/.gnupg/pubring.kbx
 --------------------------------
-pub   rsa4096 2020-09-28 [SC] [expires: 2021-09-28]
-      C13787F94073986F0FE39A4E6BE9DC2074F27BF1
+pub   rsa4096 2021-02-18 [SC] [expires: 2021-08-17]
+      56754A8214D01B20B97BF5EF078CA2C2F3F22F37
 uid           [ultimate] Cicak Bin Kadal (CBK) <cbk@dummy>
-sub   rsa4096 2020-09-28 [E] [expires: 2021-09-28]
+sub   rsa4096 2021-02-18 [E] [expires: 2021-08-17]
 
-pub   rsa4096 2020-02-13 [SC] [expires: 2021-02-12]
+pub   rsa4096 2020-02-13 [SC] [expires: 2021-08-17]
       B4507B533F7F22840BD8E93ED0F5DBDD67DF6DDE
-uid           [ unknown] Operating Systems (OS) <operatingsystems@vlsm.org>
-sub   rsa4096 2020-02-13 [E] [expires: 2021-02-12]
-
-cbkadal@osp:~$
+uid           [ultimate] Operating Systems (OS) <operatingsystems@vlsm.org>
+sub   rsa4096 2020-02-13 [E] [expires: 2021-08-17]
 
 ```
 <br>
@@ -172,8 +171,9 @@ cbkadal@osp:~$
 ### INPUT(4)
 
 ```
-cd git/os202/TXT/
-gpg -o mypubkey.txt --armor --export C13787F94073986F0FE39A4E6BE9DC2074F27BF1
+cd git/os211/TXT/
+rm -f mypubkey.txt
+gpg -o mypubkey.txt --armor --export 56754A8214D01B20B97BF5EF078CA2C2F3F22F37
 ls -al
 
 ```
@@ -181,20 +181,22 @@ ls -al
 ### OUTPUT(4)
 
 ```
-cbkadal@osp:~$ cd git/os202/TXT/
+cbkadal@osp:~$ cd git/os211/TXT/
 
-cbkadal@osp:~/git/os202/TXT$ gpg -o mypubkey.txt --armor --export C13787F94073986F0FE39A4E6BE9DC2074F27BF1
+cbkadal@osp:~/git/os211/TXT$ rm -f mypubkey.txt
 
-cbkadal@osp:~/git/os202/TXT$ ls -al
+cbkadal@osp:~/git/os211/TXT$ gpg -o mypubkey.txt --armor --export 56754A8214D01B20B97BF5EF078CA2C2F3F22F37
+
+cbkadal@osp:~/git/os211/TXT$ ls -al
 total 24
-drwxr-xr-x 2 cbkadal cbkadal 4096 Sep 28 23:25 .
-drwxr-xr-x 6 cbkadal cbkadal 4096 Sep 28 22:12 ..
--rw-r--r-- 1 cbkadal cbkadal  630 Sep 28 18:11 mylog.txt
--rw-r--r-- 1 cbkadal cbkadal 3147 Sep 28 23:25 mypubkey.txt
--rw-r--r-- 1 cbkadal cbkadal  119 Sep 28 21:35 myrank.txt
--rw-r--r-- 1 cbkadal cbkadal  419 Sep 28 22:06 myscript.sh
+drwxr-xr-x 2 cbkadal cbkadal 4096 Mar  8 12:24 .
+drwxr-xr-x 9 cbkadal cbkadal 4096 Mar  7 07:05 ..
+-rw-r--r-- 1 cbkadal cbkadal 1171 Mar  8 11:58 mylog.txt
+-rw-r--r-- 1 cbkadal cbkadal 3147 Mar  8 12:24 mypubkey.txt
+-rw-r--r-- 1 cbkadal cbkadal  491 Mar  5 13:19 myrank.txt
+-rw-r--r-- 1 cbkadal cbkadal  453 Mar  5 13:19 myscript.sh
 
-cbkadal@osp:~/git/os202/TXT$
+cbkadal@osp:~/git/os211/TXT$ 
 
 ```
 <br>
