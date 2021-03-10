@@ -17,25 +17,35 @@ Replace **cbkadal** with your own user name.
 <br>
 ## Set a tunnel from osp (port 6023) to badak (ssh port 22) via kawung (ssh port XYZZY).
 
+### INPUT01
 ```
 ssh -p XYZZY -L 6023:badak.cs.ui.ac.id:22 cbkadal@kawung.cs.ui.ac.id
 
 ```
+
+### OUTPUT01
 
 <img src="pictures/cbkadal-01.jpg" width="960">
 
 <br>
 ## Connect to badak via a tunnel.
 
+### INPUT02
+
 ```
 ssh -p 6023 cbkadal@localhost
 ls -al /extra/
 
 ```
+
+### OUTPUT02
+
 <img src="pictures/cbkadal-02.jpg" width="960">
 
 <br>
 ## Copy from badak:///extra/ to *osp* via tunnel
+
+### INPUT03
 
 ```
 ls -F
@@ -44,13 +54,20 @@ rsync -auv --delete -e 'ssh -p 6023' cbkadal@localhost:/extra/Docs/  extra/Docs/
 
 ```
 
+### OUTPUT03
+
 <img src="pictures/cbkadal-03.jpg" width="960">
 
 <br>
+
+### INPUT04
+
 ```
 rsync -auv --delete -e 'ssh -p 6023' cbkadal@localhost:/extra/Slides/  extra/Slides/
 
 ```
+
+### OUTPUT04
 
 <img src="pictures/cbkadal-05.jpg" width="960">
 
@@ -59,6 +76,8 @@ rsync -auv --delete -e 'ssh -p 6023' cbkadal@localhost:/extra/Slides/  extra/Sli
 
 Config name and email for git.
 Replace 'Cicak Bin Kadal' with your own name.
+
+### INPUT05
 
 ```
 gitstat
@@ -75,26 +94,79 @@ cat ~/.gitconfig
 gitstat
 
 ```
-<br>
-<img src="pictures/cbkadal-07.jpg" width="960">
+
+### OUTPUT05
+
+```
+cbkadal@osp:~$ gitstat
+./  ../  .bash_aliases  .bash_logout  .bashrc  .profile  .viminfo  .vimrc
+ZCZC cbkadal ==== Wed 10 Mar 2021 07:05:22 PM WIB ===== PWD:/home/cbkadal
+
+cbkadal@osp:~$ git config --global user.email        '70104051+cbkadal@users.noreply.github.com'
+
+cbkadal@osp:~$ git config --global user.name         'Cicak Bin Kadal'
+
+cbkadal@osp:~$ git config --global core.editor       'vi'
+
+cbkadal@osp:~$ git config --global credential.helper 'cache --timeout=3600'
+
+cbkadal@osp:~$ git config user.email
+70104051+cbkadal@users.noreply.github.com
+
+cbkadal@osp:~$ git config user.name
+Cicak Bin Kadal
+
+cbkadal@osp:~$ git config core.editor
+vi
+
+cbkadal@osp:~$ git config credential.helper
+cache --timeout=3600
+
+cbkadal@osp:~$ git config --list
+user.email=70104051+cbkadal@users.noreply.github.com
+user.name=Cicak Bin Kadal
+core.editor=vi
+credential.helper=cache --timeout=3600
+
+cbkadal@osp:~$ cat ~/.gitconfig
+[user]
+	email = 70104051+cbkadal@users.noreply.github.com
+	name = Cicak Bin Kadal
+[core]
+	editor = vi
+[credential]
+	helper = cache --timeout=3600
+
+cbkadal@osp:~$ gitstat
+./  ../  .bash_aliases  .bash_logout  .bashrc  .gitconfig  .profile  .viminfo  .vimrc
+ZCZC cbkadal ==== Wed 10 Mar 2021 07:05:22 PM WIB ===== PWD:/home/cbkadal
+
+cbkadal@osp:~$
+
+```
 
 <br>
-## Cloning a github repository "os221"
+## Cloning a github repository "os211"
 
 <img src="pictures/cbkadal-06.jpg" width="960">
 
 <br>
+
+### INPUT06
+
 ```
 cd
 gitstat
 mkdir git
 cd git
-git clone https://github.com/cbkadal/os221.git
+git clone https://github.com/cbkadal/os211.git
 gitstat
 cd os211
 gitstat
 
 ```
+
+### OUTPUT06
 
 <img src="pictures/cbkadal-08.jpg" width="960">
 
@@ -104,7 +176,7 @@ gitstat
 <img src="pictures/cbkadal-09.jpg" width="960">
 
 <br>
-### INPUT01
+### INPUT07
 ```
 cd 
 cd git
@@ -117,7 +189,7 @@ gitstat
 ```
 
 <br>
-### OUTPUT01
+### OUTPUT07
 ```
 cbkadal@osp:~$ cd 
 
@@ -156,7 +228,7 @@ cbkadal@osp:~/git/SistemOperasi$
 ```
 
 <br>
-### INPUT02
+### INPUT08
 ```
 cd
 pwd
@@ -167,7 +239,7 @@ ls -F mydemo/Week01/
 ```
 
 <br>
-### OUTPUT02
+### OUTPUT08
 ```
 cbkadal@osp:~/git/SistemOperasi$ cd
 
@@ -191,6 +263,8 @@ cbkadal@osp:~$
 <br>
 ## Updating mylog.txt
 
+### INPUT09
+
 ```
 cd
 gitstat
@@ -200,12 +274,16 @@ vi mylog.txt
 
 ```
 
+### OUTPUT09
+
 <img src="pictures/cbkadal-11.jpg" width="960">
 
 <br>
 ## mylog.txt
 
 <img src="pictures/cbkadal-12.jpg" width="960">
+
+### INPUT10
 
 ```
 gitstat
@@ -214,7 +292,11 @@ gitstat
 
 ```
 
+### OUTPUT10
+
 <img src="pictures/cbkadal-13.jpg" width="960">
+
+### INPUT11
 
 ```
 git commit -m "OS211 cbkadal UPDATE mylog.txt"
@@ -224,6 +306,8 @@ git push
 git stat
 
 ```
+
+### OUTPUT11
 
 <img src="pictures/cbkadal-14.jpg" width="960">
 
