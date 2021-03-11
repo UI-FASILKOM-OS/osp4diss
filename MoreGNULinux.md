@@ -18,7 +18,7 @@ You need an editor for this page. Preferable, the vi (visual) editor.
 
 * [Super User (root)](#su)
 * [Add a user account (eg. dummy)](#adduser)
-* [Test user (account dummy)](#user-dummy)
+* [Testing new user dummy](#user-dummy)
 * [Account name with Capital Letters (eg. CicakBinKadal)](#bad-name)
 * [The .bash_aliases file](#dotbash_aliases)
 
