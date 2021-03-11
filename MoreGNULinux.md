@@ -254,7 +254,7 @@ export HISTFILESIZE=2000
 
 ```
 
-* Having problem with "CUT and PASTE" in vi?
+* Having problem with "COPY and PASTE" in vi?
   *Add "syntax off" to your ".vimrc" file!
 
 <br>

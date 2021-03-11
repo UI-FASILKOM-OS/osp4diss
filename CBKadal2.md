@@ -7,9 +7,15 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](CBKadal.md)
-[NEXT](CBKadal3.md)
+[NEXT](osp-001.md)
 
 # Eg. User: cbkadal (2)
+
+* [Generating a KEY PAIR](#input01)
+* [List of KEYS](#input02)
+* [Importing the Operating Systems public key](#input03)
+* [Export Public Key “mypubkey.txt”](#input04)
+* [Generate SHA256SUM and SHA256SUM.asc](#input05)
 
 These following examples is for user **cbkadal** at **osp** (Guest).
 Replace **cbkadal** with your own user name.
@@ -21,14 +27,14 @@ Replace **cbkadal** with your own user name.
 * No passphrase (**You decide!**).
 
 <br>
-### INPUT(1)
+### INPUT01
 
 ```
 gpg --full-generate-key
 
 ```
 
-### OUTPUT(1)
+### OUTPUT01
 
 ```
 cbkadal@osp:~$ gpg --full-generate-key
@@ -91,14 +97,14 @@ sub   rsa4096 2021-02-18 [E] [expires: 2021-08-17]
 ## List the keys
 
 <br>
-### INPUT(2)
+### INPUT02
 
 ```
 gpg --list-keys
 
 ```
 
-### OUTPUT(2)
+### OUTPUT02
 
 ```
 cbkadal@osp:~$ gpg --list-keys
@@ -121,7 +127,7 @@ cbkadal@osp:~$
 
 * Source: <https://osp4diss.vlsm.org/ETC/ospubkey.txt>
 
-### INPUT(3)
+### INPUT03
 
 ```
 wget -c https://osp4diss.vlsm.org/ETC/ospubkey.txt
@@ -130,7 +136,7 @@ gpg --list-keys
 
 ```
 
-### OUTPUT(3)
+### OUTPUT03
 
 ```
 cbkadal@osp:~$ wget -c https://osp4diss.vlsm.org/ETC/ospubkey.txt
@@ -168,7 +174,7 @@ sub   rsa4096 2020-02-13 [E] [expires: 2021-08-17]
 ## Export Public Key "mypubkey.txt"
 
 <br>
-### INPUT(4)
+### INPUT04
 
 ```
 cd git/os211/TXT/
@@ -178,7 +184,7 @@ ls -al
 
 ```
 
-### OUTPUT(4)
+### OUTPUT04
 
 ```
 cbkadal@osp:~$ cd git/os211/TXT/
@@ -203,7 +209,7 @@ cbkadal@osp:~/git/os211/TXT$
 ## Generate SHA256SUM and SHA256SUM.asc
 
 <br>
-### INPUT(5)
+### INPUT05
 
 ```
 ls -al
@@ -216,7 +222,7 @@ ls -al
 
 ```
 
-### OUTPUT(5)
+### OUTPUT05
 
 ```
 cbkadal@osp:~/git/os211/TXT$ ls -al
@@ -292,5 +298,5 @@ cbkadal@osp:~/git/os211/TXT$
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](CBKadal.md)
-[NEXT](CBKadal3.md)
+[NEXT](osp-001.md)
 
