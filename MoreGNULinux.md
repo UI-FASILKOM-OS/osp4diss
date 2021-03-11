@@ -16,69 +16,172 @@
 You need an editor for this page. Preferable, the vi (visual) editor.
 </span>
 
+* [Super User (root)](#su)
+* [Add a user account (eg. dummy)](#adduser)
+* [Test user (account dummy)](#user-dummy)
+* [Account name with Capital Letters (eg. CicakBinKadal)](#bad-name)
+* [The .bash_aliases file](#dotbash_aliases)
+
 
 <br>
-## Substitute User/su (default root)
+## su
+
+* Substitute super-user (root)
+
+### INPUT01
+
 ```
 su -
+
 ```
+
+### OUTPUT01
+
+```
+cbkadal@osp:~$ su -
+Password: 
+
+root@osp:~# 
+
+```
+
 <br>
 ## adduser 
 
-* Example, add a new user "dummy"
+* Example, add a new user "dummy".
+* (exit) from "root", back to user "cbkadal".
+
+### INPUT02
 
 ```
 adduser dummy
-```
-<br>
-<img src="pictures/LK-OSP-00.jpg" width="960">
-<br>
-<br>
-## Substitute user dummy
-```
-pwd
-su - dummy
-```
-### Testing home directory user dummy and then "exit"
-```
-pwd
 exit
-```
-<img src="pictures/LK-OSP-01.jpg" width="960">
-<br>
-### Add User 'Abc'
-
-* Force Bad Name 'Abc' (with capital)
 
 ```
-root@osp:~# adduser --force-badname Abc
-Allowing use of questionable username.
-Adding user `Abc' ...
-Adding new group `Abc' (1002) ...
-Adding new user `Abc' (1002) with group `Abc' ...
-Creating home directory `/home/Abc' ...
+
+### OUTPUT02
+
+```
+root@osp:~# adduser dummy
+Adding user `dummy' ...
+Adding new group `dummy' (1001) ...
+Adding new user `dummy' (1001) with group `dummy' ...
+Creating home directory `/home/dummy' ...
 Copying files from `/etc/skel' ...
 New password: 
 Retype new password: 
 passwd: password updated successfully
-Changing the user information for Abc
+Changing the user information for dummy
 Enter the new value, or press ENTER for the default
-	Full Name []: Abc
+	Full Name []: Dummy McDumDum
 	Room Number []: 
 	Work Phone []: 
 	Home Phone []: 
 	Other []: 
 Is the information correct? [Y/n] 
-root@osp:~# 
+
+root@osp:~# exit
+logout
+
+cbkadal@osp:~$
+
 ```
+
 <br>
+## User dummy 
+
+* Checking/print working directory (pwd) 
+* Substitute (su) user "dummy" from "cbkadal"
+* Checking/print working directory (pwd) 
+* Exit from user "dummy" back to "cbkadal"
+
+### INPUT03
+
+```
+pwd
+su - dummy
+
+```
+```
+pwd
+exit
+
+```
+
+### OUTPUT03
+
+```
+cbkadal@osp:~$ pwd
+/home/cbkadal
+
+cbkadal@osp:~$ su - dummy
+Password: 
+
+dummy@osp:~$ pwd
+/home/dummy
+
+dummy@osp:~$ exit
+logout
+
+cbkadal@osp:~$
+
+```
+
 <br>
+## Bad Name
+
+* Bad Name = an Account wiht capital letter(s) 
+* Eg. "CicakBinKadal"
+
+### INPUT04
+
+```
+adduser CicakBinKadal
+adduser --force-badname CicakBinKadal
+
+```
+
+### OUTPUT04
+
+```
+root@osp:~# adduser CicakBinKadal
+adduser: Please enter a username matching the regular expression configured
+via the NAME_REGEX configuration variable.  Use the `--force-badname'
+option to relax this check or reconfigure NAME_REGEX.
+
+root@osp:~# adduser --force-badname CicakBinKadal
+Allowing use of questionable username.
+Adding user `CicakBinKadal' ...
+Adding new group `CicakBinKadal' (1002) ...
+Adding new user `CicakBinKadal' (1002) with group `CicakBinKadal' ...
+Creating home directory `/home/CicakBinKadal' ...
+Copying files from `/etc/skel' ...
+New password: 
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for CicakBinKadal
+Enter the new value, or press ENTER for the default
+	Full Name []: Bad Cicak Bin Kadal
+	Room Number []: 
+	Work Phone []: 
+	Home Phone []: 
+	Other []: 
+Is the information correct? [Y/n] 
+
+root@osp:~# 
+
+```
+
+<br>
+##### dotbash_aliases
 ## Create/Edit your first file: "**.bash_aliases**"
+* Go to your HOME directory (ie. "cd").
 * Use your favorite editor (vi) to add this following TEXT to file .bash_aliases.
 <br>
 <img src="pictures/LK-OSP-02.jpg" width="960">
 
-##### dotbash_aliases
+### COPY and PASTE this following
+
 ```
 # REV01 Tue 23 Feb 2021 17:23:19 WIB (RMS)
 alias cl='clear;echo ""'
@@ -150,6 +253,10 @@ export HISTSIZE=2000
 export HISTFILESIZE=2000 
 
 ```
+
+* Having problem with "CUT and PASTE" in vi?
+  *Add "syntax off" to your ".vimrc" file!
+
 <br>
 <br>
 ## Testing ".bash_aliases"
