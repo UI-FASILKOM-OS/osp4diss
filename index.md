@@ -30,6 +30,7 @@
 * [Cicak Bin Kadal part 01](CBKadal.md)
 * [Cicak Bin Kadal part 02](CBKadal2.md)
 * [Cicak Bin Kadal Assignment Week 03](W03.md)
+* [Cicak Bin Kadal Assignment Week 04](W04.md)
 * [Cicak Bin Kadal Week 06](W06.md)
 <br><br>
 * [Making and encrypting a tarball](osp-001.md)
