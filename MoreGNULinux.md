@@ -213,7 +213,7 @@ chktoken() {
         echo "Example 3) chktoken XXXX"
         echo "           $(chktoken XXXX)"
         echo "Is $USER your GitHub Account? If not, please create a new user name"
-        echo "If not, please cleate a new user name"
+        echo "If not, please create a new user name"
         return 0
     } || [ $1 == 0 ] && {
         echo "0"
