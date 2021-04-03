@@ -83,6 +83,7 @@ software-properties-common
 rsync
 sshfs
 sysstat
+sysvbanner
 texinfo
 vim
 wget
