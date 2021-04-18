@@ -14,7 +14,7 @@
 * [Downloading Debian ISO Image](DebianISOImage.md)
 * [Downloading and Installing VirtualBox](InstallVirtualBox.md)
 * [Creating a Debian Guest on VirtualBox](DebianGuestOnVirtualBox.md)
-* [Debian 10 ISO Image](osp-006.md)
+* [Debian Guest OVA Image](osp-006.md)
 * [Exporting Debian Guest in OVA format](DebianGuestExportOva.md)
 * [Importing Debian Guest with a different Name](DebianGuestImportOva.md)
 * [Deleting Debian Guest(s)](DebianGuestDeleteOva.md)
