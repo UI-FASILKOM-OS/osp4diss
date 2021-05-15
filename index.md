@@ -35,6 +35,7 @@
 * [Cicak Bin Kadal Assignment Week 06](W06.md)
 * [Cicak Bin Kadal Assignment Week 07](W07.md)
 * [Cicak Bin Kadal Assignment Week 08](W08.md)
+* [Cicak Bin Kadal Assignment Week 09](W09.md)
 <br><br>
 * [Making and encrypting a tarball](osp-001.md)
 * [FUSE Demo](osp-100.md)
