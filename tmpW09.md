@@ -1,56 +1,3 @@
----
----
-
-[HOME](index.md)
-[ABOUT](README.md)
-[WEB](https://osp4diss.vlsm.org/)
-[GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
-[TOP](#)
-[BOTTOM](#endofpage)
-[PREV](W09.md)
-[NEXT](osp-001.md)
-
-# <span style="color:red; font-weight:bold; font-size:larger;">WORK IN PROGRESS</span>
-
-<br>
-## Assignment WEEK 10 (eg. cbkadal) 
-
-### Read [OSC-10](https://www.os-book.com/OS10/) Chapter 12 [slides](https://www.os-book.com/OS10/slide-dir/).
-
-<br>
-### Visit <https://os.vlsm.org/GitHubPages/>
-* Review Last WEEK TOP 10 List and pick at least 3 out of your 10 next neighbors of WEEK09.
-* Eg. **review** [cbkadal WEEK09](https://cbkadal.github.io/os211/W09/)
-
-<br>
-### No TOP 10 List of the WEEK!
-* Make one (1) to ten (10) tips for the next class os212 (One tip is enough!)
-* What point(s) do you think that the following class participants should pay attention to.
-* Write it down to (e.g.) <https://cbkadal.github.io/os211/W10/>.
-
-<br>
-## WEEK 08 - 10: Build Your Own Linux From Scratch (LFS)
-
-### WEEK 08: LFS chapter 1, 2, 3, 4.
-
-### WEEK 09: LFS chapter 5, 6, 7.
-
-### WEEK 10: LFS chapter 8.
-
-* Follow the [official LFS guide version 10.1](https://www.linuxfromscratch.org/lfs/view/10.1/).
-  * See also [this YouTube playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsAlIkKBIGauDQ6LejoQovyL).
-  * See also [this](https://lfs.vlsm.org/).
-
-<br>
-## Preparation
-
-* If there was a problem, you might have to redo [WEEK 08](W08.md) or
-  [WEEK 09](W09.md) (LFS Chapter 1-7).
-* Check if:
-  * all md5sum of files in /mnt/lfs/sources/ are OK.
-  * hostname = your GitHub Account (eg. "cbkadal").
-  * There should be three (3) usernames (e.g. "lfs", "root", and "cbkadal").
-
 <br>
 ## LFS Chapter 8. Installing Basic System Software
 
@@ -63,11 +10,11 @@
   * Chapter 8.61 - 08.78 (LFS-08-61.ova)
 * See the scripts at <https://github.com/cbkadal/os211quiz/tree/master/SandBox/W10/>.
   * Always start a part with a "do" script. 
-  * Check/learn/modify the script before using it!
+  * Check/learn/modify the script berfore using it!
   * Run the script in a separated terminal.
-  * Do not run the script with user account "lfs" or "root"!
+  * Do not run the script with "lfs" or "root"!
   * See reports examples at <https://github.com/cbkadal/os211quiz/tree/master/SandBox/W10/W10/>.
-* Use account "lfs" and/or "root" to Install the Basic System Software (as requested).
+* User "lfs" and/or "root" to Install the Basic System Software
   * Chroot before starting every part.
   * Follow <https://www.linuxfromscratch.org/lfs/view/10.1/chapter08/chapter08.html>.
   * See also
@@ -78,7 +25,7 @@
     * <https://lfs.vlsm.org/LFS-08-31.html>,
     * <https://lfs.vlsm.org/LFS-08-41.html>,
     * <https://lfs.vlsm.org/LFS-08-61.html>.
-* Always cancel (Control-C) the scipt at the end of every chapter part.
+* Always cancel (Control-C) the scipt at the end of the part.
   * Save the result into ~/RESULT/W10/
 
 <br>
@@ -151,7 +98,7 @@ Signature: SHA256SUM.asc.
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](W09.md)
+[PREV](W08.md)
 [NEXT](osp-001.md)
 <br>
 
