@@ -12,7 +12,8 @@
 
 # Downloading and Installing VirtualBox
 
-## NOTE: The current VirtualBox version is <span style="color:red; font-weight:bold; font-size:larger;">6.1.18</span>
+## NOTE: The current VirtualBox version is <span style="color:red; font-weight:bold; font-size:larger;">6.1.22</span>
+
 ### (The VirtualBox version in this example is 6.1.12)
 
 ## <span style="color:red; font-weight:bold; font-size:larger;">THIS IS SUBJECT TO CHANGE!</span>
@@ -26,7 +27,7 @@
 ## The Free Download Manager (FDM)
 
 Use this Free Download Manager if your internet link is slow and less reliable.
-Otherwise, download with a regular browser like Firefox.
+Otherwise, you can download with a regular browser like Firefox or install the plugin for that browser.
 
 <img src="pictures/E-OSP-01.jpg"  width="960">
 

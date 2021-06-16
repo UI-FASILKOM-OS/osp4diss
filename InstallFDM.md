@@ -15,7 +15,7 @@
 
 <span style="color:red; font-weight:bold; font-size:larger;">
 Use this Free Download Manager if your internet link is slow and less reliable.
-Otherwise, download with a regular browser like Firefox or you can install the <b>plugin</b> for that browser.
+Otherwise, you can download with a regular browser like Firefox or install the <b>plugin</b> for that browser.
 </span>
 
 <br>
