@@ -12,10 +12,12 @@
 
 # Creating a Debian Guest on VirtualBox
 
-## NOTE: Version in this example: <span style="color:red; font-weight:bold; font-size:larger;">Debian 10.7</span>
+
+## NOTE: The current Debian image version is <span style="color:red; font-weight:bold; font-size:larger;">10.9.0</span>
+
+### (The image version in this example is 10.7.0)
 
 ## <span style="color:red; font-weight:bold; font-size:larger;">THIS IS SUBJECT TO CHANGE!</span>
-
 
 <br>
 [Part 1: Creating a New Guest](#part-1-creating-a-new-guest)
@@ -26,6 +28,7 @@
 
 * You should adjust these following according to your own belief and faith.
   * Name: **DEB10-00-0-64G+64G-EMPTY** (<span style="color:red; font-weight:bold; font-size:larger;">your may choose a different guest name</span>).
+  * Processors (Cores): 6 (check your CPU!)
   * Memory = 1024 MB (512MB is OK too!)
   * Storage1 = 64 GB (dynamically allocated)
   * Storage2 = 64 GB (dynamically allocated)
@@ -93,6 +96,8 @@
 
 <br>
 ### System: Processors (6)
+
+* Check your CPU!
 
 <img src="pictures/osp21-11.jpg"  width="960">
 
