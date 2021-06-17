@@ -8,25 +8,41 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 
-# Setting Up a VirtualBox Debian Guest
+# VirtualBox Guest: Preparation
 
 * [FDM: Free Download Manager (Optional)](InstallFDM.md)
-* [Downloading Debian ISO Image](DebianISOImage.md)
 * [Downloading and Installing VirtualBox](InstallVirtualBox.md)
-* [Creating a Debian Guest on VirtualBox](DebianGuestOnVirtualBox.md)
-* [Debian Guest OVA Image](osp-006.md)
-* [Exporting Debian Guest in OVA format](DebianGuestExportOva.md)
-* [Importing Debian Guest with a different Name](DebianGuestImportOva.md)
-* [Deleting Debian Guest(s)](DebianGuestDeleteOva.md)
-* [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.md)
-* [Export Import Guests](ExportImportGuests.md)
-* [SSH and PUTTY](SSHGuest.md)
-* [Update Debian](UpdateDebian.md)
-* [More Debian Packages](MoreDebianPackages.md)
-* [Welcome to GNU/Linux](Welcome2GNULinux.md)
-* [More GNU/Linux](MoreGNULinux.md)
 
-# Example: Cicak Bin Kadal 
+<br>
+# Option 1: Importing a VirtualBox Debian Guest (OVA File)
+
+* For importing a Debian 10 OVA Image:
+  * [LFS-00-README.txt](https://bit.ly/3t1bEw3)
+  * [LFS-00.ova](https://bit.ly/3u2qO5G) (350 MB)
+
+<br>
+# Option 2: Installing a VirtualBox Debian Guest (ISO File)
+
+## Creating an empty VirtualBox Guest
+
+* [A VirtualBox Guest with 2 x 64GB disks](DebianGuestOnVirtualBox.md)
+  * [Exporting a VirtualBox Guest (OVA)](DebianGuestExportOva.md)
+  * [Importing a VirtualBox Guest with a different Name](DebianGuestImportOva.md)
+  * [Export Import VirtualBox Guest(s)](ExportImportGuests.md)
+  * [Deleting Debian VirtualBox Guest(s)](DebianGuestDeleteOva.md)
+
+## Installing Debian
+
+* [Downloading Debian ISO Image](DebianISOImage.md)
+* [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.md)
+* [SSH and PUTTY](SSHGuest.md)
+* [Updating Debian Packages](UpdateDebian.md)
+* [Adding Debian Packages](MoreDebianPackages.md)
+* [Introduction to GNU/Linux](Welcome2GNULinux.md)
+* [More VirtualBox Guest Settings](MoreGNULinux.md)
+
+# Cicak Bin Kadal 
+
 * [Cicak Bin Kadal part 01](CBKadal.md)
 * [Cicak Bin Kadal part 02](CBKadal2.md)
 * [Cicak Bin Kadal Assignment Week 03](W03.md)

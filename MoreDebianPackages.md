@@ -18,6 +18,7 @@
 
 ```
 ssh -p 6022 cbkadal@localhost
+
 ```
 
 <img src="pictures/H-OSP-08.jpg"  width="960">
@@ -27,21 +28,54 @@ ssh -p 6022 cbkadal@localhost
 su -
 # Update/Upgrade
 apt-get update; apt-get dist-upgrade -y;
+
 ```
 <br>
-## The Package List
+## The Package List 1
 
 ```
 export DEBS="
 apt-file
-apt-transport-https
 aptitude
 autoconf
-automake 
-bc
+automake
 bison
-bridge-utils
 build-essential
+gawk
+git
+git-flow
+gnupg
+gnupg-agent
+liblocale-msgfmt-perl
+locales-all
+manpages-dev
+net-tools
+parted
+sysstat
+sysvbanner
+texinfo
+vim
+x11-apps
+"
+
+```
+<br>
+## Installing Package List 1
+
+```
+apt-get install $DEBS -y
+
+```
+
+
+<br>
+## The Package List 2
+
+```
+export DEBS="
+apt-transport-https
+bc
+bridge-utils
 ca-certificates
 cgroupfs-mount
 coreutils
@@ -52,11 +86,6 @@ docker.io
 fakeroot
 flex
 fuse 
-gawk
-git
-git-flow
-gnupg
-gnupg-agent
 libacl1-dev
 libcap-dev
 libelf-dev
@@ -65,16 +94,12 @@ libncurses-dev
 libseccomp-dev
 libselinux1-dev
 libssl-dev
-locales-all
 lynx
 make
 manpages
-manpages-dev
 module-assistant
-net-tools
 nvi
 p7zip-full
-parted
 pigz
 pkg-config
 runc
@@ -82,24 +107,22 @@ ssh
 software-properties-common
 rsync
 sshfs
-sysstat
-sysvbanner
-texinfo
-vim
 wget
-x11-apps
 "
 
 ```
+
+
+
 <br>
-## Install the package list above
+## Installing Package List 2
 
 ```
 apt-get install $DEBS -y
 
 ```
 
-<img src="pictures/H-OSP-12.jpg"  width="960">
+
 
 <br>
 #### ENDOFPAGE

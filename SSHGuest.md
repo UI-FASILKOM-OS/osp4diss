@@ -79,9 +79,11 @@ Make sure to start your Debian Guest before trying to connect (putty/ssh) to it.
 
 <img src="pictures/WK-OSP-07.jpg"  width="960">
 
+<br>
 * who is there (w)
 ```
 w
+
 ```
 <br>
 
@@ -94,9 +96,10 @@ w
 * who is there (w)
 ```
 w
-```
-<br>
 
+```
+
+<br>
 <img src="pictures/WK-OSP-09.jpg"  width="960">
 
 <br>
@@ -135,6 +138,7 @@ w
 * who is there (w)
 ```
 w
+
 ```
 <br>
 
@@ -143,6 +147,7 @@ w
 <br>
 ```
 exit
+
 ```
 <br>
 
@@ -154,6 +159,7 @@ exit
 * shutdown from console/tty1
 ```
 shutdown -h now
+
 ```
 
 <img src="pictures/WK-OSP-18.jpg"  width="960">
@@ -173,6 +179,7 @@ shutdown -h now
 ssh -p 6022 osp@localhost
 # REMOVE THE OLD KEY
 ssh-keygen -f ~/.ssh/known_hosts -R "[localhost]:6022"
+
 ```
 
 <img src="pictures/H-OSP-07.jpg"  width="960">
@@ -180,6 +187,7 @@ ssh-keygen -f ~/.ssh/known_hosts -R "[localhost]:6022"
 ```
 # ONE MORE TIME
 ssh -p 6022 cbkadal@localhost
+
 ```
 
 <img src="pictures/H-OSP-08.jpg"  width="960">

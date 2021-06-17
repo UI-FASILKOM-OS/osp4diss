@@ -16,17 +16,22 @@
 ## Default Settings
 
 * You should adjust these following according to your own belief and faith.
-  * Hostname: osp
+  * Hostname: cbkadal
   * Domain: none
   * Root/Pass: root/osp
   * UserName/Account/Pass: Cicak Bin Kadal/cbkadal/cbkadal
   * Disk #1 (64 GB): 256MB swap and "/" (root partition).
-  * Disk #2 (64 GB): 256MB swap and "/lfs/" (partition).
+  * Disk #2 (64 GB): 256MB swap and "/mnt/lfs/" (partition).
 
 <br>
-## Add an ISO Image to Guest DEB00-00-1-INSTALL
+## Import an EMPTY VirtualBox Guest
 
-### Select DEB00-00-1-INSTALL and Click Settings
+* E.g DEB10-00-0-64G+64G-EMPTY.ova
+* Rename it to DEB00-00-1-INSTALL
+
+<img src="pictures/osp21-39.jpg"  width="960">
+
+### Select and Click Settings
 
 <img src="pictures/osp21-40.jpg"  width="960">
 
@@ -46,11 +51,14 @@
 ### Open an ISO Image
 
 * Eg. debian-10.7.0-amd64-netinst.iso
+* Check if this is the latest version!
 
 <img src="pictures/osp21-43.jpg"  width="960">
 
 <br>
 ### Eg. Choose: debian-10.7.0-amd64-netinst.iso
+
+* Check if this is the latest version!
 
 <img src="pictures/osp21-44.jpg"  width="960">
 
