@@ -8,7 +8,7 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](InstallVirtualBox.md)
-[NEXT](osp-006.md)
+[NEXT](DebianISOImage.md)
 
 # Creating a Debian Guest on VirtualBox
 
@@ -200,5 +200,5 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](InstallVirtualBox.md)
-[NEXT](osp-006.md)
+[NEXT](DebianISOImage.md)
 

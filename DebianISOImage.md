@@ -7,7 +7,7 @@
 [GITHUB](https://github.com/OSP4DISS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](InstallFDM.md)
+[PREV](DebianGuestOnVirtualBox.md)
 [NEXT](InstallVirtualBox.md)
 
 # Downloading Debian Netinst with Free Download Manager
@@ -53,7 +53,7 @@ Otherwise, you can download with a regular browser like Firefox or you can insta
 [GITHUB](https://github.com/OSP4DISS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](InstallFDM.md)
+[PREV](DebianGuestOnVirtualBox.md)
 [NEXT](InstallVirtualBox.md)
 <br>
 
