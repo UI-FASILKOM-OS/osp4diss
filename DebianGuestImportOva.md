@@ -8,7 +8,7 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](DebianGuestExportOva.md)
-[NEXT](DebianGuestDeleteOva.md)
+[NEXT](ExportImportGuests.md)
 
 # Importing a Debian Guest In OVA Format
 
@@ -49,6 +49,6 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](DebianGuestExportOva.md)
-[NEXT](DebianGuestDeleteOva.md)
+[NEXT](ExportImportGuests.md)
 <br>
 

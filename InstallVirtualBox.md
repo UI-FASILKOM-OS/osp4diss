@@ -7,7 +7,7 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](DebianISOImage.md)
+[PREV](InstallFDM.md)
 [NEXT](DebianGuestOnVirtualBox.md)
 
 # Downloading and Installing VirtualBox
@@ -98,7 +98,7 @@ Check your PC (BIOS) configuration.
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](DebianISOImage.md)
+[PREV](InstallFDM.md)
 [NEXT](DebianGuestOnVirtualBox.md)
 <br>
 

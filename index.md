@@ -8,10 +8,16 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 
-# VirtualBox Guest: Preparation
+<br>
+# VirtualBox Guest: Introduction and Preparation
 
 * [FDM: Free Download Manager (Optional)](InstallFDM.md)
 * [Downloading and Installing VirtualBox](InstallVirtualBox.md)
+* [Creating an empty VirtualBox Guest with 2 x 64GB disks](DebianGuestOnVirtualBox.md)
+* [Exporting a VirtualBox Guest (OVA)](DebianGuestExportOva.md)
+* [Importing a VirtualBox Guest with a different Name](DebianGuestImportOva.md)
+* [Export Import VirtualBox Guest(s)](ExportImportGuests.md)
+* [Deleting Debian VirtualBox Guest(s)](DebianGuestDeleteOva.md)
 
 <br>
 # Option 1: Importing a VirtualBox Debian Guest (OVA File)
@@ -23,25 +29,20 @@
 <br>
 # Option 2: Installing a VirtualBox Debian Guest (ISO File)
 
-## Creating an empty VirtualBox Guest
-
-* [A VirtualBox Guest with 2 x 64GB disks](DebianGuestOnVirtualBox.md)
-  * [Exporting a VirtualBox Guest (OVA)](DebianGuestExportOva.md)
-  * [Importing a VirtualBox Guest with a different Name](DebianGuestImportOva.md)
-  * [Export Import VirtualBox Guest(s)](ExportImportGuests.md)
-  * [Deleting Debian VirtualBox Guest(s)](DebianGuestDeleteOva.md)
-
-## Installing Debian
-
 * [Downloading Debian ISO Image](DebianISOImage.md)
 * [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.md)
+
+<br>
+# Setting a VirtualBox Debian Guest (both OVA or ISO)
+
+* [Introduction to GNU/Linux](Welcome2GNULinux.md)
 * [SSH and PUTTY](SSHGuest.md)
 * [Updating Debian Packages](UpdateDebian.md)
 * [Adding Debian Packages](MoreDebianPackages.md)
-* [Introduction to GNU/Linux](Welcome2GNULinux.md)
 * [More VirtualBox Guest Settings](MoreGNULinux.md)
 
-# Cicak Bin Kadal 
+<br>
+# Assignments
 
 * [Cicak Bin Kadal part 01](CBKadal.md)
 * [Cicak Bin Kadal part 02](CBKadal2.md)
@@ -53,12 +54,14 @@
 * [Cicak Bin Kadal Assignment Week 08](W08.md)
 * [Cicak Bin Kadal Assignment Week 09](W09.md)
 * [Cicak Bin Kadal Assignment Week 10](W10.md)
-<br><br>
+
+<br>
+# Miscs
+
 * [Making and encrypting a tarball](osp-001.md)
 * [FUSE Demo](osp-100.md)
 * [TOP Demo](osp-101.md)
 * [Windows10 (Kleopatra)](CBKadal3.md)
-<br><br>
 * [Log Codes](ETC/logCodes.txt)
 * [OS Public Key](ETC/ospubkey.txt)
 * [X11 Windows 10](osp-003.md)

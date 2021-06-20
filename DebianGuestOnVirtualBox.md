@@ -8,10 +8,9 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](InstallVirtualBox.md)
-[NEXT](DebianISOImage.md)
+[NEXT](DebianGuestExportOva.md)
 
-# Creating a Debian Guest on VirtualBox
-
+# Creating an empty VirtualBox Guest
 
 ## NOTE: The current Debian image version is <span style="color:red; font-weight:bold; font-size:larger;">10.9.0</span>
 
@@ -200,5 +199,5 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](InstallVirtualBox.md)
-[NEXT](DebianISOImage.md)
+[NEXT](DebianGuestExportOva.md)
 

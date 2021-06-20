@@ -7,8 +7,8 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](InstallDebianNetinst.md)
-[NEXT](SSHGuest.md)
+[PREV](DebianGuestImportOva.md)
+[NEXT](DebianGuestDeleteOva.md)
 
 # More About Export Import Guests
 
@@ -65,6 +65,7 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](InstallDebianNetinst.md)
-[NEXT](SSHGuest.md)
+[PREV](DebianGuestImportOva.md)
+[NEXT](DebianGuestDeleteOva.md)
 <br>
+

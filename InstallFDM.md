@@ -8,7 +8,7 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](index.md)
-[NEXT](DebianISOImage.md)
+[NEXT](InstallVirtualBox.md)
 <br>
 
 # FDM: Free Download Manager (Optional)
@@ -61,6 +61,6 @@ Otherwise, you can download with a regular browser like Firefox or install the <
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](index.md)
-[NEXT](DebianISOImage.md)
+[NEXT](InstallVirtualBox.md)
 <br>
 
