@@ -19,6 +19,7 @@
 * [VirtualBox: Display](DebianGuestOnVirtualBox4.md)
 * [VirtualBox: Storage](DebianGuestOnVirtualBox5.md)
 * [VirtualBox: Audio](DebianGuestOnVirtualBox6.md)
+* [VirtualBox: Network](DebianGuestOnVirtualBox7.md)
 * [Exporting a VirtualBox Guest (OVA)](DebianGuestExportOva.md)
 * [Importing a VirtualBox Guest with a different Name](DebianGuestImportOva.md)
 * [Export Import VirtualBox Guest(s)](ExportImportGuests.md)

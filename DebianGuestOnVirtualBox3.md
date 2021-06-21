@@ -26,7 +26,7 @@
 <br>
 ### System: Processors (6)
 
-* Check your CPU!
+* How many cores are available?
 
 <img src="pictures/osp21-11.jpg"  width="960">
 
