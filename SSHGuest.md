@@ -81,6 +81,7 @@ Make sure to start your Debian Guest before trying to connect (putty/ssh) to it.
 
 <br>
 * who is there (w)
+
 ```
 w
 
@@ -94,6 +95,7 @@ w
 
 * login from tty2 as "cbkadal" (or whatever your username is)
 * who is there (w)
+
 ```
 w
 
@@ -136,6 +138,7 @@ w
 <br>
 * login as cbkadal
 * who is there (w)
+
 ```
 w
 
@@ -143,8 +146,8 @@ w
 <br>
 
 <img src="pictures/WK-OSP-16.jpg"  width="960">
-
 <br>
+
 ```
 exit
 
@@ -157,6 +160,7 @@ exit
 ## ALT-F1 (console/tty1)
 
 * shutdown from console/tty1
+
 ```
 shutdown -h now
 

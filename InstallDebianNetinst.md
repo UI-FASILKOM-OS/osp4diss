@@ -7,8 +7,8 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](DebianGuestDeleteOva.md)
-[NEXT](ExportImportGuests.md)
+[PREV](DebianISOImage.md)
+[NEXT](index.md)
 
 # Installing Debian NetInst (guest) on VirtualBox
 
@@ -441,7 +441,7 @@ poweroff
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](DebianGuestDeleteOva.md)
-[NEXT](ExportImportGuests.md)
+[PREV](DebianISOImage.md)
+[NEXT](index.md)
 <br>
 

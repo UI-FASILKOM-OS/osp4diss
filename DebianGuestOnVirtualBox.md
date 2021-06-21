@@ -12,12 +12,6 @@
 
 # Creating an empty VirtualBox Guest
 
-## NOTE: The current Debian image version is <span style="color:red; font-weight:bold; font-size:larger;">10.9.0</span>
-
-### (The image version in this example is 10.7.0)
-
-## <span style="color:red; font-weight:bold; font-size:larger;">THIS IS SUBJECT TO CHANGE!</span>
-
 <br>
 [Part 1: Creating a New Guest](#part-1-creating-a-new-guest)
 <br>
