@@ -10,7 +10,7 @@
 [PREV](DebianGuestOnVirtualBox4.md)
 [NEXT](DebianGuestOnVirtualBox6.md)
 
-# New VirtualBox Guest: Audio
+# New VirtualBox Guest: Storage
 
 * Example **DEB10-00-0-64G+64G-EMPTY**
 
@@ -61,40 +61,6 @@
 * Remove IDE Controller
 
 <img src="pictures/osp21-23.jpg"  width="960">
-
-<br>
-### Audio
-
-<img src="pictures/osp21-24.jpg"  width="960">
-
-* (Nothing)
-
-<img src="pictures/osp21-25.jpg"  width="960">
-
-<br>
-### Network: Adapter 1 (NAT): Port Forwarding
-
-* Click Port Forwarding
-
-<img src="pictures/osp21-26.jpg"  width="960">
-
-* **ADD (+)** Forward ssh from host 127.0.0.1:6022 to guest 10.0.2.15:22 (SSH)
-
-<img src="pictures/osp21-27.jpg"  width="960">
-
-* **ADD (+)** Forward ssh from host 127.0.0.1:5000 to guest 10.0.2.15:4000 (Jekyll)
-
-<img src="pictures/doit-008.jpg"  width="960">
-
-<br>
-### Network: Adapter 1 (NAT) --- DONE
-
-<img src="pictures/osp21-28.jpg"  width="960">
-
-<br>
-## DEB10-00-0-64G+64G-EMPTY is DONE!
-
-<img src="pictures/osp21-30.jpg"  width="960">
 
 <br>
 #### ENDOFPAGE

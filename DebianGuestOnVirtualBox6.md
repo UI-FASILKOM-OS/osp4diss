@@ -7,10 +7,10 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](DebianGuestOnVirtualBox2.md)
-[NEXT](DebianGuestOnVirtualBox4.md)
+[PREV](DebianGuestOnVirtualBox5.md)
+[NEXT](DebianGuestOnVirtualBox7.md)
 
-# New VirtualBox Guest: System
+# New VirtualBox Guest: Audio
 
 * Example **DEB10-00-0-64G+64G-EMPTY**
 
@@ -19,21 +19,13 @@
 <img src="pictures/osp21-07.jpg"  width="960">
 
 <br>
-### System: Motherboard
+### Audio
 
-<img src="pictures/osp21-10.jpg"  width="960">
+<img src="pictures/osp21-24.jpg"  width="960">
 
-<br>
-### System: Processors (6)
+* (Nothing)
 
-* Check your CPU!
-
-<img src="pictures/osp21-11.jpg"  width="960">
-
-<br>
-### System: Acceleration
-
-<img src="pictures/osp21-12.jpg"  width="960">
+<img src="pictures/osp21-25.jpg"  width="960">
 
 <br>
 #### ENDOFPAGE
@@ -43,6 +35,6 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](DebianGuestOnVirtualBox2.md)
-[NEXT](DebianGuestOnVirtualBox4.md)
+[PREV](DebianGuestOnVirtualBox5.md)
+[NEXT](DebianGuestOnVirtualBox7.md)
 
