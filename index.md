@@ -13,7 +13,12 @@
 
 * [FDM: Free Download Manager (Optional)](InstallFDM.md)
 * [Downloading and Installing VirtualBox](InstallVirtualBox.md)
-* [Creating an empty VirtualBox Guest with 2 x 64GB disks](DebianGuestOnVirtualBox.md)
+* [VirtualBox: NEW EMPTY Guest with 2 x 64GB disks](DebianGuestOnVirtualBox1.md)
+* [VirtualBox: General](DebianGuestOnVirtualBox2.md)
+* [VirtualBox: System](DebianGuestOnVirtualBox3.md)
+* [VirtualBox: Display](DebianGuestOnVirtualBox4.md)
+* [VirtualBox: Storage](DebianGuestOnVirtualBox5.md)
+* [VirtualBox: Audio](DebianGuestOnVirtualBox6.md)
 * [Exporting a VirtualBox Guest (OVA)](DebianGuestExportOva.md)
 * [Importing a VirtualBox Guest with a different Name](DebianGuestImportOva.md)
 * [Export Import VirtualBox Guest(s)](ExportImportGuests.md)

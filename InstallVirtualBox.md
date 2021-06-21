@@ -8,7 +8,7 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](InstallFDM.md)
-[NEXT](DebianGuestOnVirtualBox.md)
+[NEXT](DebianGuestOnVirtualBox1.md)
 
 # Downloading and Installing VirtualBox
 
@@ -99,6 +99,6 @@ Check your PC (BIOS) configuration.
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](InstallFDM.md)
-[NEXT](DebianGuestOnVirtualBox.md)
+[NEXT](DebianGuestOnVirtualBox1.md)
 <br>
 
