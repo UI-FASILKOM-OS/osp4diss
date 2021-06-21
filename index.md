@@ -9,10 +9,16 @@
 [BOTTOM](#endofpage)
 
 <br>
-# VirtualBox Guest: Introduction and Preparation
+# Basic Command Lines and VI Editor Tutorial
+
+* [Introduction to GNU/Linux](Welcome2GNULinux.md)
+
+<br>
+# VirtualBox Guest Preparation
 
 * [FDM: Free Download Manager (Optional)](InstallFDM.md)
 * [Downloading and Installing VirtualBox](InstallVirtualBox.md)
+* [Downloading and Installing PUTTY and WINSCP](SSHGuest.md)
 * [VirtualBox: NEW EMPTY Guest with 2 x 64GB disks](DebianGuestOnVirtualBox1.md)
 * [VirtualBox: General](DebianGuestOnVirtualBox2.md)
 * [VirtualBox: System](DebianGuestOnVirtualBox3.md)
@@ -41,8 +47,16 @@
 <br>
 # Setting a VirtualBox Debian Guest (both OVA or ISO)
 
-* [Introduction to GNU/Linux](Welcome2GNULinux.md)
-* [SSH and PUTTY](SSHGuest.md)
+* [Login to a VirtualBox Console](osp-002-login.md)
+* [Shutdown a VirtualBox Guest](osp-002-shutdown.md)
+* [Login with PUTTY](osp-002-putty.md)
+* [Login with SSH](osp-002-ssh.md)
+* [WINSCP](osp-002-winscp.md)
+* [SCP](osp-002-scp.md)
+
+<br>
+# ##
+
 * [Updating Debian Packages](UpdateDebian.md)
 * [Adding Debian Packages](MoreDebianPackages.md)
 * [More VirtualBox Guest Settings](MoreGNULinux.md)
