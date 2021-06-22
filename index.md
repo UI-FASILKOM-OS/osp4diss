@@ -45,10 +45,11 @@
 * [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.md)
 
 <br>
-# Setting a VirtualBox Debian Guest (both OVA or ISO)
+# Running a VirtualBox Debian Guest (both OVA or ISO)
 
-* [Login to a VirtualBox Console](osp-002-login.md)
+* [Startup a VirtualBox Guest](osp-002-startup.md)
 * [Shutdown a VirtualBox Guest](osp-002-shutdown.md)
+* [Login from a Console](osp-002-login.md)
 * [Login with PUTTY](osp-002-putty.md)
 * [Login with SSH](osp-002-ssh.md)
 * [WINSCP](osp-002-winscp.md)

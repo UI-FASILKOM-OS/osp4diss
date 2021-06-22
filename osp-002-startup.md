@@ -7,12 +7,18 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](osp-002-winscp.md)
-[NEXT](index.md)
+[PREV](index.md)
+[NEXT](osp-002-shutdown.md)
 
-## SCP
+# Startup a Debian Guest (Eg. D105-W200831)
 
-tba.
+<img src="pictures/WK-OSP-06.jpg"  width="960">
+
+<img src="pictures/H-OSP-04.jpg"  width="960">
+
+<img src="pictures/H-OSP-05.jpg"  width="960">
+
+<img src="pictures/H-OSP-06.jpg"  width="960">
 
 <br>
 #### ENDOFPAGE
@@ -22,7 +28,7 @@ tba.
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](osp-002-winscp.md)
-[NEXT](index.md)
+[PREV](index.md)
+[NEXT](osp-002-shutdown.md)
 <br>
 

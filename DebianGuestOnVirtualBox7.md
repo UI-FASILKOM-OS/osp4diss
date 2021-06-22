@@ -8,7 +8,7 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](DebianGuestOnVirtualBox6.md)
-[NEXT](DebianGuestOnVirtualBox8.md)
+[NEXT](DebianGuestExportOva.md)
 
 # New VirtualBox Guest: Network
 
@@ -51,5 +51,5 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](DebianGuestOnVirtualBox6.md)
-[NEXT](DebianGuestOnVirtualBox8.md)
+[NEXT](DebianGuestExportOva.md)
 

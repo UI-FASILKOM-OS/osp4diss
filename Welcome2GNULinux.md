@@ -7,8 +7,8 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](MoreDebianPackages.md)
-[NEXT](MoreGNULinux.md)
+[PREV](index.md)
+[NEXT](index.md)
 
 <br>
 # Welcome to GNU/Linux
@@ -48,7 +48,7 @@ The Complete Linux Course: Beginner to Power User! (7:23:52)<br>
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](MoreDebianPackages.md)
-[NEXT](MoreGNULinux.md)
+[PREV](index.md)
+[NEXT](index.md)
 <br>
 

@@ -7,8 +7,8 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](ExportImportGuests.md)
-[NEXT](UpdateDebian.md)
+[PREV](osp-002-putty.md)
+[NEXT](osp-002-winscp.md)
 
 <br>
 ## SSH from a GNU/Linux HOST
@@ -38,7 +38,7 @@ ssh -p 6022 cbkadal@localhost
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](ExportImportGuests.md)
-[NEXT](UpdateDebian.md)
+[PREV](osp-002-putty.md)
+[NEXT](osp-002-winscp.md)
 <br>
 

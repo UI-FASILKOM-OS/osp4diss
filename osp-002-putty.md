@@ -7,8 +7,8 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](ExportImportGuests.md)
-[NEXT](UpdateDebian.md)
+[PREV](osp-002-login.md)
+[NEXT](osp-002-ssh.md)
 
 <br>
 # PUTTY
@@ -73,7 +73,7 @@ exit
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](ExportImportGuests.md)
-[NEXT](UpdateDebian.md)
+[PREV](osp-002-login.md)
+[NEXT](osp-002-ssh.md)
 <br>
 

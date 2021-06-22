@@ -7,21 +7,14 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](ExportImportGuests.md)
-[NEXT](UpdateDebian.md)
-
-# Starting a Debian Guest (Eg. D105-W200831)
-
-<img src="pictures/WK-OSP-06.jpg"  width="960">
-
-<img src="pictures/H-OSP-04.jpg"  width="960">
-
-<img src="pictures/H-OSP-05.jpg"  width="960">
+[PREV](osp-002-shutdown.md)
+[NEXT](osp-002-putty.md)
 
 <br>
-## HIT "ALT-F1"
+# login from console (tty1)
 
-* login from console (tty1) as "root"
+* HIT "ALT-F1"
+* User: root
 
 <img src="pictures/WK-OSP-07.jpg"  width="960">
 
@@ -58,7 +51,7 @@ w
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](ExportImportGuests.md)
-[NEXT](UpdateDebian.md)
+[PREV](osp-002-shutdown.md)
+[NEXT](osp-002-putty.md)
 <br>
 

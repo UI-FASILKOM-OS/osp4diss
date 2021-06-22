@@ -7,15 +7,15 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](ExportImportGuests.md)
-[NEXT](UpdateDebian.md)
+[PREV](osp-002-startup.md)
+[NEXT](osp-002-login.md)
 
 # Shutdown a Debian Guest
 
 <br>
-## ALT-F1 (console/tty1)
+## RUN: Shutdown from console/tty1 (ALT-F1)
 
-* shutdown from console/tty1
+* user: root
 
 ```
 shutdown -h now
@@ -23,6 +23,16 @@ shutdown -h now
 ```
 
 <img src="pictures/WK-OSP-18.jpg"  width="960">
+
+<br>
+## PR RUN: poweroff from console/tty1 (ALT-F1)
+
+* user: root
+
+```
+poweroff
+
+```
 
 <br>
 ## OR: ACPI SHUTDOWN
@@ -37,7 +47,7 @@ shutdown -h now
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](ExportImportGuests.md)
-[NEXT](UpdateDebian.md)
+[PREV](osp-002-startup.md)
+[NEXT](osp-002-login.md)
 <br>
 
