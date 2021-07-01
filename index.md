@@ -9,11 +9,6 @@
 [BOTTOM](#endofpage)
 
 <br>
-# Basic Command Lines and VI Editor Tutorial
-
-* [Introduction to GNU/Linux](Welcome2GNULinux.md)
-
-<br>
 # VirtualBox Guest Preparation
 
 * [FDM: Free Download Manager (Optional)](InstallFDM.md)
@@ -54,13 +49,11 @@
 * [Login with SSH](osp-002-ssh.md)
 * [WINSCP](osp-002-winscp.md)
 * [SCP](osp-002-scp.md)
-* [Making and encrypting a tarball](osp-001.md)
-* [FUSE Demo](osp-100.md)
-* [TOP Demo](osp-101.md)
-* [Windows10 (Kleopatra)](CBKadal3.md)
-* [Log Codes](ETC/logCodes.txt)
-* [OS Public Key](ETC/ospubkey.txt)
-* [X11 Windows 10](osp-003.md)
+
+<br>
+# Tutorial
+
+* [Introduction to GNU/Linux](Welcome2GNULinux.md)
 
 <br>
 # ##
@@ -82,6 +75,16 @@
 * [Cicak Bin Kadal Assignment Week 08](W08.md)
 * [Cicak Bin Kadal Assignment Week 09](W09.md)
 * [Cicak Bin Kadal Assignment Week 10](W10.md)
+
+<br>
+# ##
+* [Making and encrypting a tarball](osp-001.md)
+* [FUSE Demo](osp-100.md)
+* [TOP Demo](osp-101.md)
+* [Windows10 (Kleopatra)](CBKadal3.md)
+* [Log Codes](ETC/logCodes.txt)
+* [OS Public Key](ETC/ospubkey.txt)
+* [X11 Windows 10](osp-003.md)
 
 <br>
 <hr>
