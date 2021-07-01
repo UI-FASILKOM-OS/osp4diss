@@ -59,14 +59,15 @@ There are too many "GNU/Linux" sites around, do your own GSGS!
 [![A Beginner's Introduction to BASH Shell Scripting](https://img.youtube.com/vi/_n5ZegzieSQ/0.jpg)](https://www.youtube.com/watch?v=_n5ZegzieSQ)
 
 <br>
-## SED
+## SED (Stream Editor)
 
+* GNU sed, a stream editor <https://www.gnu.org/software/sed/manual/sed.pdf>
 * Using sed and RegEx
 
 [![Using sed and RegEx](https://img.youtube.com/vi/QaGhpqRll_k/0.jpg)](https://www.youtube.com/watch?v=QaGhpqRll_k)
 
 <br>
-## AWK
+## AWK (Aho, Weinberger, and Kernighan)
 
 * GAWK: Effective AWK Programming <https://www.gnu.org/software/gawk/manual/gawk.pdf>
 * Why Use CAT Or GREP When You Can AWK?
