@@ -15,6 +15,10 @@
 
 There are too many "GNU/Linux" sites around, do your own GSGS! 
 
+* Linux Sucks 2021 --- The End of Linux is Nigh
+
+[![Linux Sucks 2021](https://img.youtube.com/vi/WtJ9T_IJOPE/0.jpg)](https://www.youtube.com/watch?v=WtJ9T_IJOPE)
+
 <br>
 ## Basic Command Lines
 
