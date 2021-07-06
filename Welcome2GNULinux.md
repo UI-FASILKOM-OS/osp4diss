@@ -11,7 +11,7 @@
 [NEXT](index.md)
 
 <br>
-# Welcome to GNU/Linux
+# Introduction to GNU/Linux
 
 There are too many "GNU/Linux" sites around, do your own GSGS! 
 
