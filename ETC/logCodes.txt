@@ -1,4 +1,4 @@
-# REV05 Wed 07 Jul 2021 20:03:36 WIB
+# REV06 Wed 07 Jul 2021 20:15:07 WIB
 # REV04 Sun 21 Feb 2021 11:15:43 WIB
 # REV03 Thu Sep 24 11:51:01 WIB 2020
 # REV02 Tue Sep 22 21:16:52 WIB 2020
@@ -49,16 +49,18 @@ L60 Reinstall/Restore/Backup Computer after crash
 L61 Reinstall/Restore/Backup Virtual Box
 L62 Reinstall/Restore/Backup Virtual Debian Guest
 L63 Fixing Hardware Problems
+L64 Helping OS related problem to a friend.
 L70 Studying for other courses.
 L71 Working  (General)
 L72 Online Related Job, merchant, etc.
-LXX Gaming
+L73 Gaming
 L80 Waching: Movie, YouTube, TV, etc.
-LXX Listening: Radio, Music, etc.
-LXX Reading Book (paper or online)
-L81 Pets: feeding, playing, etc
-L82 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
-L83 Baby Sit and/or Oma/Opa Sit
-L84 Relax, Rest, and Sleep
-L84 Else that is not related with this Operating Systems class.
+L81 Listening: Radio, Music, etc.
+L82 Reading Book (paper or online)
+L83 Pets: feeding, playing, etc
+L84 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+L85 Baby Sit and/or Oma/Opa Sit
+L86 Relax, Rest, and Sleep
+L87 Else that is not related with this Operating Systems class.
 L99 Other (...)
+
