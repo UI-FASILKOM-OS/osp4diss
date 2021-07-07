@@ -1,3 +1,4 @@
+# REV05 Wed 07 Jul 2021 20:03:36 WIB
 # REV04 Sun 21 Feb 2021 11:15:43 WIB
 # REV03 Thu Sep 24 11:51:01 WIB 2020
 # REV02 Tue Sep 22 21:16:52 WIB 2020
@@ -8,33 +9,53 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
-L00 General Log
-L01 SCELE related
-L02 ZOOM related
+L00 General, etc.
+L01 SCELE/Discord related
+L02 ZOOM meetings related
 L03 GitHub related
-L04 GitHub Pages: setting, etc.
-L05 GSGS related
-L06 Reading References/Books/Documents
+L04 GitHub Pages related
+L05 Quiz related
+L06 References/Books/Documents/GSGS related
 L07 Demo related
-L08 Trying something
-L09 AsDos: asking, etc.
-L10 Assignment (General)
-L11 Assignment #1
-L12 Assignment #2
-L13 Assignment #3
-L14 Assignment #4
-L15 Assignment #5
-L16 Assignment #6
-L17 Assignment #7
-L18 Assignment #8
-L19 Assignment #9
-L20 Assignment #10 or more.
-L25 C-language: study, etc.
-L23 Discord: discussion, etc.
-L26 Movie: relax, etc.
-L27 Pets: feeding, playing, etc
-L24 Udacity: study, etc.
-L21 VirtualBox: install GNU/Linux, etc.
-L22 YouTube: study, etc.
+L08 AsDos: asking, etc.
+L09 Assignment in General
+L10 Assignment #00
+L11 Assignment #01
+L12 Assignment #02
+L13 Assignment #03
+L14 Assignment #04
+L15 Assignment #05
+L16 Assignment #06
+L17 Assignment #07
+L18 Assignment #08
+L19 Assignment #09
+L20 Assignment #10
+L21 Trying something
+L22 Quiz
+L23 Linux CLI including tar, etc.
+L24 Bash, Regex, SED, AWK.
+L25 Scripting
+L26 C-language
+L27 GnuPG, key-gen, encrypt/decrypt.
+L28 SSH, key-gen, tunneling, putty, winscp
+L29 Jekyll, including Ruby.
+L30 Udacity: study, etc.
+L31 VirtualBox: install GNU/Linux, etc.
+L32 YouTube: study, etc.
+L60 Reinstall/Restore/Backup Computer after crash
+L61 Reinstall/Restore/Backup Virtual Box
+L62 Reinstall/Restore/Backup Virtual Debian Guest
+L63 Fixing Hardware Problems
+L70 Studying for other courses.
+L71 Working  (General)
+L72 Online Related Job, merchant, etc.
+LXX Gaming
+L80 Waching: Movie, YouTube, TV, etc.
+LXX Listening: Radio, Music, etc.
+LXX Reading Book (paper or online)
+L81 Pets: feeding, playing, etc
+L82 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+L83 Baby Sit and/or Oma/Opa Sit
+L84 Relax, Rest, and Sleep
+L84 Else that is not related with this Operating Systems class.
 L99 Other (...)
-
