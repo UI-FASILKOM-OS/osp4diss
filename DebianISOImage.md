@@ -12,7 +12,7 @@
 
 # Downloading Debian Netinst with Free Download Manager
 
-## NOTE: The current Debian image version is <span style="color:red; font-weight:bold; font-size:larger;">10.9.0</span>
+## NOTE: The current Debian image version is <span style="color:red; font-weight:bold; font-size:larger;">10.10.0</span>
 
 ### (The image version in this example is 10.5.0)
 
