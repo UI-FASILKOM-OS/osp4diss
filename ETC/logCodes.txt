@@ -58,9 +58,9 @@ L80 Waching: Movie, YouTube, TV, etc.
 L81 Listening: Radio, Music, etc.
 L82 Reading Book (paper or online)
 L83 Pets: feeding, playing, etc
-L84 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+L84 Relax, Rest, and Sleep
 L85 Baby Sit and/or Oma/Opa Sit
-L86 Relax, Rest, and Sleep
+L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
 L87 Else that is not related with this Operating Systems class.
 L99 Other (...)
 
