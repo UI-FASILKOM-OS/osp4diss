@@ -1,5 +1,7 @@
 #!/bin/bash
 # Wed 07 Jul 2021 21:30:42 WIB
 
-echo "xyzzy: Nothing happens"
+echo -n "xyzzy.."
+sleep 1
+echo ". Nothing happens..."
 
