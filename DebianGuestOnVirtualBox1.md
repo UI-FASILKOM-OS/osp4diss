@@ -7,7 +7,7 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](SSHGuest.md)
+[PREV](index.md)
 [NEXT](DebianGuestOnVirtualBox2.md)
 
 # Creating a NEW empty VirtualBox Guest
@@ -66,6 +66,6 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](SSHGuest.md)
+[PREV](index.md)
 [NEXT](DebianGuestOnVirtualBox2.md)
 

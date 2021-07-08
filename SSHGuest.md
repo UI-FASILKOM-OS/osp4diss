@@ -8,7 +8,7 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](InstallVirtualBox.md)
-[NEXT](DebianGuestOnVirtualBox1.md)
+[NEXT](index.md)
 
 # Downloanding PUTTY and WINSCP
 
@@ -59,6 +59,6 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](InstallVirtualBox.md)
-[NEXT](DebianGuestOnVirtualBox1.md)
+[NEXT](index.md)
 <br>
 

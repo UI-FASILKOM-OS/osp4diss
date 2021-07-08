@@ -8,12 +8,46 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 
+<br id="idx00"><br>
+Welcome to the Operating System Programming for DISS site.
+The following is a step-by-step guide to set up a Virtual Debian Guest on VirtualBox.
 <br>
+
 # VirtualBox Guest Preparation
+
+You need a hypervisor, i.e., VirtualBox.
+It can be installed on Windows 10, macOS, or Linux.
+Using a Download Manager might help for a less reliable internet connection.
+For Windows 10, you also need to install PUTTY and WINSCP.
 
 * [FDM: Free Download Manager (Optional)](InstallFDM.md)
 * [Downloading and Installing VirtualBox](InstallVirtualBox.md)
 * [Downloading and Installing PUTTY and WINSCP](SSHGuest.md)
+
+<br id="idx01">
+# Import/Export/Delete a Virtual Guest
+
+* [Exporting a VirtualBox Guest (OVA)](DebianGuestExportOva.md)
+* [Importing a VirtualBox Guest with a different Name](DebianGuestImportOva.md)
+* [Export Import VirtualBox Guest(s)](ExportImportGuests.md)
+* [Deleting Debian VirtualBox Guest(s)](DebianGuestDeleteOva.md)
+
+<br id="idx02">
+# Importing OVA or Installing ISO?
+
+You might import a pre-installed OVA file (option 1), 
+or you might install a Debian Guest from scratch (option 2).
+
+<br id="idx02a">
+## Option 1: Importing a VirtualBox Debian Guest (OVA File)
+
+* For importing a Debian 10 OVA Image:
+  * [LFS-00-README.txt](https://bit.ly/3t1bEw3)
+  * [LFS-00.ova](https://bit.ly/3u2qO5G) (350 MB)
+
+<br id="idx02a">
+## Option 2: Installing a VirtualBox Debian Guest (ISO File)
+
 * [VirtualBox: NEW EMPTY Guest with 2 x 64GB disks](DebianGuestOnVirtualBox1.md)
 * [VirtualBox: General](DebianGuestOnVirtualBox2.md)
 * [VirtualBox: System](DebianGuestOnVirtualBox3.md)
@@ -21,21 +55,6 @@
 * [VirtualBox: Storage](DebianGuestOnVirtualBox5.md)
 * [VirtualBox: Audio](DebianGuestOnVirtualBox6.md)
 * [VirtualBox: Network](DebianGuestOnVirtualBox7.md)
-* [Exporting a VirtualBox Guest (OVA)](DebianGuestExportOva.md)
-* [Importing a VirtualBox Guest with a different Name](DebianGuestImportOva.md)
-* [Export Import VirtualBox Guest(s)](ExportImportGuests.md)
-* [Deleting Debian VirtualBox Guest(s)](DebianGuestDeleteOva.md)
-
-<br>
-# Option 1: Importing a VirtualBox Debian Guest (OVA File)
-
-* For importing a Debian 10 OVA Image:
-  * [LFS-00-README.txt](https://bit.ly/3t1bEw3)
-  * [LFS-00.ova](https://bit.ly/3u2qO5G) (350 MB)
-
-<br>
-# Option 2: Installing a VirtualBox Debian Guest (ISO File)
-
 * [Downloading Debian ISO Image](DebianISOImage.md)
 * [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.md)
 
