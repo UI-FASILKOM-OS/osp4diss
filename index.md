@@ -45,7 +45,7 @@ or you might install a Debian Guest from scratch (option 2).
   * [LFS-00-README.txt](https://bit.ly/3t1bEw3)
   * [LFS-00.ova](https://bit.ly/3u2qO5G) (350 MB)
 
-<br id="idx02a">
+<br id="idx02b">
 ## Option 2: Installing a VirtualBox Debian Guest (ISO File)
 
 * [VirtualBox: NEW EMPTY Guest with 2 x 64GB disks](DebianGuestOnVirtualBox1.md)
