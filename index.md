@@ -67,12 +67,18 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [SCP](osp-002-scp.md)
 * **Tutorial**:
   [Study some Command Lines, Editor, Regular Expression (regex), and String Processing](Welcome2GNULinux.md)
+* Name your virtual guest as "Guest-01a".
+* Export your virtual guest to an OVA file. E.g. "Guest-01a.ova".
 
 <br>
-# XYZZY
-* [Updating Debian Packages](UpdateDebian.md)
-* [Adding Debian Packages](MoreDebianPackages.md)
+# Dress Up Your Virtual Guest
+
+* Import your virtual guest from "Guest-01a.ova".
+* [Update Your Debian Guest](osp-102.md)
+* [Adding Debian Packages](osp-103.md)
 * [More VirtualBox Guest Settings](MoreGNULinux.md)
+* Rename the Guest to "Guest-01b".
+* Export your virtual guest to an OVA file. E.g. "OS212-01b.ova".
 
 <br>
 # Assignments
@@ -109,4 +115,5 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 [TOP](#)
 [BOTTOM](#endofpage)
 <br>
+
 

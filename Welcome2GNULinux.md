@@ -7,7 +7,7 @@
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
+[PREV](osp-002-scp.md)
 [NEXT](index.md)
 
 <br>
@@ -86,7 +86,7 @@ There are too many "GNU/Linux" sites around, do your own GSGS!
 [GITHUB](https://github.com/UI-FASILKOM-OS/osp4diss/)
 [TOP](#)
 [BOTTOM](#endofpage)
-[PREV](index.md)
+[PREV](osp-002-scp.md)
 [NEXT](index.md)
 <br>
 

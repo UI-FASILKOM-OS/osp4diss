@@ -8,7 +8,7 @@
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](osp-002-winscp.md)
-[NEXT](index.md)
+[NEXT](Welcome2GNULinux.md)
 
 ## SCP
 
@@ -95,6 +95,6 @@ cbkadal@osp:~$
 [TOP](#)
 [BOTTOM](#endofpage)
 [PREV](osp-002-winscp.md)
-[NEXT](index.md)
+[NEXT](Welcome2GNULinux.md)
 <br>
 
