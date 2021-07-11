@@ -89,7 +89,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [Cicak Bin Kadal Assignment Week 10](W10.md)
 
 <br>
-# ##
+# PLUGH
 * [Making and encrypting a tarball](osp-001.md)
 * [FUSE Demo](osp-100.md)
 * [TOP Demo](osp-101.md)
