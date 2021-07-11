@@ -35,9 +35,6 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 <br id="idx02">
 # Importing OVA or Installing ISO?
 
-You might import a pre-installed OVA file (option 1), 
-or you might install a Debian Guest from scratch (option 2).
-
 <br id="idx02a">
 ## Option 1: Importing a VirtualBox Debian Guest (OVA File)
 
@@ -58,7 +55,7 @@ or you might install a Debian Guest from scratch (option 2).
 * [Downloading Debian ISO Image](DebianISOImage.md)
 * [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.md)
 
-<br>
+<br id="idx03">
 # Running a VirtualBox Debian Guest (both OVA or ISO)
 
 * [Startup a VirtualBox Guest](osp-002-startup.md)
