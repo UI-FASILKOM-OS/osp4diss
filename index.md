@@ -65,15 +65,11 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [Login with SSH](osp-002-ssh.md)
 * [WINSCP](osp-002-winscp.md)
 * [SCP](osp-002-scp.md)
+* **Tutorial**:
+  [Study some Command Lines, Editor, Regular Expression (regex), and String Processing](Welcome2GNULinux.md)
 
 <br>
-# Tutorial
-
-* [Introduction to GNU/Linux](Welcome2GNULinux.md)
-
-<br>
-# ##
-
+# XYZZY
 * [Updating Debian Packages](UpdateDebian.md)
 * [Adding Debian Packages](MoreDebianPackages.md)
 * [More VirtualBox Guest Settings](MoreGNULinux.md)
