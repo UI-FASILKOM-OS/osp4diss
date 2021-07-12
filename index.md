@@ -76,6 +76,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * Import your virtual guest from "Guest-01a.ova".
 * [Update Your Debian Guest](osp-102.md)
 * [Adding Debian Packages](osp-103.md)
+* [Adding UserName](osp-104.md)
 * [More VirtualBox Guest Settings](MoreGNULinux.md)
 * Rename the Guest to "Guest-01b".
 * Export your virtual guest to an OVA file. E.g. "OS212-01b.ova".
