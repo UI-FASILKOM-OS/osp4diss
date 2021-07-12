@@ -86,8 +86,8 @@ cbkadal@osp:~$
 
 ```
 
-<br>
-#### ENDOFPAGE
+<br id="endofpage"><br>
+
 [HOME](index.md)
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)

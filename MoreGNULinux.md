@@ -269,8 +269,8 @@ h
 
 <img src="pictures/LK-OSP-04.jpg" width="960">
 
-<br>
-#### ENDOFPAGE
+<br id="endofpage"><br>
+
 [HOME](index.md)
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)

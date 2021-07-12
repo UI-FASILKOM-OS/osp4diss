@@ -40,8 +40,8 @@
 
 <img src="pictures/osp21-40.jpg"  width="960">
 
-<br>
-#### ENDOFPAGE
+<br id="endofpage"><br>
+
 [HOME](index.md)
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)

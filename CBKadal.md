@@ -517,8 +517,8 @@ git stat
 
 <img src="pictures/cbkadal-14.jpg" width="960">
 
-<br>
-#### ENDOFPAGE
+<br id="endofpage"><br>
+
 [HOME](index.md)
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)

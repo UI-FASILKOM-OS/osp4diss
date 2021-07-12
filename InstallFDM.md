@@ -52,8 +52,8 @@ Otherwise, you can download with a regular browser like Firefox or install the <
 
 <img src="pictures/C-OSP-08.jpg"  width="960">
 
-<br>
-#### ENDOFPAGE
+<br id="endofpage"><br>
+
 [HOME](index.md)
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)

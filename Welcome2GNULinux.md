@@ -78,8 +78,8 @@ There are too many "GNU/Linux" sites around, do your own GSGS!
 
 [![Why Use CAT Or GREP When You Can AWK?](https://img.youtube.com/vi/8q8DHmA9puw/0.jpg)](https://www.youtube.com/watch?v=8q8DHmA9puw)
 
-<br>
-#### ENDOFPAGE
+<br id="endofpage"><br>
+
 [HOME](index.md)
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)

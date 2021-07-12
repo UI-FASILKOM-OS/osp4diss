@@ -39,8 +39,7 @@ Exporting the **PUBLIC KEY**.
 ```
 <img src="pictures/WL-OSP-06.jpg"  width="960">
 
-<br>
-#### ENDOFPAGE
+<br id="endofpage"><br>
 [HOME](index.md)
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)

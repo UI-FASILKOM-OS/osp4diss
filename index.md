@@ -107,8 +107,8 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 
 <br>
 <hr>
-<br>
-#### ENDOFPAGE
+<br id="endofpage"><br>
+
 [HOME](index.md)
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)

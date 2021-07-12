@@ -45,8 +45,8 @@ Otherwise, you can download with a regular browser like Firefox or you can insta
 
 <br>
 ## Your Debian ISO image is ready!
-<br>
-#### ENDOFPAGE
+<br id="endofpage"><br>
+
 [HOME](index.md)
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)

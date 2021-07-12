@@ -33,9 +33,8 @@
 
 <img src="pictures/J-OSP-03.jpg"  width="960">
 
+<br id="endofpage"><br>
 
-<br>
-#### ENDOFPAGE
 [HOME](index.md)
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)

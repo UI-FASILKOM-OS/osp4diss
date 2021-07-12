@@ -122,10 +122,8 @@ apt-get install $DEBS -y
 
 ```
 
+<br id="endofpage"><br>
 
-
-<br>
-#### ENDOFPAGE
 [HOME](index.md)
 [ABOUT](README.md)
 [WEB](https://osp4diss.vlsm.org/)
