@@ -22,7 +22,8 @@
 ### Display: Screen
 
 * Scale Factor: 150%
-  * Adjust the screen size if it is too small or too larga.
+  * <span style="color:red; font-weight:bold; font-size:larger;">Adjust the screen size if it is too small or too large.</span>
+
 
 <img src="pictures/osp21-13.jpg"  width="960">
 

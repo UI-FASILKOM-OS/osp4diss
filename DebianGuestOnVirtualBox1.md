@@ -14,7 +14,7 @@
 
 * You should adjust these following according to your own belief and faith.
   * Name: **DEB10-00-0-64G+64G-EMPTY** (<span style="color:red; font-weight:bold; font-size:larger;">your may choose a different guest name</span>).
-  * Processors (Cores): 6 (check your CPU!)
+  * Processors (Cores): 2 (check your CPU!)
   * Memory = 1024 MB (512MB is OK too!)
   * Storage1 = 64 GB (dynamically allocated)
   * Storage2 = 64 GB (dynamically allocated)

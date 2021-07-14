@@ -24,7 +24,7 @@
 <img src="pictures/osp21-10.jpg"  width="960">
 
 <br>
-### System: Processors (6)
+### System: Processors (2)
 
 * How many cores are available?
 

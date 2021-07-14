@@ -18,10 +18,12 @@
 * You should adjust these following according to your own belief and faith.
   * Hostname: cbkadal
   * Domain: none
-  * Root/Pass: root/osp
+  * Root/Pass: root/cbkadal
   * UserName/Account/Pass: Cicak Bin Kadal/cbkadal/cbkadal
   * Disk #1 (64 GB): 256MB swap and "/" (root partition).
   * Disk #2 (64 GB): 256MB swap and "/mnt/lfs/" (partition).
+  * <span style="color:red; font-weight:bold; font-size:larger;">You 
+    might want to enlarge the SWAP size</span>
 
 <br>
 ## Import an EMPTY VirtualBox Guest
@@ -51,14 +53,14 @@
 ### Open an ISO Image
 
 * Eg. debian-10.7.0-amd64-netinst.iso
-* Check if this is the latest version!
+  <span style="color:red; font-weight:bold; font-size:larger;">(Check if this is the latest version!)</span>
 
 <img src="pictures/osp21-43.jpg"  width="960">
 
 <br>
 ### Eg. Choose: debian-10.7.0-amd64-netinst.iso
 
-* Check if this is the latest version!
+* <span style="color:red; font-weight:bold; font-size:larger;">(Check if this is the latest version!)</span>
 
 <img src="pictures/osp21-44.jpg"  width="960">
 
@@ -125,7 +127,7 @@
 <br>
 ### Configure The Network
 
-* Hostname: osp
+* Hostname: cbkadal
 
 <img src="pictures/osp21-57.jpg"  width="960">
 
@@ -136,7 +138,7 @@
 <br>
 ### Set Up Users And Passwords
 
-* Root Password: osp
+* Root Password: cbkadal
 
 <img src="pictures/osp21-59.jpg"  width="960">
 

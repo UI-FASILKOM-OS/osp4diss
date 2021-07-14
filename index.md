@@ -39,8 +39,8 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 ## Option 1: Importing a VirtualBox Debian Guest (OVA File)
 
 * For importing a Debian 10 OVA Image:
-  * [LFS-00-README.txt](https://bit.ly/3t1bEw3)
-  * [LFS-00.ova](https://bit.ly/3u2qO5G) (350 MB)
+  * [LFS-00-README.txt](https://bit.ly/3B12SU6)
+  * [LFS-00.ova](https://bit.ly/36z3diC) (346 MB)
 
 <br id="idx02b">
 ## Option 2: Installing a VirtualBox Debian Guest (ISO File)
