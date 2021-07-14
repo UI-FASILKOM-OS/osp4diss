@@ -46,9 +46,9 @@ There are too many "GNU/Linux" sites around, do your own GSGS!
 <br>
 ## Regular Expressions (REGEX)
 
-* Basic Regular Expressions in 20 minutes
+* Basic Regular Expressions in 15 minutes
 
-[![Basic Regular Expressions in 20 minutes](https://img.youtube.com/vi/rhzKDrUiJVk/0.jpg)](https://www.youtube.com/watch?v=rhzKDrUiJVk)
+[![Basic Regular Expressions in 15 minutes](https://img.youtube.com/vi/bgBWp9EIlMM/0.jpg)](https://www.youtube.com/watch?v=bgBWp9EIlMM)
 
 <br>
 ## Bash Scripting
@@ -74,9 +74,18 @@ There are too many "GNU/Linux" sites around, do your own GSGS!
 ## AWK (Aho, Weinberger, and Kernighan)
 
 * GAWK: Effective AWK Programming <https://www.gnu.org/software/gawk/manual/gawk.pdf>
-* Why Use CAT Or GREP When You Can AWK?
+* Learn the Basics of AWK (20 minutes)
 
-[![Why Use CAT Or GREP When You Can AWK?](https://img.youtube.com/vi/8q8DHmA9puw/0.jpg)](https://www.youtube.com/watch?v=8q8DHmA9puw)
+[![Learn the Basics of AWK](https://img.youtube.com/vi/9YOZmI-zWok/0.jpg)](https://www.youtube.com/watch?v=9YOZmI-zWok)
+
+<br>
+## The MAN (Manual) Tutorial
+
+* [Linux Documentations](https://linux.die.net/)
+* A Quick Tutorial (4 minutes)
+
+[![Linux Man Pages - A Quick Tutorial](https://img.youtube.com/vi/uJnrh9hAQR0/0.jpg)](https://www.youtube.com/watch?v=uJnrh9hAQR0)
+
 
 <br id="endofpage"><br>
 
