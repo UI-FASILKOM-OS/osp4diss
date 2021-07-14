@@ -39,13 +39,13 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 ## Option 1: Importing a VirtualBox Debian Guest (OVA File)
 
 * For importing a Debian 10 OVA Image:
-  * [LFS-00-README.txt](https://bit.ly/3B12SU6)
-  * [LFS-00.ova](https://bit.ly/36z3diC) (346 MB)
+  * [DEBIAN-10.10-README.txt](https://bit.ly/3B12SU6)
+  * [DEBIAN-10.10.ova](https://bit.ly/36z3diC) (346 MB)
 
 <br id="idx02b">
 ## Option 2: Installing a VirtualBox Debian Guest (ISO File)
 
-* [VirtualBox: NEW EMPTY Guest with 2 x 64GB disks](DebianGuestOnVirtualBox1.md)
+* [VirtualBox: NEW EMPTY Guest with 2 x 64GB disks](DebianGuestOnVirtualBox1.md) (E.g. DEB10-00-0-64G+64G-EMPTY)
 * [VirtualBox: General](DebianGuestOnVirtualBox2.md)
 * [VirtualBox: System](DebianGuestOnVirtualBox3.md)
 * [VirtualBox: Display](DebianGuestOnVirtualBox4.md)
@@ -54,10 +54,13 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [VirtualBox: Network](DebianGuestOnVirtualBox7.md)
 * [Downloading Debian ISO Image](DebianISOImage.md)
 * [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.md)
+* Export your Virtual Guest as "DEB00-00-1-INSTALL.ova"
 
 <br id="idx03">
 # Running a VirtualBox Debian Guest (both OVA or ISO)
 
+* Import "DEBIAN-10.10.ova" or "DEB00-00-1-INSTALL.ova"
+* Rename your Virtual Guest as "Guest-01a".
 * [Startup a VirtualBox Guest](osp-002-startup.md)
 * [Shutdown a VirtualBox Guest](osp-002-shutdown.md)
 * [Login from a Console](osp-002-login.md)
@@ -67,20 +70,20 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [SCP](osp-002-scp.md)
 * **Tutorial**:
   [Study some Command Lines, Editor, Regular Expression (regex), and String Processing](Welcome2GNULinux.md)
-* Name your virtual guest as "Guest-01a".
 * Export your virtual guest to an OVA file. E.g. "Guest-01a.ova".
 
 <br>
 # Dress Up Your Virtual Guest
 
 * Import your virtual guest from "Guest-01a.ova".
+* Rename the Guest to "Guest-01b".
 * [Update Your Debian Guest](osp-102.md)
 * [Adding Debian Packages](osp-103.md)
-* [Adding UserName](osp-104.md)
-* [Hostname](osp-105.md)
-* [BASH_ALIASES](osp-106.md)
-* Rename the Guest to "Guest-01b".
-* Export your virtual guest to an OVA file. E.g. "OS212-01b.ova".
+* [Adding UserName](osp-104.md) -- E.g. ''dummy'' and ''CicakBinKadal'')
+* [Rename Hostname](osp-105.md)
+* [bash_profile](osp-106.md)
+* [vimrc](osp-107.md)
+* Export your virtual guest to an OVA file. E.g. "Guest-01b.ova".
 
 <br>
 # Assignments
