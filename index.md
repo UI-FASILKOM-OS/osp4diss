@@ -79,10 +79,12 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * Rename the Guest to "Guest-01b".
 * [Update Your Debian Guest](osp-102.md)
 * [Adding Debian Packages](osp-103.md)
-* [Adding UserName](osp-104.md) -- E.g. ''dummy'' and ''CicakBinKadal'')
+* [Adding UserName](osp-104.md) -- E.g. "dummy" and "CicakBinKadal"
 * [Rename Hostname](osp-105.md)
-* [bash_profile](osp-106.md)
-* [vimrc](osp-107.md)
+* [.bash_profile](osp-106.md)
+* [.vimrc](osp-107.md)
+* [.bash_aliases](osp-108.md)
+* [SUPERUSER](osp-109.md)
 * Export your virtual guest to an OVA file. E.g. "Guest-01b.ova".
 
 <br>
