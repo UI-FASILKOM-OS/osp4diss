@@ -11,8 +11,16 @@
 <br id="idx00"><br>
 Welcome to the Operating System Programming for DISS site.
 The following is a step-by-step guide to set up a Virtual Debian Guest on VirtualBox.
-<br>
 
+# TOC
+
+* [Introduction](#idx00)
+* [VirtualBox Guest Preparation](#idx00a)
+* [Import/Export/Delete a Virtual Guest](idx01)
+  * [Option 1: Importing a VirtualBox Debian Guest (OVA File)](#idx02a)
+  * [Option 2: Installing a VirtualBox Debian Guest (ISO File)](#idx02b)
+
+<br id="idx00a">
 # VirtualBox Guest Preparation
 
 You need a hypervisor, i.e., VirtualBox.
@@ -72,7 +80,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
   [Study some Command Lines, Editor, Regular Expression (regex), and String Processing](Welcome2GNULinux.md)
 * Export your virtual guest to an OVA file. E.g. "Guest-01a.ova".
 
-<br>
+<br id="idx04">
 # Dress Up Your Virtual Guest
 
 * Import your virtual guest from "Guest-01a.ova".
@@ -86,6 +94,9 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [.bash_aliases](osp-108.md)
 * [SUPERUSER](osp-109.md)
 * Export your virtual guest to an OVA file. E.g. "Guest-01b.ova".
+
+<br>
+# Github
 
 <br>
 # Assignments
