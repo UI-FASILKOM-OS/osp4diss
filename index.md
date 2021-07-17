@@ -72,7 +72,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 <br id="idx03">
 # Running a VirtualBox Debian Guest (both OVA or ISO)
 
-* Import "DEBIAN-10.10.ova" or "DEB00-00-1-INSTALL.ova"
+* Import "DEBIAN-10.10.ova" (Option 1) or "DEB00-00-1-INSTALL.ova" (Option 2).
 * Rename your Virtual Guest as "Guest-01a".
 * [Startup a VirtualBox Guest](osp-002-startup.md)
 * [Shutdown a VirtualBox Guest](osp-002-shutdown.md)
@@ -101,12 +101,12 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * Export your virtual guest to an OVA file. E.g. "Guest-01b.ova".
 
 <br id="idx05">
-# PULL from / PUSH to GitHub
+# PULL from / PUSH to GitHub.com
 
 * Import your virtual guest from "Guest-01b.ova".
 * Rename the Guest to "Guest-01c".
-* XX
-* XX
+* [SSH: Generating public/private rsa key pair](osp-110.md)
+* [SSH: Put a Public Key at GitHub.com](osp-111.md)
 * Export your virtual guest to an OVA file. E.g. "Guest-01c.ova".
 
 <br>
