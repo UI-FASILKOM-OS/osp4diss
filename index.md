@@ -13,10 +13,10 @@ Welcome to the Operating System Programming for DISS site.
 The following is a step-by-step guide to set up a Virtual Debian Guest on VirtualBox.
 
 <br id="idx00a">
-# TOC
+# Table of Contents
 
 * [Introduction](#idx00)
-* [VirtualBox Guest Preparation](#idx00a)
+* [VirtualBox Guest Preparation](#idx00b)
 * [Import/Export/Delete a Virtual Guest](#idx01)
 * [Importing OVA or Installing ISO?](#idx02)
   * [Option 1: Importing a VirtualBox Debian Guest (OVA File)](#idx02a)
@@ -40,10 +40,10 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 <br id="idx01">
 # Import/Export/Delete a Virtual Guest
 
-* [Exporting a VirtualBox Guest (OVA)](DebianGuestExportOva.md)
-* [Importing a VirtualBox Guest with a different Name](DebianGuestImportOva.md)
-* [Export Import VirtualBox Guest(s)](ExportImportGuests.md)
-* [Deleting Debian VirtualBox Guest(s)](DebianGuestDeleteOva.md)
+* [EXPORTing a VirtualBox Guest (OVA)](DebianGuestExportOva.md)
+* [IMPORTing a VirtualBox Guest with a different Name](DebianGuestImportOva.md)
+* [EXPORT IMPORT VirtualBox Guest(s)](ExportImportGuests.md)
+* [DELETING Debian VirtualBox Guest(s)](DebianGuestDeleteOva.md)
 
 <br id="idx02">
 # Importing OVA or Installing ISO?
@@ -67,13 +67,13 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [VirtualBox: Network](DebianGuestOnVirtualBox7.md)
 * [Downloading Debian ISO Image](DebianISOImage.md)
 * [Installing Debian Netinst Guest on VirtualBox](InstallDebianNetinst.md)
-* Export your Virtual Guest as "DEB00-00-1-INSTALL.ova"
+* [EXPORT](#idx01) your Virtual Guest as "DEB00-00-1-INSTALL.ova"
 
 <br id="idx03">
-# Running a VirtualBox Debian Guest (both OVA or ISO)
+# Running a VirtualBox Debian Guest (either OVA or ISO)
 
-* Import "DEBIAN-10.10.ova" (Option 1) or "DEB00-00-1-INSTALL.ova" (Option 2).
-* Rename your Virtual Guest as "Guest-01a".
+* [IMPORT](#idx01) "DEBIAN-10.10.ova" (Option 1) or "DEB00-00-1-INSTALL.ova" (Option 2).
+* [RENAME](#idx01) your Virtual Guest as "Guest-01a".
 * [Startup a VirtualBox Guest](osp-002-startup.md)
 * [Shutdown a VirtualBox Guest](osp-002-shutdown.md)
 * [Login from a Console](osp-002-login.md)
@@ -83,13 +83,13 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [SCP](osp-002-scp.md)
 * **Tutorial**:
   [Study some Command Lines, Editor, Regular Expression (regex), and String Processing](Welcome2GNULinux.md)
-* Export your virtual guest to an OVA file. E.g. "Guest-01a.ova".
+* [EXPORT](#idx01) your virtual guest to an OVA file. E.g. "Guest-01a.ova".
 
 <br id="idx04">
 # Dress Up Your Virtual Guest
 
-* Import your virtual guest from "Guest-01a.ova".
-* Rename the Guest to "Guest-01b".
+* [IMPORT your virtual guest from "Guest-01a.ova".
+* [RENAME](#idx01) the Guest to "Guest-01b".
 * [Update Your Debian Guest](osp-102.md)
 * [Adding Debian Packages](osp-103.md)
 * [Adding UserName](osp-104.md) -- E.g. "dummy" and "CicakBinKadal"
@@ -98,16 +98,16 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [.vimrc](osp-107.md)
 * [.bash_aliases](osp-108.md)
 * [SUPERUSER](osp-109.md)
-* Export your virtual guest to an OVA file. E.g. "Guest-01b.ova".
+* [EXPORT](#idx01) your virtual guest to an OVA file. E.g. "Guest-01b.ova".
 
 <br id="idx05">
 # PULL from / PUSH to GitHub.com
 
-* Import your virtual guest from "Guest-01b.ova".
+* [IMPORT](#idx01) your virtual guest from "Guest-01b.ova".
 * Rename the Guest to "Guest-01c".
 * [SSH: Generating public/private rsa key pair](osp-110.md)
 * [SSH: Put a Public Key at GitHub.com](osp-111.md)
-* Export your virtual guest to an OVA file. E.g. "Guest-01c.ova".
+* [EXPORT](#idx01) your virtual guest to an OVA file. E.g. "Guest-01c.ova".
 
 <br>
 # Assignments
