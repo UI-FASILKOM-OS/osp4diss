@@ -107,12 +107,13 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * Rename the Guest to "Guest-01c".
 * [SSH: Generating public/private rsa key pair](osp-110.md)
 * [SSH: Put a Public Key at GitHub.com](osp-111.md)
+* [GIT: .gitconfig](osp-112.md)
+* [GIT: cloning from GitHub.com](osp-113.md)
 * [EXPORT](#idx01) your virtual guest to an OVA file. E.g. "Guest-01c.ova".
 
 <br>
 # Assignments
 
-* [Cicak Bin Kadal part 01](CBKadal.md)
 * [Cicak Bin Kadal part 02](CBKadal2.md)
 * [Cicak Bin Kadal Assignment Week 03](W03.md)
 * [Cicak Bin Kadal Assignment Week 04](W04.md)
