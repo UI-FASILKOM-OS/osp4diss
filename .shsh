@@ -2,6 +2,5 @@
 # Wed 07 Jul 2021 21:30:42 WIB
 
 echo -n "xyzzy.."
-sleep 1
 echo ". Nothing happens..."
 
