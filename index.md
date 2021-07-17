@@ -109,6 +109,7 @@ For Windows 10, you also need to install PUTTY and WINSCP.
 * [SSH: Put a Public Key at GitHub.com](osp-111.md)
 * [GIT: .gitconfig](osp-112.md)
 * [GIT: cloning from GitHub.com](osp-113.md)
+* [mylog: Updating add commit push](osp-114.md)
 * [EXPORT](#idx01) your virtual guest to an OVA file. E.g. "Guest-01c.ova".
 
 <br>
